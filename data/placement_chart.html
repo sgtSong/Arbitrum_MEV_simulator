@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Tx Placement Scatter</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h3>Relative position inside block (tx index / tx count)</h3>
+    <canvas id="chart" width="900" height="480"></canvas>
+    <script>
+        const data = [{"label":"tx 0","data":[{"x":0,"y":0.16666666666666666,"round":1,"block":249632271,"hash":"0x2b29a37b69b149e84c9e95d3bdc7c8531ab5a02359b278c6ac050a971a2506cd"}],"showLine":false,"backgroundColor":"#1f77b4","borderColor":"#1f77b4","pointRadius":4},{"label":"tx 1","data":[{"x":1,"y":0.3333333333333333,"round":1,"block":249632271,"hash":"0x84cf495222f52a8a8b6f857bab2aed37ac1b58f863b0ffefa5878a2e69b2d812"}],"showLine":false,"backgroundColor":"#ff7f0e","borderColor":"#ff7f0e","pointRadius":4},{"label":"tx 2","data":[{"x":2,"y":0.5,"round":1,"block":249632271,"hash":"0x29b64e720781b65e0c5a116d8f859da4a2890a8ddf0a0961ba6baf45a9f7ff8f"}],"showLine":false,"backgroundColor":"#2ca02c","borderColor":"#2ca02c","pointRadius":4},{"label":"tx 3","data":[{"x":3,"y":0.6666666666666666,"round":1,"block":249632271,"hash":"0x41f627257d702cb50b0bad96b0043b2b2f0aea98bbed26802eea012dc01ad4dc"}],"showLine":false,"backgroundColor":"#d62728","borderColor":"#d62728","pointRadius":4},{"label":"tx 4","data":[{"x":4,"y":1,"round":1,"block":249632271,"hash":"0xbf484e539bc17188f3c08e0f86ee8b15523e8594a9e6196f22594420cc4d13eb"}],"showLine":false,"backgroundColor":"#9467bd","borderColor":"#9467bd","pointRadius":4},{"label":"tx 5","data":[{"x":5,"y":0.14285714285714285,"round":1,"block":249632272,"hash":"0x58814e61ee9990b04be49233271bd3d5f589973bba49c67fbc8accba8c06b35a"}],"showLine":false,"backgroundColor":"#8c564b","borderColor":"#8c564b","pointRadius":4},{"label":"tx 6","data":[{"x":6,"y":0.2857142857142857,"round":1,"block":249632272,"hash":"0xf4182ea51325d51376b79380ffdd148112a913bef52132e56785907075817e7e"}],"showLine":false,"backgroundColor":"#1f77b4","borderColor":"#1f77b4","pointRadius":4},{"label":"tx 7","data":[{"x":7,"y":0.42857142857142855,"round":1,"block":249632272,"hash":"0x59f411618560483f4111ed3d3f151842e0717abf9cf30179e265274c7448a302"}],"showLine":false,"backgroundColor":"#ff7f0e","borderColor":"#ff7f0e","pointRadius":4},{"label":"tx 8","data":[{"x":8,"y":0.5714285714285714,"round":1,"block":249632272,"hash":"0x2182713b13f625270a8dec27ac0355128ccb8f1ce0dcdf71762b01b264e6b068"}],"showLine":false,"backgroundColor":"#2ca02c","borderColor":"#2ca02c","pointRadius":4},{"label":"tx 9","data":[{"x":9,"y":0.7142857142857143,"round":1,"block":249632272,"hash":"0x43938c6f8af71eebc96ea75c848750319d095ce7444759cdae53b9c282dc785e"}],"showLine":false,"backgroundColor":"#d62728","borderColor":"#d62728","pointRadius":4},{"type":"line","label":"round 1 path","data":[{"x":0,"y":0.16666666666666666,"round":1,"block":249632271,"hash":"0x2b29a37b69b149e84c9e95d3bdc7c8531ab5a02359b278c6ac050a971a2506cd"},{"x":1,"y":0.3333333333333333,"round":1,"block":249632271,"hash":"0x84cf495222f52a8a8b6f857bab2aed37ac1b58f863b0ffefa5878a2e69b2d812"},{"x":2,"y":0.5,"round":1,"block":249632271,"hash":"0x29b64e720781b65e0c5a116d8f859da4a2890a8ddf0a0961ba6baf45a9f7ff8f"},{"x":3,"y":0.6666666666666666,"round":1,"block":249632271,"hash":"0x41f627257d702cb50b0bad96b0043b2b2f0aea98bbed26802eea012dc01ad4dc"},{"x":4,"y":1,"round":1,"block":249632271,"hash":"0xbf484e539bc17188f3c08e0f86ee8b15523e8594a9e6196f22594420cc4d13eb"},{"x":5,"y":0.14285714285714285,"round":1,"block":249632272,"hash":"0x58814e61ee9990b04be49233271bd3d5f589973bba49c67fbc8accba8c06b35a"},{"x":6,"y":0.2857142857142857,"round":1,"block":249632272,"hash":"0xf4182ea51325d51376b79380ffdd148112a913bef52132e56785907075817e7e"},{"x":7,"y":0.42857142857142855,"round":1,"block":249632272,"hash":"0x59f411618560483f4111ed3d3f151842e0717abf9cf30179e265274c7448a302"},{"x":8,"y":0.5714285714285714,"round":1,"block":249632272,"hash":"0x2182713b13f625270a8dec27ac0355128ccb8f1ce0dcdf71762b01b264e6b068"},{"x":9,"y":0.7142857142857143,"round":1,"block":249632272,"hash":"0x43938c6f8af71eebc96ea75c848750319d095ce7444759cdae53b9c282dc785e"}],"borderColor":"#ff006e","backgroundColor":"#ff006e","pointRadius":0,"tension":0.15,"borderWidth":2},{"type":"line","label":"average","data":[{"x":0,"y":0.16666666666666666},{"x":1,"y":0.3333333333333333},{"x":2,"y":0.5},{"x":3,"y":0.6666666666666666},{"x":4,"y":1},{"x":5,"y":0.14285714285714285},{"x":6,"y":0.2857142857142857},{"x":7,"y":0.42857142857142855},{"x":8,"y":0.5714285714285714},{"x":9,"y":0.7142857142857143}],"borderColor":"#000","backgroundColor":"#000","pointRadius":0,"borderDash":[6,4],"tension":0}];
+        const ctx = document.getElementById('chart').getContext('2d');
+        new Chart(ctx, {
+            type: 'scatter',
+            data: { datasets: data },
+            options: {
+                scales: {
+                    x: { type: 'linear', min: -0.5, max: 9.5, ticks: { stepSize: 1, callback: v => v } },
+                    y: { min: 0, max: 1, title: { display: true, text: 'relative position' } }
+                },
+                plugins: {
+                    tooltip: {
+                        callbacks: {
+                            label: (ctx) => {
+                                const d = ctx.raw;
+                                if (ctx.dataset.label === 'average') return 'avg: ' + d.y.toFixed(4);
+                                if (ctx.dataset.label && ctx.dataset.label.endsWith('path')) return 'round ' + d.round + ' path';
+                                return 'round ' + d.round + ': ' + d.y.toFixed(4) + ' (block ' + d.block + ')';
+                            }
+                        }
+                    },
+                    legend: {
+                        display: true,
+                        labels: {
+                            filter: (item) => {
+                                // Hide round path series from legend; keep tx* and average.
+                                return !(item.text && item.text.endsWith('path'));
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

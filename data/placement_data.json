@@ -1,0 +1,131 @@
+{
+  "placementsByIndex": [
+    [
+      {
+        "txHash": "0x2b29a37b69b149e84c9e95d3bdc7c8531ab5a02359b278c6ac050a971a2506cd",
+        "blockNumber": 249632271,
+        "txIndex": 1,
+        "totalTxs": 7,
+        "relative": 0.16666666666666666,
+        "round": 0,
+        "index": 0
+      }
+    ],
+    [
+      {
+        "txHash": "0x84cf495222f52a8a8b6f857bab2aed37ac1b58f863b0ffefa5878a2e69b2d812",
+        "blockNumber": 249632271,
+        "txIndex": 2,
+        "totalTxs": 7,
+        "relative": 0.3333333333333333,
+        "round": 0,
+        "index": 1
+      }
+    ],
+    [
+      {
+        "txHash": "0x29b64e720781b65e0c5a116d8f859da4a2890a8ddf0a0961ba6baf45a9f7ff8f",
+        "blockNumber": 249632271,
+        "txIndex": 3,
+        "totalTxs": 7,
+        "relative": 0.5,
+        "round": 0,
+        "index": 2
+      }
+    ],
+    [
+      {
+        "txHash": "0x41f627257d702cb50b0bad96b0043b2b2f0aea98bbed26802eea012dc01ad4dc",
+        "blockNumber": 249632271,
+        "txIndex": 4,
+        "totalTxs": 7,
+        "relative": 0.6666666666666666,
+        "round": 0,
+        "index": 3
+      }
+    ],
+    [
+      {
+        "txHash": "0xbf484e539bc17188f3c08e0f86ee8b15523e8594a9e6196f22594420cc4d13eb",
+        "blockNumber": 249632271,
+        "txIndex": 6,
+        "totalTxs": 7,
+        "relative": 1,
+        "round": 0,
+        "index": 4
+      }
+    ],
+    [
+      {
+        "txHash": "0x58814e61ee9990b04be49233271bd3d5f589973bba49c67fbc8accba8c06b35a",
+        "blockNumber": 249632272,
+        "txIndex": 1,
+        "totalTxs": 8,
+        "relative": 0.14285714285714285,
+        "round": 0,
+        "index": 5
+      }
+    ],
+    [
+      {
+        "txHash": "0xf4182ea51325d51376b79380ffdd148112a913bef52132e56785907075817e7e",
+        "blockNumber": 249632272,
+        "txIndex": 2,
+        "totalTxs": 8,
+        "relative": 0.2857142857142857,
+        "round": 0,
+        "index": 6
+      }
+    ],
+    [
+      {
+        "txHash": "0x59f411618560483f4111ed3d3f151842e0717abf9cf30179e265274c7448a302",
+        "blockNumber": 249632272,
+        "txIndex": 3,
+        "totalTxs": 8,
+        "relative": 0.42857142857142855,
+        "round": 0,
+        "index": 7
+      }
+    ],
+    [
+      {
+        "txHash": "0x2182713b13f625270a8dec27ac0355128ccb8f1ce0dcdf71762b01b264e6b068",
+        "blockNumber": 249632272,
+        "txIndex": 4,
+        "totalTxs": 8,
+        "relative": 0.5714285714285714,
+        "round": 0,
+        "index": 8
+      }
+    ],
+    [
+      {
+        "txHash": "0x43938c6f8af71eebc96ea75c848750319d095ce7444759cdae53b9c282dc785e",
+        "blockNumber": 249632272,
+        "txIndex": 5,
+        "totalTxs": 8,
+        "relative": 0.7142857142857143,
+        "round": 0,
+        "index": 9
+      }
+    ]
+  ],
+  "averages": [
+    0.16666666666666666,
+    0.3333333333333333,
+    0.5,
+    0.6666666666666666,
+    1,
+    0.14285714285714285,
+    0.2857142857142857,
+    0.42857142857142855,
+    0.5714285714285714,
+    0.7142857142857143
+  ],
+  "errors": [],
+  "roundFirstBlocks": [
+    249632271
+  ],
+  "roundBlockDiffs": []
+}
