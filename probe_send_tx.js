@@ -169,7 +169,7 @@ async function sendTwoRawTransactions({ wallet, rpcUrl, nonce, feeData, chainId,
 
     const txResults = [null, null];
     const submissions = payloads.map((payload, idx) => {
-        const delay = idx * 50; // stagger second tx by 50ms; first fires immediately
+        const delay = idx * 260; // stagger second tx by 50ms; first fires immediately
 
         return new Promise((resolve) => {
             setTimeout(() => {
@@ -327,7 +327,7 @@ async function main() {
 
     console.log("All rounds completed. Writing placement_data.json and placement_chart.html...");
 
-    const outputDir = path.join(process.cwd(), "data");
+    const outputDir = path.join(process.cwd(), "plots");
     fs.mkdirSync(outputDir, { recursive: true });
 
     fs.writeFileSync(
@@ -369,7 +369,7 @@ async function main() {
         let dcatSuccessDisplay = "n/a";
         if (senderHasBlock && receiverHasBlock) {
             dcatAttemptCount += 1;
-            const success = sender.placement.blockNumber !== receiver.placement.blockNumber;
+            const success = receiver.placement.blockNumber === sender.placement.blockNumber + 2;
             if (success) dcatSuccessCount += 1;
             dcatSuccessDisplay = success ? "true" : "false";
         }

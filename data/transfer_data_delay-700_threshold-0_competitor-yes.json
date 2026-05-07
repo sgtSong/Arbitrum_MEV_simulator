@@ -1,0 +1,43 @@
+{
+  "createdAt": "2026-04-29T09:10:40.245Z",
+  "title": "delay=700ms threshold=0 competitor=yes",
+  "output_file": "transfer_data_delay-700_threshold-0_competitor-yes.json",
+  "delay_ms": 700,
+  "threshold": 0,
+  "competitor": true,
+  "schema": "asset_transfer_plot_v1",
+  "unit": "token_units_18_decimals",
+  "roles": [
+    "DCAT Sender",
+    "DCAT Receiver"
+  ],
+  "samples": {
+    "sender": 1,
+    "receiver": 1
+  },
+  "dcat_attempts": 1,
+  "dcat_successes": 1,
+  "success_ratio": 1,
+  "avgTokenIn": [
+    30000,
+    25453
+  ],
+  "avgTokenOut": [
+    25419.43230221804,
+    29880.695219579473
+  ],
+  "incidents": [
+    {
+      "round": 1,
+      "sender": {
+        "tx_hash": "0x6e22460a3da88147fd530e543790f7899c614cbd3ac458aa0db95e1b2534ba59",
+        "block_number": 263794186
+      },
+      "receiver": {
+        "tx_hash": "0x27701fd20699362bdcb9cc83a7044dc54d919a026e3c7cabf8176afc44d50180",
+        "block_number": 263794188
+      },
+      "success": true
+    }
+  ]
+}

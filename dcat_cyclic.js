@@ -1,4 +1,5 @@
 import { ethers } from "ethers";
+import { spawn } from "child_process";
 import dotenv from "dotenv";
 import fs from "fs";
 import path from "path";
@@ -7,6 +8,7 @@ import { publicKeyToAddress } from "viem/accounts";
 dotenv.config();
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+const DEFAULT_FOLLOW_UP_STAGGER_MS = 40;
 
 // ABI for getting reserve
 const reservesAbi = [
@@ -47,6 +49,49 @@ const arbitrageBotAbi = [
         type: 'function',
     },
 ]
+
+const transferEventSigHash = ethers.id("Transfer(address,address,uint256)");
+
+function formatThresholdForFilename(value) {
+    return String(value).replace(/\./g, "p");
+}
+
+function buildTransferDataFileName(delayMs, threshold, competitor) {
+    const competitorTag = competitor ? "yes" : "no";
+    return `transfer_data_delay-${delayMs}_threshold-${formatThresholdForFilename(threshold)}_competitor-${competitorTag}.json`;
+}
+
+function topicToAddress(topic) {
+    return ethers.getAddress(`0x${topic.slice(26)}`);
+}
+
+async function getTransferTotals(provider, txHash, tokenInOwner, tokenOutRecipient) {
+    const receipt = await provider.getTransactionReceipt(txHash);
+    if (!receipt) throw new Error(`Receipt not found for ${txHash} while parsing transfers`);
+
+    const tokenInOwnerLc = tokenInOwner.toLowerCase();
+    const tokenOutRecipientLc = tokenOutRecipient.toLowerCase();
+
+    let tokenInAmount = 0n;
+    let tokenOutAmount = 0n;
+
+    for (const log of receipt.logs) {
+        if (!Array.isArray(log.topics) || log.topics.length < 3) continue;
+        if ((log.topics[0] || "").toLowerCase() !== transferEventSigHash.toLowerCase()) continue;
+
+        const from = topicToAddress(log.topics[1]).toLowerCase();
+        const to = topicToAddress(log.topics[2]).toLowerCase();
+        const amount = BigInt(log.data);
+
+        if (from === tokenInOwnerLc) tokenInAmount += amount;
+        if (to === tokenOutRecipientLc) tokenOutAmount += amount;
+    }
+
+    return {
+        tokenInRaw: tokenInAmount.toString(),
+        tokenOutRaw: tokenOutAmount.toString(),
+    };
+}
 
 async function prepareSwapSignedTx(provider, wallet, pairContract, poolPair, tokenIn, amountTokenIn, nonce, feeData, chainId) {
     const reserves = await pairContract.getReserves();
@@ -223,7 +268,7 @@ async function sendRawTxLocalHash({ wallet, rpcUrl, nonce, feeData, chainId, id,
 }
 
 
-async function sendTwoRawTransactions({ wallet, rpcUrl, nonce, feeData, chainId, id, signedTx = null }) {
+async function sendTwoRawTransactions({ wallet, rpcUrl, nonce, feeData, chainId, id, signedTx = null, followUpStaggerMs = DEFAULT_FOLLOW_UP_STAGGER_MS }) {
     let signed = signedTx;
 
     if (!signed) {
@@ -264,7 +309,7 @@ async function sendTwoRawTransactions({ wallet, rpcUrl, nonce, feeData, chainId,
 
     const txResults = [null, null];
     const submissions = payloads.map((payload, idx) => {
-        const delay = idx * 350; // stagger second tx by 80ms; first fires immediately
+        const delay = idx * followUpStaggerMs; // stagger second tx by configured delay; first fires immediately
 
         return new Promise((resolve) => {
             setTimeout(() => {
@@ -310,10 +355,14 @@ async function main() {
     const periodMs = parseInt(args[1]); // gap between first tx of each round
     const startMs = args[2] !== undefined ? parseInt(args[2]) : undefined; // optional target ms alignment (0-999)
     const relativeThreshold = args[3] !== undefined ? parseFloat(args[3]) : 0.5;
+    const followUpStaggerMs = args[4] !== undefined ? parseInt(args[4]) : DEFAULT_FOLLOW_UP_STAGGER_MS;
+    const runCompetitor = args[5] !== undefined
+        ? ["1", "true", "yes", "competitor"].includes(String(args[5]).toLowerCase())
+        : false;
 
     if (isNaN(rounds) || rounds <= 0 || isNaN(periodMs) || periodMs <= 0) {
-        console.error("Usage: node main_send_tx_history.js <rounds> <period_ms> [start_ms] [relative_threshold]");
-        console.error("Example: node main_send_tx_history.js 5 1500 700 0.5");
+        console.error("Usage: node conduct_ditto.js <rounds> <period_ms> [start_ms] [relative_threshold] [follow_up_stagger_ms] [competitor]");
+        console.error("Example: node conduct_ditto.js 5 1500 700 0.5 290 competitor");
         process.exit(1);
     }
 
@@ -326,6 +375,19 @@ async function main() {
         console.error("If provided, <relative_threshold> must be between 0 and 1");
         process.exit(1);
     }
+
+    if (isNaN(followUpStaggerMs) || followUpStaggerMs < 0) {
+        console.error("If provided, <follow_up_stagger_ms> must be a non-negative integer");
+        process.exit(1);
+    }
+
+    let competitorProcess = null;
+    const stopCompetitor = () => {
+        if (competitorProcess && !competitorProcess.killed) {
+            competitorProcess.kill("SIGINT");
+        }
+        competitorProcess = null;
+    };
 
     const privateKey1 = process.env.PRIVATE_KEY2;   // DCAT Sender
     const privateKey2 = process.env.PRIVATE_KEY1;   // DCAT Receiver
@@ -363,6 +425,19 @@ async function main() {
     const chainId = (await provider.getNetwork()).chainId;
     console.log(`Starting nonce: ${nextNonce1}, ${nextNonce2}, ${nextNonce3}, ${nextNonce4}, chainId: ${chainId}`);
 
+    if (runCompetitor) {
+        competitorProcess = spawn("node", ["competitor.js"], {
+            cwd: process.cwd(),
+            stdio: "inherit",
+            env: process.env,
+        });
+        console.log("Competitor process started before DCAT sending.");
+        competitorProcess.on("exit", (code, signal) => {
+            console.log(`Competitor process exited with code=${code} signal=${signal || "none"}`);
+            competitorProcess = null;
+        });
+    }
+
     // Align to requested millisecond offset if provided (only before first round)
     const now = Date.now();
     const currentMs = now % 1000;
@@ -382,8 +457,8 @@ async function main() {
         // Prepare DCAT Sender and Receiver transactions ahead of probing
         const nonce1 = nextNonce1;
         const nonce2 = nextNonce2;
-        const sendswapAmount = 1n * 10n ** 18n; // 20_000n * 10n ** 18n;  //20,000 KITA
-        const receiveswapAmount = 1n * 10n ** 18n; // 16_666n * 10n ** 18n; //16,666 ITTA
+        const sendswapAmount = 20_000n * 10n ** 18n; // 1n * 10n ** 18n;  //20,000 KITA
+        const receiveswapAmount = 16_666n * 10n ** 18n; // 1n * 10n ** 18n; //16,666 ITTA
         const signedDCATSend = await prepareSwapSignedTx(provider, wallet1, pairContract, poolPair, kita_addr, sendswapAmount, nonce1, feeData, chainId);
         const signedDCATReceive = await prepareArbitrageSignedTx(provider, wallet2, arbitrage_addr, receiveswapAmount, receiveswapAmount, receiveswapAmount, arbitrage_recipient_addr, nonce2, feeData, chainId);
 
@@ -412,7 +487,16 @@ async function main() {
                         await sleep(waitMs);
                     }
 
-                    const sendRes = await sendTwoRawTransactions({ wallet: wallet1, rpcUrl, nonce: nextNonce1, feeData, chainId, id: `r${round + 1}-t2`, signedTx: [signedDCATSend, signedDCATReceive]});
+                        const sendRes = await sendTwoRawTransactions({ 
+                        wallet: wallet1,
+                        rpcUrl,
+                        nonce: nextNonce1,
+                        feeData,
+                        chainId,
+                        id: `r${round + 1}-t2`,
+                        signedTx: [signedDCATSend, signedDCATReceive],
+                        followUpStaggerMs,
+                    });
                     let secondSends = [];
                     secondSends.push({ idx: 0, sendRes: sendRes[0]});
                     secondSends.push({ idx: 1, sendRes: sendRes[1]});
@@ -421,8 +505,23 @@ async function main() {
 
                     for (const { idx, sendRes } of secondSends) {
                         const placement = await getPlacement(provider, sendRes.txHash);
-                        roundInfo.seconds.push({ ...sendRes, placement });
-                        console.log(`[round ${round + 1}] Follow-up tx ${idx + 1}/2 placed rel=${placement.relative.toFixed(4)} block=${placement.blockNumber} (getPlacement ${placement.durationMs}ms)`);
+                        const tokenInOwner = idx === 0 ? wallet1.address : wallet2.address;
+                        const tokenOutRecipient = idx === 0 ? wallet1.address : arbitrage_recipient_addr;
+                        const transferTotals = await getTransferTotals(provider, sendRes.txHash, tokenInOwner, tokenOutRecipient);
+                        roundInfo.seconds.push({ ...sendRes, placement, transferTotals });
+                        console.log(
+                            `[round ${round + 1}] Follow-up tx ${idx + 1}/2 placed rel=${placement.relative.toFixed(4)} block=${placement.blockNumber} ` +
+                            `(in=${ethers.formatUnits(BigInt(transferTotals.tokenInRaw), 18)}, out=${ethers.formatUnits(BigInt(transferTotals.tokenOutRaw), 18)})`
+                        );
+                    }
+
+                    if (runCompetitor) {  //If there's a competitor, rebalance the swap pool distorted by competitor's backrun before the next round
+                        await sleep(5000); //wait a bit before competetor
+                        const balance = 32_000n * 10n ** 18n; //amount to rebalance back to pool (both sides of the swap)
+                        const signedRebalanceTx = await prepareSwapSignedTx(provider, wallet1, pairContract, poolPair, kita_addr, balance, nextNonce1, feeData, chainId);
+                        await sendRawTxLocalHash({ wallet: wallet1, rpcUrl, nonce: nextNonce1, feeData, chainId, id: `r${round + 1}-rebalance`, signedTx: signedRebalanceTx });
+                        nextNonce1 += 1;
+                        console.log(`[round ${round + 1}] Sent rebalance transaction to counter competitor's distortion.`);
                     }
 
                     break; // success, exit retry loop
@@ -440,186 +539,113 @@ async function main() {
         // Wait periodMs before next round, except after the last round
         if (round < rounds - 1) {
             console.log(`[round ${round + 1}] Waiting ${periodMs}ms before next round...`);
-            await sleep(periodMs);
         }
+        await sleep(periodMs);
         console.log("");
     }
 
-    console.log("All rounds completed. Writing placement_data.json and placement_chart.html...");
+    console.log("All rounds completed. Writing transfer_data.json ...");
 
-    const outputDir = path.join(process.cwd(), "plots");
+    const outputDir = path.join(process.cwd(), "data");
     fs.mkdirSync(outputDir, { recursive: true });
 
-    fs.writeFileSync(
-        path.join(outputDir, "placement_data.json"),
-        JSON.stringify({
-            createdAt: new Date().toISOString(),
-            address: wallet1.address,
-            periodMs,
-            threshold: relativeThreshold,
-            rounds: results,
-        }, null, 2)
-    );
-
+    let senderInTotal = 0n;
+    let senderOutTotal = 0n;
+    let senderAmountCount = 0n;
+    let receiverInTotal = 0n;
+    let receiverOutTotal = 0n;
+    let receiverAmountCount = 0n;
+    const incidents = [];
     let dcatSuccessCount = 0;
     let dcatAttemptCount = 0;
-    let elapsedTotalMs = 0;
-    let elapsedCount = 0;
-    let senderRelTotal = 0;
-    let senderRelCount = 0;
-    let receiverRelTotal = 0;
-    let receiverRelCount = 0;
 
-    const tableRows = results.map((r) => {
-        const firstBlock = r.first?.placement?.blockNumber ?? "n/a";
-        const firstRel = r.first?.placement?.relative !== undefined ? r.first.placement.relative.toFixed(4) : "n/a";
-        const elapsedMsDisplay = Number.isFinite(r.elapsedMs) ? r.elapsedMs : "n/a";
-        if (Number.isFinite(r.elapsedMs)) {
-            elapsedTotalMs += r.elapsedMs;
-            elapsedCount += 1;
-        }
-
+    for (const r of results) {
         const sender = r.seconds[0];
         const receiver = r.seconds[1];
 
-        const senderBlock = sender?.placement?.blockNumber ?? "n/a";
-        const receiverBlock = receiver?.placement?.blockNumber ?? "n/a";
-        const senderRel = sender?.placement?.relative !== undefined ? sender.placement.relative.toFixed(4) : "n/a";
-        const receiverRel = receiver?.placement?.relative !== undefined ? receiver.placement.relative.toFixed(4) : "n/a";
+        const senderInRaw = sender?.transferTotals?.tokenInRaw;
+        const senderOutRaw = sender?.transferTotals?.tokenOutRaw;
+        const receiverInRaw = receiver?.transferTotals?.tokenInRaw;
+        const receiverOutRaw = receiver?.transferTotals?.tokenOutRaw;
 
-        if (typeof sender?.placement?.relative === "number") {
-            senderRelTotal += sender.placement.relative;
-            senderRelCount += 1;
+        if (senderInRaw !== undefined && senderOutRaw !== undefined) {
+            senderInTotal += BigInt(senderInRaw);
+            senderOutTotal += BigInt(senderOutRaw);
+            senderAmountCount += 1n;
         }
-        if (typeof receiver?.placement?.relative === "number") {
-            receiverRelTotal += receiver.placement.relative;
-            receiverRelCount += 1;
+        if (receiverInRaw !== undefined && receiverOutRaw !== undefined) {
+            receiverInTotal += BigInt(receiverInRaw);
+            receiverOutTotal += BigInt(receiverOutRaw);
+            receiverAmountCount += 1n;
         }
 
-        const senderHasBlock = sender?.placement?.blockNumber !== undefined;
-        const receiverHasBlock = receiver?.placement?.blockNumber !== undefined;
+        const senderTxHash = sender?.txHash ?? null;
+        const receiverTxHash = receiver?.txHash ?? null;
+        const senderBlockNumber = sender?.placement?.blockNumber ?? null;
+        const receiverBlockNumber = receiver?.placement?.blockNumber ?? null;
 
-        let dcatSuccessDisplay = "n/a";
-        if (senderHasBlock && receiverHasBlock) {
+        let success = null;
+        if (senderBlockNumber !== null && receiverBlockNumber !== null) {
             dcatAttemptCount += 1;
-            const success = receiver.placement.blockNumber === sender.placement.blockNumber + 2;
+            success = receiverBlockNumber === senderBlockNumber + 2;
             if (success) dcatSuccessCount += 1;
-            dcatSuccessDisplay = success ? "true" : "false";
         }
 
-        return `<tr><td>${r.round}</td><td>${firstBlock}</td><td>${firstRel}</td><td>${elapsedMsDisplay}</td><td>${senderBlock}</td><td>${receiverBlock}</td><td>${senderRel}</td><td>${receiverRel}</td><td>${dcatSuccessDisplay}</td></tr>`;
-    }).join("");
-
-    const successRatio = dcatAttemptCount > 0
-        ? `${dcatSuccessCount}/${dcatAttemptCount} (${((dcatSuccessCount / dcatAttemptCount) * 100).toFixed(1)}%)`
-        : "n/a";
-
-    const avgElapsedMs = elapsedCount > 0 ? (elapsedTotalMs / elapsedCount).toFixed(1) : "n/a";
-    const avgSenderRel = senderRelCount > 0 ? (senderRelTotal / senderRelCount).toFixed(4) : "n/a";
-    const avgReceiverRel = receiverRelCount > 0 ? (receiverRelTotal / receiverRelCount).toFixed(4) : "n/a";
-
-    const txLabels = ["probe transaction", "DCAT_sender", "DCAT_receiver"];
-    const colorPalette = ["#1f77b4", "#d62728", "#2ca02c", "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf"];
-    const chartData = results.map((r, idx) => {
-        const color = colorPalette[idx % colorPalette.length];
-        const points = [];
-        if (r.first?.placement?.relative !== undefined) {
-            points.push({ x: "probe transaction", y: r.first.placement.relative, block: r.first.placement.blockNumber, sentAt: r.first.sentAt });
-        }
-        if (Array.isArray(r.seconds) && r.seconds.length) {
-            r.seconds.forEach((s, idx) => {
-                if (s?.placement?.relative !== undefined) {
-                    const label = idx === 0 ? "DCAT_sender" : "DCAT_receiver";
-                    points.push({ x: label, y: s.placement.relative, block: s.placement.blockNumber, sentAt: s.sentAt });
-                }
-            });
-        }
-        return {
-            label: `round ${idx + 1}`,
-            data: points,
-            backgroundColor: color,
-            pointBackgroundColor: color,
-            pointBorderColor: color,
-            borderColor: "rgba(248, 74, 74, 0.25)",
-            showLine: points.length >= 2,
-            borderWidth: 1,
-            tension: 0,
-        };
-    });
-
-    chartData.push({
-        type: "line",
-        label: "threshold",
-        data: txLabels.map((x) => ({ x, y: relativeThreshold })),
-        borderColor: "#000",
-        backgroundColor: "#000",
-        pointRadius: 0,
-        borderDash: [4, 3],
-        borderWidth: 2,
-        tension: 0,
-    });
-
-    const html = `<!doctype html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title>Tx Placement Summary</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 16px; }
-        table { border-collapse: collapse; width: 100%; }
-        th, td { border: 1px solid #ccc; padding: 6px 10px; text-align: left; }
-        th { background: #f0f0f0; }
-        .chart-wrap { margin-top: 18px; }
-    </style>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
-    <h3>Tx placement summary</h3>
-    <p>Rounds: ${rounds}, period: ${periodMs}ms, threshold: ${relativeThreshold}, DCAT success: ${successRatio}, avg elapsed: ${avgElapsedMs}ms, avg sender rel: ${avgSenderRel}, avg receiver rel: ${avgReceiverRel}</p>
-    <table>
-        <thead><tr><th>Round</th><th>First block</th><th>First rel</th><th>Elapsed ms</th><th>DCAT Sender block</th><th>DCAT Receiver block</th><th>DCAT Sender rel</th><th>DCAT Receiver rel</th><th>DCAT success</th></tr></thead>
-        <tbody>${tableRows}</tbody>
-    </table>
-    <div class="chart-wrap">
-        <h4>Relative position per round</h4>
-        <canvas id="chart" width="960" height="480"></canvas>
-    </div>
-    <script>
-        const txLabels = ${JSON.stringify(txLabels)};
-        const chartData = ${JSON.stringify(chartData)};
-        const ctx = document.getElementById('chart').getContext('2d');
-        new Chart(ctx, {
-            type: 'scatter',
-            data: { datasets: chartData },
-            options: {
-                scales: {
-                    x: { type: 'category', labels: txLabels, title: { display: true, text: 'transaction role (probe / DCAT sender / DCAT receiver)' } },
-                    y: { min: 0, max: 1, title: { display: true, text: 'relative position (tx index / tx count)' } }
-                },
-                plugins: {
-                    tooltip: {
-                        callbacks: {
-                            label: (ctx) => {
-                                const d = ctx.raw;
-                                if (ctx.dataset.label === 'threshold') return 'threshold: ' + d.y.toFixed(4);
-                                const block = d.block ? (' block ' + d.block) : '';
-                                const sent = d.sentAt ? (' sent ' + d.sentAt) : '';
-                                return ctx.dataset.label + ' ' + d.x + ' tx: ' + d.y.toFixed(4) + block + sent;
-                            }
-                        }
-                    },
-                    legend: {
-                        display: false
-                    }
-                }
-            }
+        incidents.push({
+            round: r.round,
+            sender: {
+                tx_hash: senderTxHash,
+                block_number: senderBlockNumber,
+            },
+            receiver: {
+                tx_hash: receiverTxHash,
+                block_number: receiverBlockNumber,
+            },
+            success,
         });
-    </script>
-</body>
-</html>`;
 
-    fs.writeFileSync(path.join(outputDir, "placement_chart.html"), html);
-    console.log(`Wrote placement_data.json and placement_chart.html to ${outputDir}`);
+    }
+
+    const success_ratio = dcatAttemptCount > 0 ? dcatSuccessCount / dcatAttemptCount : 0;
+    const avgSenderInRaw = senderAmountCount > 0n ? senderInTotal / senderAmountCount : null;
+    const avgSenderOutRaw = senderAmountCount > 0n ? senderOutTotal / senderAmountCount : null;
+    const avgReceiverInRaw = receiverAmountCount > 0n ? receiverInTotal / receiverAmountCount : null;
+    const avgReceiverOutRaw = receiverAmountCount > 0n ? receiverOutTotal / receiverAmountCount : null;
+
+    const avgSenderIn = avgSenderInRaw !== null ? Number(ethers.formatUnits(avgSenderInRaw, 18)) : 0;
+    const avgSenderOut = avgSenderOutRaw !== null ? Number(ethers.formatUnits(avgSenderOutRaw, 18)) : 0;
+    const avgReceiverIn = avgReceiverInRaw !== null ? Number(ethers.formatUnits(avgReceiverInRaw, 18)) : 0;
+    const avgReceiverOut = avgReceiverOutRaw !== null ? Number(ethers.formatUnits(avgReceiverOutRaw, 18)) : 0;
+    const reportTitle = `delay=${followUpStaggerMs}ms threshold=${relativeThreshold} competitor=${runCompetitor ? "yes" : "no"}`;
+    const outputFileName = buildTransferDataFileName(followUpStaggerMs, relativeThreshold, runCompetitor);
+
+    fs.writeFileSync(
+        path.join(outputDir, outputFileName),
+        JSON.stringify({
+            createdAt: new Date().toISOString(),
+            title: reportTitle,
+            output_file: outputFileName,
+            delay_ms: followUpStaggerMs,
+            threshold: relativeThreshold,
+            competitor: runCompetitor,
+            schema: "asset_transfer_plot_v1",
+            unit: "token_units_18_decimals",
+            roles: ["DCAT Sender", "DCAT Receiver"],
+            samples: {
+                sender: Number(senderAmountCount),
+                receiver: Number(receiverAmountCount),
+            },
+            dcat_attempts: dcatAttemptCount,
+            dcat_successes: dcatSuccessCount,
+            success_ratio,
+            avgTokenIn: [avgSenderIn, avgReceiverIn],
+            avgTokenOut: [avgSenderOut, avgReceiverOut],
+            incidents,
+        }, null, 2)
+    );
+    console.log(`Wrote ${outputFileName} to ${outputDir}`);
+
+    stopCompetitor();
 }
 
 main();

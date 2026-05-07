@@ -1,0 +1,1274 @@
+[block 266127801] Detected target-pool swap tx: 0x37a7b588bdcf1a9383375f5c992f5dc014aed18754c42ed909ee1d79efe8e9ab
+[competitor-b266127801] POSTing tx nonce=914 hash=0x6a64236c0c19278fd91e5095b7e1c9a2054e97a0841b97762046bb0a0fd3b4cb at 2026-05-07T02:43:11.315Z
+[block 266127801] Competitor tx submitted: 0x6a64236c0c19278fd91e5095b7e1c9a2054e97a0841b97762046bb0a0fd3b4cb
+[competitor-b266127801] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127801","result":"0x6a64236c0c19278fd91e5095b7e1c9a2054e97a0841b97762046bb0a0fd3b4cb"}
+[block 266127803] Detected target-pool swap tx: 0xd88687ab240031049cc0ab303da05dab44b935c18da97f593c59ecdf770e9d33
+[competitor-b266127803] POSTing tx nonce=915 hash=0x2610195c3e9b36b69420419d41e3a7d67b377175e7472bf6ac2b731e25a3cf35 at 2026-05-07T02:43:11.740Z
+[block 266127803] Competitor tx submitted: 0x2610195c3e9b36b69420419d41e3a7d67b377175e7472bf6ac2b731e25a3cf35
+[competitor-b266127803] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127803","result":"0x2610195c3e9b36b69420419d41e3a7d67b377175e7472bf6ac2b731e25a3cf35"}
+[block 266127865] Detected target-pool swap tx: 0x4305932d9aef47d9ab8c481093b81105b4e139bbe62e50904482e76644b4fa2d
+[competitor-b266127865] POSTing tx nonce=916 hash=0xe7e63cdc8d1c56c5de56e21e3681d69073f3bfe4023aeee1d3d802419ced2c1f at 2026-05-07T02:43:40.743Z
+[block 266127865] Competitor tx submitted: 0xe7e63cdc8d1c56c5de56e21e3681d69073f3bfe4023aeee1d3d802419ced2c1f
+[block 266127865] Detected target-pool swap tx: 0x4305932d9aef47d9ab8c481093b81105b4e139bbe62e50904482e76644b4fa2d
+[competitor-b266127865] POSTing tx nonce=917 hash=0x255d014f75d02785ff6b665e94ac340c86ca2b1b5c76d249000aa3f5a1b7dd28 at 2026-05-07T02:43:40.805Z
+[block 266127865] Competitor tx submitted: 0x255d014f75d02785ff6b665e94ac340c86ca2b1b5c76d249000aa3f5a1b7dd28
+[competitor-b266127865] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127865","result":"0x255d014f75d02785ff6b665e94ac340c86ca2b1b5c76d249000aa3f5a1b7dd28"}
+[competitor-b266127865] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127865","result":"0xe7e63cdc8d1c56c5de56e21e3681d69073f3bfe4023aeee1d3d802419ced2c1f"}
+[block 266127867] Detected target-pool swap tx: 0xa5379355744cb0203caf7cc209a8338470481599950497cdc9221f985bd013a2
+[competitor-b266127867] POSTing tx nonce=918 hash=0x4cf6f6936650b5f7db0a35357a0e5c36779f460fed89e292ff544b3fa381c943 at 2026-05-07T02:43:41.161Z
+[block 266127867] Competitor tx submitted: 0x4cf6f6936650b5f7db0a35357a0e5c36779f460fed89e292ff544b3fa381c943
+[competitor-b266127867] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127867","result":"0x4cf6f6936650b5f7db0a35357a0e5c36779f460fed89e292ff544b3fa381c943"}
+[block 266127867] Detected target-pool swap tx: 0xa5379355744cb0203caf7cc209a8338470481599950497cdc9221f985bd013a2
+[competitor-b266127867] POSTing tx nonce=919 hash=0x7da6f2cf6b96689a76dc354c70713abd87794bcdb53bc587ebe071c15aea0798 at 2026-05-07T02:43:41.221Z
+[block 266127867] Competitor tx submitted: 0x7da6f2cf6b96689a76dc354c70713abd87794bcdb53bc587ebe071c15aea0798
+[competitor-b266127867] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127867","result":"0x7da6f2cf6b96689a76dc354c70713abd87794bcdb53bc587ebe071c15aea0798"}
+[block 266127914] Detected target-pool swap tx: 0xf22343900096b31df192348c0a31bb73a1f628d3a54221e5941bde575c2e2a95
+[competitor-b266127914] POSTing tx nonce=920 hash=0xf886ee2c64135325295e0bab48f9fe2ae11e5f83c5feaa031807fa9371aa6bd2 at 2026-05-07T02:43:57.968Z
+[block 266127914] Competitor tx submitted: 0xf886ee2c64135325295e0bab48f9fe2ae11e5f83c5feaa031807fa9371aa6bd2
+[competitor-b266127914] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127914","result":"0xf886ee2c64135325295e0bab48f9fe2ae11e5f83c5feaa031807fa9371aa6bd2"}
+[block 266127915] Detected target-pool swap tx: 0xf57df2598e9a6731f7f175b536f85d3b94a36a23ddfc6408aba38b2be1d2b017
+[competitor-b266127915] POSTing tx nonce=921 hash=0x75e26539b328103abcac94292399b529fe77376a9530808705d0d0fccbb01c5b at 2026-05-07T02:43:58.815Z
+[block 266127915] Competitor tx submitted: 0x75e26539b328103abcac94292399b529fe77376a9530808705d0d0fccbb01c5b
+[competitor-b266127915] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127915","result":"0x75e26539b328103abcac94292399b529fe77376a9530808705d0d0fccbb01c5b"}
+[block 266127964] Detected target-pool swap tx: 0xc74b000f4c7302f706afb25ca172e15d2ee887dd8bc9554b98f4b2d6a48d2665
+[competitor-b266127964] POSTing tx nonce=922 hash=0x895229a5810c09e38e583778ade9bb13d6292bb2b4f8fafdc39f2168b3e1db3e at 2026-05-07T02:44:18.157Z
+[block 266127964] Competitor tx submitted: 0x895229a5810c09e38e583778ade9bb13d6292bb2b4f8fafdc39f2168b3e1db3e
+[competitor-b266127964] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127964","result":"0x895229a5810c09e38e583778ade9bb13d6292bb2b4f8fafdc39f2168b3e1db3e"}
+[block 266127965] Detected target-pool swap tx: 0x60a21e36b9336e5de0b843619863a58dfb573e86e26b0a8b626ffb1c816c97aa
+[competitor-b266127965] POSTing tx nonce=923 hash=0x30eb404fb45c6365015a8e81d6519631f0c55997090be579904beb1ad3433a28 at 2026-05-07T02:44:18.992Z
+[block 266127965] Competitor tx submitted: 0x30eb404fb45c6365015a8e81d6519631f0c55997090be579904beb1ad3433a28
+[competitor-b266127965] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127965","result":"0x30eb404fb45c6365015a8e81d6519631f0c55997090be579904beb1ad3433a28"}
+[block 266127965] Detected target-pool swap tx: 0x60a21e36b9336e5de0b843619863a58dfb573e86e26b0a8b626ffb1c816c97aa
+[competitor-b266127965] POSTing tx nonce=924 hash=0x7b7883e79000aa40b4cd6bde1b524cecd0b4310c4f8c241d2174969a32176e07 at 2026-05-07T02:44:19.053Z
+[block 266127965] Competitor tx submitted: 0x7b7883e79000aa40b4cd6bde1b524cecd0b4310c4f8c241d2174969a32176e07
+[competitor-b266127965] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266127965","result":"0x7b7883e79000aa40b4cd6bde1b524cecd0b4310c4f8c241d2174969a32176e07"}
+[block 266128008] Detected target-pool swap tx: 0x6bb187b058e12217347ac07ced3c4215b922bc262e5defb423d1bbafabc47152
+[competitor-b266128008] POSTing tx nonce=925 hash=0xf06c448847f3e165322220f48902d5f95833e949ee68a899718a8dc9e472a6b0 at 2026-05-07T02:44:35.812Z
+[block 266128008] Competitor tx submitted: 0xf06c448847f3e165322220f48902d5f95833e949ee68a899718a8dc9e472a6b0
+[competitor-b266128008] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128008","result":"0xf06c448847f3e165322220f48902d5f95833e949ee68a899718a8dc9e472a6b0"}
+[block 266128009] Detected target-pool swap tx: 0x02e5b052b72d556afe115d842ab0004c127eaf688629289e855ab393b63ebc72
+[competitor-b266128009] POSTing tx nonce=926 hash=0x1f7f0e8f3f309baa90b35bb4544c5ec7f92c80044ed62e0a4c93a46a6b88f6e7 at 2026-05-07T02:44:36.651Z
+[block 266128009] Competitor tx submitted: 0x1f7f0e8f3f309baa90b35bb4544c5ec7f92c80044ed62e0a4c93a46a6b88f6e7
+[competitor-b266128009] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128009","result":"0x1f7f0e8f3f309baa90b35bb4544c5ec7f92c80044ed62e0a4c93a46a6b88f6e7"}
+[block 266128050] Detected target-pool swap tx: 0x79125a12e06b9eb7df6d02fc033e00d3e2a12797a79de3e7837ac90cf0aa4ae3
+[competitor-b266128050] POSTing tx nonce=927 hash=0x77933ebf7a368ee79a9952ab7a0b498554fb6224948c4e7ecd1dee193066c3b8 at 2026-05-07T02:44:53.872Z
+[block 266128050] Competitor tx submitted: 0x77933ebf7a368ee79a9952ab7a0b498554fb6224948c4e7ecd1dee193066c3b8
+[block 266128051] Detected target-pool swap tx: 0xe42eeeb350e28f0cec1449b9bde06076fb770b266d379ca484d660d682db167a
+[competitor-b266128051] POSTing tx nonce=928 hash=0xd7e0933b9e2ceca15a8cc46150aceaede8d61981206dacfca3cfb925bdca7cf6 at 2026-05-07T02:44:53.895Z
+[block 266128051] Competitor tx submitted: 0xd7e0933b9e2ceca15a8cc46150aceaede8d61981206dacfca3cfb925bdca7cf6
+[competitor-b266128051] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128051","result":"0xd7e0933b9e2ceca15a8cc46150aceaede8d61981206dacfca3cfb925bdca7cf6"}
+[competitor-b266128050] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128050","result":"0x77933ebf7a368ee79a9952ab7a0b498554fb6224948c4e7ecd1dee193066c3b8"}
+[block 266128078] Detected target-pool swap tx: 0xfb96500b0ac163797e9e5de1a6f8b79c8d0a101f6abcfbd7a5f0899bd210aed7
+[competitor-b266128078] POSTing tx nonce=929 hash=0xb695fc6b9b2684b37f93ee1bf578bd58d2212e163d9b59c58cfb8f9e548ba04c at 2026-05-07T02:45:01.027Z
+[block 266128078] Competitor tx submitted: 0xb695fc6b9b2684b37f93ee1bf578bd58d2212e163d9b59c58cfb8f9e548ba04c
+[competitor-b266128078] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128078","result":"0xb695fc6b9b2684b37f93ee1bf578bd58d2212e163d9b59c58cfb8f9e548ba04c"}
+[block 266128079] Detected target-pool swap tx: 0xc629a2718be7da14e1f994b720377fe71aeacfa82e90bb4704aa9c0097176580
+[competitor-b266128079] POSTing tx nonce=930 hash=0xbf41ac603f21c33a61ff54d7e7a0c2c08fcb461b334a376577bafd9755cb59fa at 2026-05-07T02:45:01.443Z
+[block 266128079] Competitor tx submitted: 0xbf41ac603f21c33a61ff54d7e7a0c2c08fcb461b334a376577bafd9755cb59fa
+[competitor-b266128079] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128079","result":"0xbf41ac603f21c33a61ff54d7e7a0c2c08fcb461b334a376577bafd9755cb59fa"}
+[block 266128108] Detected target-pool swap tx: 0x70a19dec6336224900dd262cba58e08f97a6a76472814c364363e6aaf1df4fb0
+[competitor-b266128108] POSTing tx nonce=931 hash=0x4f73a7618e868e2e8d6b6a267df8d9126048b3bd575ddfc630ed42f43aeef673 at 2026-05-07T02:45:08.597Z
+[block 266128108] Competitor tx submitted: 0x4f73a7618e868e2e8d6b6a267df8d9126048b3bd575ddfc630ed42f43aeef673
+[block 266128107] Detected target-pool swap tx: 0x21466bdeab33e464af839eb0768208d96ec985a1e1f78c3231723101b9bd7c0a
+[competitor-b266128107] POSTing tx nonce=932 hash=0xe5c8afab777852e21d118e868086313636cd5df9e98d7530854402db8563dfac at 2026-05-07T02:45:08.617Z
+[block 266128107] Competitor tx submitted: 0xe5c8afab777852e21d118e868086313636cd5df9e98d7530854402db8563dfac
+[block 266128107] Detected target-pool swap tx: 0x21466bdeab33e464af839eb0768208d96ec985a1e1f78c3231723101b9bd7c0a
+[competitor-b266128107] POSTing tx nonce=933 hash=0x412f007b821094b93b26eefcb68b9ac7613ea98f4d74db6f0622c13988fad407 at 2026-05-07T02:45:08.675Z
+[block 266128107] Competitor tx submitted: 0x412f007b821094b93b26eefcb68b9ac7613ea98f4d74db6f0622c13988fad407
+[competitor-b266128107] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128107","result":"0x412f007b821094b93b26eefcb68b9ac7613ea98f4d74db6f0622c13988fad407"}
+[competitor-b266128107] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128107","result":"0xe5c8afab777852e21d118e868086313636cd5df9e98d7530854402db8563dfac"}
+[competitor-b266128108] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128108","result":"0x4f73a7618e868e2e8d6b6a267df8d9126048b3bd575ddfc630ed42f43aeef673"}
+[block 266128191] Detected target-pool swap tx: 0xd8756b8dec7a01ce0fe16dd45662d2b69378c59ed58ec061c9e6e3e0213cae94
+[competitor-b266128191] POSTing tx nonce=934 hash=0x5d123dcc4a4207de038a0270c38c5ddab5a25395045c0ba7a8f094e9684e1d84 at 2026-05-07T02:45:37.978Z
+[block 266128192] Detected target-pool swap tx: 0x111eed65ea3eb165ddc09089bc67e3f87b92befac43fcedad133164f05f8bae9
+[block 266128191] Competitor tx submitted: 0x5d123dcc4a4207de038a0270c38c5ddab5a25395045c0ba7a8f094e9684e1d84
+[block 266128191] Detected target-pool swap tx: 0xd8756b8dec7a01ce0fe16dd45662d2b69378c59ed58ec061c9e6e3e0213cae94
+[competitor-b266128191] POSTing tx nonce=935 hash=0x8cdb04ef6fcbc863e7ac94661d62a806c8b57f3dd7067e627e213fe0be6e94d3 at 2026-05-07T02:45:38.039Z
+[block 266128191] Competitor tx submitted: 0x8cdb04ef6fcbc863e7ac94661d62a806c8b57f3dd7067e627e213fe0be6e94d3
+[competitor-b266128191] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128191","result":"0x5d123dcc4a4207de038a0270c38c5ddab5a25395045c0ba7a8f094e9684e1d84"}
+[competitor-b266128191] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128191","result":"0x8cdb04ef6fcbc863e7ac94661d62a806c8b57f3dd7067e627e213fe0be6e94d3"}
+[block 266128223] Detected target-pool swap tx: 0x9dfd6812da600df7cd7999d651f08188c3b01b6beb96c367ac73c1e38a161dca
+[competitor-b266128223] POSTing tx nonce=936 hash=0xa239e09c4a7c2b49e81df3af1e31bbb545d0dbf8141a943e507310fdfe71d469 at 2026-05-07T02:45:45.974Z
+[block 266128223] Competitor tx submitted: 0xa239e09c4a7c2b49e81df3af1e31bbb545d0dbf8141a943e507310fdfe71d469
+[competitor-b266128223] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128223","result":"0xa239e09c4a7c2b49e81df3af1e31bbb545d0dbf8141a943e507310fdfe71d469"}
+[block 266128224] Detected target-pool swap tx: 0xac5fffc70cc2174db21520caefddb67e88c69d1db9b9d3650c10768932cda9c2
+[competitor-b266128224] POSTing tx nonce=937 hash=0xe2cb5402d8f6a50ad23e3077075fa7d7865d725f51c53f335671d08d3138c5fc at 2026-05-07T02:45:46.367Z
+[block 266128224] Competitor tx submitted: 0xe2cb5402d8f6a50ad23e3077075fa7d7865d725f51c53f335671d08d3138c5fc
+[block 266128224] Detected target-pool swap tx: 0xac5fffc70cc2174db21520caefddb67e88c69d1db9b9d3650c10768932cda9c2
+[competitor-b266128224] POSTing tx nonce=938 hash=0x8ed46c54ad515a73047f853698a57475238589de0f8d2aad0523895c0659d7e1 at 2026-05-07T02:45:46.427Z
+[block 266128224] Competitor tx submitted: 0x8ed46c54ad515a73047f853698a57475238589de0f8d2aad0523895c0659d7e1
+[competitor-b266128224] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128224","result":"0xe2cb5402d8f6a50ad23e3077075fa7d7865d725f51c53f335671d08d3138c5fc"}
+[competitor-b266128224] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128224","result":"0x8ed46c54ad515a73047f853698a57475238589de0f8d2aad0523895c0659d7e1"}
+[block 266128376] Detected target-pool swap tx: 0x072b348c145d00f458c0730c6f5ccc9e4e18714af47bb3c31d488a061bfbcd05
+[competitor-b266128376] POSTing tx nonce=939 hash=0x2e76b38980bf60d539b66a76bca9ca2fbac723fb20cc618d559c1043d1228024 at 2026-05-07T02:46:53.978Z
+[block 266128376] Competitor tx submitted: 0x2e76b38980bf60d539b66a76bca9ca2fbac723fb20cc618d559c1043d1228024
+[competitor-b266128376] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128376","result":"0x2e76b38980bf60d539b66a76bca9ca2fbac723fb20cc618d559c1043d1228024"}
+[block 266128377] Detected target-pool swap tx: 0x54bf057d4ee4bc1df82f27d2c08b64c873e3bad6d45ac6d643216edc78bcd520
+[competitor-b266128377] POSTing tx nonce=940 hash=0x1f11ae553036aabd10fe7e2e76a25af4bad4110e75ad7af960ad3cf5b8166b5f at 2026-05-07T02:46:54.380Z
+[block 266128377] Competitor tx submitted: 0x1f11ae553036aabd10fe7e2e76a25af4bad4110e75ad7af960ad3cf5b8166b5f
+[competitor-b266128377] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128377","result":"0x1f11ae553036aabd10fe7e2e76a25af4bad4110e75ad7af960ad3cf5b8166b5f"}
+[block 266128410] Detected target-pool swap tx: 0x791984e5a79ad30e9a8ccc1012bf0458d1a8bd903d6fee1bb6c28d3be97fe454
+[competitor-b266128410] POSTing tx nonce=941 hash=0x0af153e983dac49c26fa2f47faa1a18735704e7bd494686356be5549de9f0e3e at 2026-05-07T02:47:05.292Z
+[block 266128411] Detected target-pool swap tx: 0x4b581ee0de361a360e40b9640bc5b62ced8b641062ca7f527ca2437bb64d05bb
+[block 266128410] Competitor tx submitted: 0x0af153e983dac49c26fa2f47faa1a18735704e7bd494686356be5549de9f0e3e
+[competitor-b266128410] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128410","result":"0x0af153e983dac49c26fa2f47faa1a18735704e7bd494686356be5549de9f0e3e"}
+[block 266128410] Detected target-pool swap tx: 0x791984e5a79ad30e9a8ccc1012bf0458d1a8bd903d6fee1bb6c28d3be97fe454
+[competitor-b266128410] POSTing tx nonce=942 hash=0x761c5d3abb71676a9b9f5bd67e55adac0bd6c986960275d187892350649b9d96 at 2026-05-07T02:47:05.352Z
+[block 266128410] Competitor tx submitted: 0x761c5d3abb71676a9b9f5bd67e55adac0bd6c986960275d187892350649b9d96
+[competitor-b266128410] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128410","result":"0x761c5d3abb71676a9b9f5bd67e55adac0bd6c986960275d187892350649b9d96"}
+[block 266128471] Detected target-pool swap tx: 0x10f7bb29f59d3c728c1a4e2f66b628feae54f8e9ced3171fbf554c9b0ddccf8d
+[competitor-b266128471] POSTing tx nonce=943 hash=0x9fce55af623dbed2f376fb6d67697ad5ed8edeb160d67e89a76dff7e7cc02205 at 2026-05-07T02:47:34.284Z
+[block 266128471] Competitor tx submitted: 0x9fce55af623dbed2f376fb6d67697ad5ed8edeb160d67e89a76dff7e7cc02205
+[competitor-b266128471] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128471","result":"0x9fce55af623dbed2f376fb6d67697ad5ed8edeb160d67e89a76dff7e7cc02205"}
+[block 266128472] Detected target-pool swap tx: 0x9799decc271fe10ee5da4cd170c7e059cda38112bcfd07544686a1e1d415fdd3
+[competitor-b266128472] POSTing tx nonce=944 hash=0xbb8ea9cbc198f48b862120e174db435724aa0fbe2b402592085b00edae9f5c95 at 2026-05-07T02:47:34.698Z
+[block 266128472] Competitor tx submitted: 0xbb8ea9cbc198f48b862120e174db435724aa0fbe2b402592085b00edae9f5c95
+[competitor-b266128472] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128472","result":"0xbb8ea9cbc198f48b862120e174db435724aa0fbe2b402592085b00edae9f5c95"}
+[block 266128490] Detected target-pool swap tx: 0x3291b94c4328eaf56ddd2351bee0c5e1ba46d78a4792841c828d3b39f73ce302
+[competitor-b266128490] POSTing tx nonce=945 hash=0x8785306d7381f7029713b57acbd2c7d71a08207a4a9f9997e04d0eaa636540fe at 2026-05-07T02:47:44.747Z
+[block 266128491] Detected target-pool swap tx: 0x51019784eb14e2130ae8ecc42601c916005aa037b45f0423332a25ead43db2ce
+[block 266128490] Competitor tx submitted: 0x8785306d7381f7029713b57acbd2c7d71a08207a4a9f9997e04d0eaa636540fe
+[competitor-b266128490] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128490","result":"0x8785306d7381f7029713b57acbd2c7d71a08207a4a9f9997e04d0eaa636540fe"}
+[block 266128490] Detected target-pool swap tx: 0x3291b94c4328eaf56ddd2351bee0c5e1ba46d78a4792841c828d3b39f73ce302
+[competitor-b266128490] POSTing tx nonce=946 hash=0xe983fd996a48a69b389467e2cc9304cff8a7184781d514fe925912b89fc83f26 at 2026-05-07T02:47:44.807Z
+[block 266128490] Competitor tx submitted: 0xe983fd996a48a69b389467e2cc9304cff8a7184781d514fe925912b89fc83f26
+[competitor-b266128490] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128490","result":"0xe983fd996a48a69b389467e2cc9304cff8a7184781d514fe925912b89fc83f26"}
+[block 266128595] Detected target-pool swap tx: 0xbd6a44a63f8877ecfb071b61738558275579d2dadf34a2a38151742ba7daf86e
+[competitor-b266128595] POSTing tx nonce=947 hash=0x9d8896096e47c78bd1c687785e5cbbc130cad6cd1fc6e7f8894d091e68565b21 at 2026-05-07T02:48:33.859Z
+[block 266128595] Competitor tx submitted: 0x9d8896096e47c78bd1c687785e5cbbc130cad6cd1fc6e7f8894d091e68565b21
+[competitor-b266128595] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128595","result":"0x9d8896096e47c78bd1c687785e5cbbc130cad6cd1fc6e7f8894d091e68565b21"}
+[block 266128596] Detected target-pool swap tx: 0x3eb516697c90ac451ab06db722d9127dbd9f69fedf016410e0b996d6f16a3a8a
+[competitor-b266128596] POSTing tx nonce=948 hash=0x8f399aa93a1fe022c72ebffbbcd1179e60ac084649c7a059ef4ef97825da7c74 at 2026-05-07T02:48:34.283Z
+[block 266128596] Competitor tx submitted: 0x8f399aa93a1fe022c72ebffbbcd1179e60ac084649c7a059ef4ef97825da7c74
+[block 266128596] Detected target-pool swap tx: 0x3eb516697c90ac451ab06db722d9127dbd9f69fedf016410e0b996d6f16a3a8a
+[competitor-b266128596] POSTing tx nonce=949 hash=0x28a0169ba262b3dc77ffa3c35088249e996e7ec190204d3d1f52dc58608782c7 at 2026-05-07T02:48:34.343Z
+[block 266128596] Competitor tx submitted: 0x28a0169ba262b3dc77ffa3c35088249e996e7ec190204d3d1f52dc58608782c7
+[competitor-b266128596] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128596","result":"0x8f399aa93a1fe022c72ebffbbcd1179e60ac084649c7a059ef4ef97825da7c74"}
+[competitor-b266128596] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128596","result":"0x28a0169ba262b3dc77ffa3c35088249e996e7ec190204d3d1f52dc58608782c7"}
+[block 266128646] Detected target-pool swap tx: 0x4a745652ce24c7992c4ac4d051566de4c8b592f47d1e7409734b120323b55ae6
+[competitor-b266128646] POSTing tx nonce=950 hash=0x0ead8b37d3104d5aa203ca0c52216d4adc25b5a701914782e09e486d26639325 at 2026-05-07T02:48:51.522Z
+[block 266128646] Competitor tx submitted: 0x0ead8b37d3104d5aa203ca0c52216d4adc25b5a701914782e09e486d26639325
+[competitor-b266128646] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128646","result":"0x0ead8b37d3104d5aa203ca0c52216d4adc25b5a701914782e09e486d26639325"}
+[block 266128647] Detected target-pool swap tx: 0xdeab8180aec0c17de9352c39b2c63f7a12cafd698ff5c71a426bc7e1688c2d07
+[competitor-b266128647] POSTing tx nonce=951 hash=0xa2daadf68454b7ca16ccfbc9b214501886769f954823bbae66e57b88039230c8 at 2026-05-07T02:48:51.933Z
+[block 266128647] Competitor tx submitted: 0xa2daadf68454b7ca16ccfbc9b214501886769f954823bbae66e57b88039230c8
+[block 266128647] Detected target-pool swap tx: 0xdeab8180aec0c17de9352c39b2c63f7a12cafd698ff5c71a426bc7e1688c2d07
+[competitor-b266128647] POSTing tx nonce=952 hash=0x590ac87d5572a410a11add98434c498c5548a2ac6cf9270316a46d087fa7af96 at 2026-05-07T02:48:51.989Z
+[block 266128647] Competitor tx submitted: 0x590ac87d5572a410a11add98434c498c5548a2ac6cf9270316a46d087fa7af96
+[competitor-b266128647] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128647","result":"0x590ac87d5572a410a11add98434c498c5548a2ac6cf9270316a46d087fa7af96"}
+[competitor-b266128647] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128647","result":"0xa2daadf68454b7ca16ccfbc9b214501886769f954823bbae66e57b88039230c8"}
+[block 266128678] Detected target-pool swap tx: 0x7559b3bf1cb4d1f0e07bf6466c1f06627ba04200fdc551a689c4115ff643666e
+[competitor-b266128678] POSTing tx nonce=953 hash=0x8624400b11bc7b30aea38438dc04f75b9251d5e626609009fb86604c0d9e1dad at 2026-05-07T02:49:00.302Z
+[block 266128678] Competitor tx submitted: 0x8624400b11bc7b30aea38438dc04f75b9251d5e626609009fb86604c0d9e1dad
+[competitor-b266128678] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128678","result":"0x8624400b11bc7b30aea38438dc04f75b9251d5e626609009fb86604c0d9e1dad"}
+[block 266128679] Detected target-pool swap tx: 0x265df709e398e559db50544c34f1119b122e7c29d5b1a2b637985f209480dd6e
+[competitor-b266128679] POSTing tx nonce=954 hash=0x5291ed9737cca9091a0ff47dfbab20e5379482b6c3619ee8a41912e83a2f3995 at 2026-05-07T02:49:00.744Z
+[block 266128679] Competitor tx submitted: 0x5291ed9737cca9091a0ff47dfbab20e5379482b6c3619ee8a41912e83a2f3995
+[block 266128679] Detected target-pool swap tx: 0x265df709e398e559db50544c34f1119b122e7c29d5b1a2b637985f209480dd6e
+[competitor-b266128679] POSTing tx nonce=955 hash=0x3c7b74680a05da8e90a01bb201f175e9fa46317e0bf93dacf272211d628f6df6 at 2026-05-07T02:49:00.800Z
+[block 266128679] Competitor tx submitted: 0x3c7b74680a05da8e90a01bb201f175e9fa46317e0bf93dacf272211d628f6df6
+[competitor-b266128679] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128679","result":"0x5291ed9737cca9091a0ff47dfbab20e5379482b6c3619ee8a41912e83a2f3995"}
+[competitor-b266128679] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128679","result":"0x3c7b74680a05da8e90a01bb201f175e9fa46317e0bf93dacf272211d628f6df6"}
+[block 266128707] Detected target-pool swap tx: 0x42c436e498f68bfa739b78f751ef05815e5d713d05fe79d7df51036b28655939
+[competitor-b266128707] POSTing tx nonce=956 hash=0x673e6a69eef40e95adc49607d3c26f6a8c12965b372c7c6bf59cba267a480adf at 2026-05-07T02:49:07.857Z
+[block 266128707] Competitor tx submitted: 0x673e6a69eef40e95adc49607d3c26f6a8c12965b372c7c6bf59cba267a480adf
+[competitor-b266128707] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128707","result":"0x673e6a69eef40e95adc49607d3c26f6a8c12965b372c7c6bf59cba267a480adf"}
+[block 266128708] Detected target-pool swap tx: 0x667ccc9a9d6d3270a6b7204fb5890815133706a1645c182757c4704c00e7988f
+[competitor-b266128708] POSTing tx nonce=957 hash=0xebb7cc24001393e6af0aee90da076645ee2d359fdd6508997374290704ad897a at 2026-05-07T02:49:08.278Z
+[block 266128708] Competitor tx submitted: 0xebb7cc24001393e6af0aee90da076645ee2d359fdd6508997374290704ad897a
+[block 266128708] Detected target-pool swap tx: 0x667ccc9a9d6d3270a6b7204fb5890815133706a1645c182757c4704c00e7988f
+[competitor-b266128708] POSTing tx nonce=958 hash=0xad94dc2768bfb203bc7a23c5e758cf9c70fddac1ac99796af76b3ea5f715cd3f at 2026-05-07T02:49:08.337Z
+[block 266128708] Competitor tx submitted: 0xad94dc2768bfb203bc7a23c5e758cf9c70fddac1ac99796af76b3ea5f715cd3f
+[competitor-b266128708] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128708","result":"0xebb7cc24001393e6af0aee90da076645ee2d359fdd6508997374290704ad897a"}
+[competitor-b266128708] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128708","result":"0xad94dc2768bfb203bc7a23c5e758cf9c70fddac1ac99796af76b3ea5f715cd3f"}
+[block 266128783] Detected target-pool swap tx: 0x55ba5975050199b07f4c6841b67d7169b613666f99baf01c658fed62d71daaaa
+[competitor-b266128783] POSTing tx nonce=959 hash=0xe045566f647936cb7675e691f738fa47f3d318b02bca58046b5ab6ff3e222e0a at 2026-05-07T02:49:37.255Z
+[block 266128783] Competitor tx submitted: 0xe045566f647936cb7675e691f738fa47f3d318b02bca58046b5ab6ff3e222e0a
+[competitor-b266128783] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128783","result":"0xe045566f647936cb7675e691f738fa47f3d318b02bca58046b5ab6ff3e222e0a"}
+[block 266128784] Detected target-pool swap tx: 0x271161790ddab9a454ec68e2947957f18c505cc551a0bfa67394fb8f2449995e
+[competitor-b266128784] POSTing tx nonce=960 hash=0xe1acf2a58219497ce8834eb1bd11e608c85e73402decec017f26ff42c5aad6de at 2026-05-07T02:49:37.665Z
+[block 266128784] Competitor tx submitted: 0xe1acf2a58219497ce8834eb1bd11e608c85e73402decec017f26ff42c5aad6de
+[competitor-b266128784] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128784","result":"0xe1acf2a58219497ce8834eb1bd11e608c85e73402decec017f26ff42c5aad6de"}
+[block 266128855] Detected target-pool swap tx: 0x13df7f9f2d0c01406a2d427b11ae29fb78303c017ace0355f5f74f694e03e4f4
+[competitor-b266128855] POSTing tx nonce=961 hash=0x631c4fe9cecfdb469c3a22b156a9d4db8bdbc0a736fecaf5a59ba13e53febf02 at 2026-05-07T02:50:05.009Z
+[block 266128855] Competitor tx submitted: 0x631c4fe9cecfdb469c3a22b156a9d4db8bdbc0a736fecaf5a59ba13e53febf02
+[competitor-b266128855] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128855","result":"0x631c4fe9cecfdb469c3a22b156a9d4db8bdbc0a736fecaf5a59ba13e53febf02"}
+[block 266128856] Detected target-pool swap tx: 0xf943e804fec2f090dbd7e14cf04e8bb37a2a9a52b0ac66dc1cfaf7efd5af4b94
+[competitor-b266128856] POSTing tx nonce=962 hash=0x38adaa49f8be72fcf5b6d3157863306cb0af948b997e9deaca95b3028d400c6f at 2026-05-07T02:50:05.428Z
+[block 266128856] Competitor tx submitted: 0x38adaa49f8be72fcf5b6d3157863306cb0af948b997e9deaca95b3028d400c6f
+[block 266128856] Detected target-pool swap tx: 0xf943e804fec2f090dbd7e14cf04e8bb37a2a9a52b0ac66dc1cfaf7efd5af4b94
+[competitor-b266128856] POSTing tx nonce=963 hash=0x90bb6a21dbbfbd5f95e46c0b1ed2bbd9386e2e714786d917cc7ec5a5248fd70e at 2026-05-07T02:50:05.488Z
+[block 266128856] Competitor tx submitted: 0x90bb6a21dbbfbd5f95e46c0b1ed2bbd9386e2e714786d917cc7ec5a5248fd70e
+[competitor-b266128856] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128856","result":"0x90bb6a21dbbfbd5f95e46c0b1ed2bbd9386e2e714786d917cc7ec5a5248fd70e"}
+[competitor-b266128856] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128856","result":"0x38adaa49f8be72fcf5b6d3157863306cb0af948b997e9deaca95b3028d400c6f"}
+[block 266128885] Detected target-pool swap tx: 0x00e970550ff0b50d12694044bbc08951f820c2bbb63100960ac9c6c49e90b937
+[competitor-b266128885] POSTing tx nonce=964 hash=0xdf2e5594fc53bdc6e48d38a043e222001e6da8bd9c9903a445f159f8e6079b43 at 2026-05-07T02:50:12.571Z
+[block 266128885] Competitor tx submitted: 0xdf2e5594fc53bdc6e48d38a043e222001e6da8bd9c9903a445f159f8e6079b43
+[competitor-b266128885] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128885","result":"0xdf2e5594fc53bdc6e48d38a043e222001e6da8bd9c9903a445f159f8e6079b43"}
+[block 266128886] Detected target-pool swap tx: 0x7a87a3c61d3ce359bb136a93e38e8bdb296fa6c06f7cf5286dce410e7942b013
+[competitor-b266128886] POSTing tx nonce=965 hash=0x38978207347e4bd399dc8bc9afed22f7ff86bffd79d2f921ca7ce15d531fce14 at 2026-05-07T02:50:12.998Z
+[block 266128886] Competitor tx submitted: 0x38978207347e4bd399dc8bc9afed22f7ff86bffd79d2f921ca7ce15d531fce14
+[block 266128886] Detected target-pool swap tx: 0x7a87a3c61d3ce359bb136a93e38e8bdb296fa6c06f7cf5286dce410e7942b013
+[competitor-b266128886] POSTing tx nonce=966 hash=0x2ad649b1d408aeeda177e1e2c89a140fc808a48238d3887922bb85c11c6ecd83 at 2026-05-07T02:50:13.058Z
+[block 266128886] Competitor tx submitted: 0x2ad649b1d408aeeda177e1e2c89a140fc808a48238d3887922bb85c11c6ecd83
+[competitor-b266128886] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128886","result":"0x2ad649b1d408aeeda177e1e2c89a140fc808a48238d3887922bb85c11c6ecd83"}
+[competitor-b266128886] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128886","result":"0x38978207347e4bd399dc8bc9afed22f7ff86bffd79d2f921ca7ce15d531fce14"}
+[block 266128940] Detected target-pool swap tx: 0xd69163773c69f0c26c09f4ba8d5c607150deddab301d463f6c0d60e2a2d57c99
+[competitor-b266128940] POSTing tx nonce=967 hash=0x42343c28f897e6c599e02c46ab74084bf572683d9272cb4743bfdb21047a6309 at 2026-05-07T02:50:33.588Z
+[block 266128940] Competitor tx submitted: 0x42343c28f897e6c599e02c46ab74084bf572683d9272cb4743bfdb21047a6309
+[competitor-b266128940] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128940","result":"0x42343c28f897e6c599e02c46ab74084bf572683d9272cb4743bfdb21047a6309"}
+[block 266128942] Detected target-pool swap tx: 0x30d11953d71fa11858c674db8ac6df012b3f827206379a9965a419b28dc05d2c
+[competitor-b266128942] POSTing tx nonce=968 hash=0x8f6a6c2dc968c9abdff0e4a54aba3333e52240ae048c57c287229be2294e70b4 at 2026-05-07T02:50:34.430Z
+[block 266128942] Competitor tx submitted: 0x8f6a6c2dc968c9abdff0e4a54aba3333e52240ae048c57c287229be2294e70b4
+[competitor-b266128942] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266128942","result":"0x8f6a6c2dc968c9abdff0e4a54aba3333e52240ae048c57c287229be2294e70b4"}
+[block 266129010] Detected target-pool swap tx: 0xa36e4eac8e4b3c38ed55a12e11a868654a2bd12fe5418244be7f5008bcc87453
+[competitor-b266129010] POSTing tx nonce=969 hash=0xc44ad8e1a2a0352fd71d532fcaa0be3c0292169581b8a280c164e2db935d1121 at 2026-05-07T02:51:02.152Z
+[block 266129010] Competitor tx submitted: 0xc44ad8e1a2a0352fd71d532fcaa0be3c0292169581b8a280c164e2db935d1121
+[competitor-b266129010] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129010","result":"0xc44ad8e1a2a0352fd71d532fcaa0be3c0292169581b8a280c164e2db935d1121"}
+[block 266129011] Detected target-pool swap tx: 0xfd4fba93ea62d0cb32201c66fc5ff54e9bd4d7464e17761cc4d2a8b571b419bc
+[competitor-b266129011] POSTing tx nonce=970 hash=0x01d39ccffbcf437913c42c3dc7d4d68eb211e4f643d333c20191202559ba095f at 2026-05-07T02:51:02.575Z
+[block 266129011] Competitor tx submitted: 0x01d39ccffbcf437913c42c3dc7d4d68eb211e4f643d333c20191202559ba095f
+[competitor-b266129011] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129011","result":"0x01d39ccffbcf437913c42c3dc7d4d68eb211e4f643d333c20191202559ba095f"}
+[block 266129041] Detected target-pool swap tx: 0x85f15634b3d78a3d6921b2003352f8ca135925da6281b7e98c548713ae1fe63b
+[competitor-b266129041] POSTing tx nonce=971 hash=0x77e51cc6fc44d0332fe6038b154bf1a4c78b06cab827b06fa9e0a7ace219326a at 2026-05-07T02:51:12.668Z
+[block 266129041] Competitor tx submitted: 0x77e51cc6fc44d0332fe6038b154bf1a4c78b06cab827b06fa9e0a7ace219326a
+[competitor-b266129041] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129041","result":"0x77e51cc6fc44d0332fe6038b154bf1a4c78b06cab827b06fa9e0a7ace219326a"}
+[block 266129043] Detected target-pool swap tx: 0x83ae52438d974fa6c9a3b2d874e2a61d442f73e609e3494dff73579f7876c957
+[competitor-b266129043] POSTing tx nonce=972 hash=0x911257f8d704b5af056e55c4aaf11e37c18506e8b6549377054dfde1cfae3d50 at 2026-05-07T02:51:13.084Z
+[block 266129043] Competitor tx submitted: 0x911257f8d704b5af056e55c4aaf11e37c18506e8b6549377054dfde1cfae3d50
+[competitor-b266129043] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129043","result":"0x911257f8d704b5af056e55c4aaf11e37c18506e8b6549377054dfde1cfae3d50"}
+[block 266129072] Detected target-pool swap tx: 0x16c05b71bd084074075215512ceb347f81b7e1df28f131ebaa9c42bd57bf52f0
+[competitor-b266129072] POSTing tx nonce=973 hash=0x24a9f814660f2bd94d7b289b2ca0dea173a327cccab7cc68165eb0bc581163e7 at 2026-05-07T02:51:20.216Z
+[block 266129072] Competitor tx submitted: 0x24a9f814660f2bd94d7b289b2ca0dea173a327cccab7cc68165eb0bc581163e7
+[competitor-b266129072] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129072","result":"0x24a9f814660f2bd94d7b289b2ca0dea173a327cccab7cc68165eb0bc581163e7"}
+[block 266129073] Detected target-pool swap tx: 0x484a3dfb90c6f3809ab65efbc26a6ab5ddaa0f1f36d96773211a7c87d87c93ff
+[competitor-b266129073] POSTing tx nonce=974 hash=0x1ada6c4bac6ca8bec1bdb7b7f25e03c71975d8bd7bf086f01a4c4eb4fc45da57 at 2026-05-07T02:51:20.636Z
+[block 266129073] Competitor tx submitted: 0x1ada6c4bac6ca8bec1bdb7b7f25e03c71975d8bd7bf086f01a4c4eb4fc45da57
+[block 266129073] Detected target-pool swap tx: 0x484a3dfb90c6f3809ab65efbc26a6ab5ddaa0f1f36d96773211a7c87d87c93ff
+[competitor-b266129073] POSTing tx nonce=975 hash=0x03366291dcec3cea749f2bce36a842404cc5242a8249677a0b67f9bad95d934a at 2026-05-07T02:51:20.695Z
+[block 266129073] Competitor tx submitted: 0x03366291dcec3cea749f2bce36a842404cc5242a8249677a0b67f9bad95d934a
+[competitor-b266129073] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129073","result":"0x1ada6c4bac6ca8bec1bdb7b7f25e03c71975d8bd7bf086f01a4c4eb4fc45da57"}
+[competitor-b266129073] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129073","result":"0x03366291dcec3cea749f2bce36a842404cc5242a8249677a0b67f9bad95d934a"}
+[block 266129094] Detected target-pool swap tx: 0x40dc4f091bfbe07f40a209d6eaba66044dc4acd83a6c2d54f87a61a53a04d424
+[competitor-b266129094] POSTing tx nonce=976 hash=0xf150360a7004d6eb38d154e58b1acfdaee6ab270439e004ad811ec3c401b55c6 at 2026-05-07T02:51:27.779Z
+[block 266129094] Competitor tx submitted: 0xf150360a7004d6eb38d154e58b1acfdaee6ab270439e004ad811ec3c401b55c6
+[competitor-b266129094] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129094","result":"0xf150360a7004d6eb38d154e58b1acfdaee6ab270439e004ad811ec3c401b55c6"}
+[block 266129095] Detected target-pool swap tx: 0xc41d77ab9f499df89ed9011c3693883f0a36ae797d229121b5f9633e43b276a9
+[competitor-b266129095] POSTing tx nonce=977 hash=0xec3a57a7e9a327b1d307358593db1103b55fcf1510484cf18e121d028770ed3a at 2026-05-07T02:51:28.199Z
+[block 266129095] Competitor tx submitted: 0xec3a57a7e9a327b1d307358593db1103b55fcf1510484cf18e121d028770ed3a
+[competitor-b266129095] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129095","result":"0xec3a57a7e9a327b1d307358593db1103b55fcf1510484cf18e121d028770ed3a"}
+[block 266129161] Detected target-pool swap tx: 0xf0ac49f072c6240d884ea137ce67053501cce5dd3f7efb797ec4a870d6947bf0
+[competitor-b266129161] POSTing tx nonce=978 hash=0xed0ca1b1ee615aafd3d383f26848ab9eaba112492517dc5c2c8294305f88a027 at 2026-05-07T02:51:55.101Z
+[block 266129161] Competitor tx submitted: 0xed0ca1b1ee615aafd3d383f26848ab9eaba112492517dc5c2c8294305f88a027
+[competitor-b266129161] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129161","result":"0xed0ca1b1ee615aafd3d383f26848ab9eaba112492517dc5c2c8294305f88a027"}
+[block 266129163] Detected target-pool swap tx: 0x4fa8123d2976e5b0fbff9d516a48c9013c833d3ddc241aa2907afda024ad398b
+[competitor-b266129163] POSTing tx nonce=979 hash=0x0646841ac6a17e28bc79e026476d145c1aeee9c30f644251c9ec514fe1189e76 at 2026-05-07T02:51:55.936Z
+[block 266129163] Competitor tx submitted: 0x0646841ac6a17e28bc79e026476d145c1aeee9c30f644251c9ec514fe1189e76
+[block 266129163] Detected target-pool swap tx: 0x4fa8123d2976e5b0fbff9d516a48c9013c833d3ddc241aa2907afda024ad398b
+[competitor-b266129163] POSTing tx nonce=980 hash=0x70c8f345a481f74590c589b86c970099cb1b1d648d92751f36096a398b034395 at 2026-05-07T02:51:55.998Z
+[block 266129163] Competitor tx submitted: 0x70c8f345a481f74590c589b86c970099cb1b1d648d92751f36096a398b034395
+[competitor-b266129163] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129163","result":"0x70c8f345a481f74590c589b86c970099cb1b1d648d92751f36096a398b034395"}
+[competitor-b266129163] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129163","result":"0x0646841ac6a17e28bc79e026476d145c1aeee9c30f644251c9ec514fe1189e76"}
+[block 266129214] Detected target-pool swap tx: 0x1b72770bb9b6edb6d1f0f9f0e7aa2608bc4466a06edc4540968c0529f67c8a94
+[competitor-b266129214] POSTing tx nonce=981 hash=0x8232d6991c11571d2f632a383ccf50e2d162329406851d52ceb29372012c8941 at 2026-05-07T02:52:14.845Z
+[block 266129214] Competitor tx submitted: 0x8232d6991c11571d2f632a383ccf50e2d162329406851d52ceb29372012c8941
+[competitor-b266129214] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129214","result":"0x8232d6991c11571d2f632a383ccf50e2d162329406851d52ceb29372012c8941"}
+[block 266129215] Detected target-pool swap tx: 0xa133caf64352575bb1feba6ce48e124d088fa218c053f692f22d1d561df10c59
+[competitor-b266129215] POSTing tx nonce=982 hash=0xbc2f669cab5093cfeee3e378ea4ad12f296119b828398c5904ed4a6543235298 at 2026-05-07T02:52:15.273Z
+[block 266129215] Competitor tx submitted: 0xbc2f669cab5093cfeee3e378ea4ad12f296119b828398c5904ed4a6543235298
+[competitor-b266129215] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129215","result":"0xbc2f669cab5093cfeee3e378ea4ad12f296119b828398c5904ed4a6543235298"}
+[block 266129245] Detected target-pool swap tx: 0xa16f0ae304f815d12a32874cd9e6b792ee3e773c6fdf5460e9c1f2812b57162e
+[competitor-b266129245] POSTing tx nonce=983 hash=0xa81f120f7f1fea4a62cee3571be856103576b4e1f3622656ae800e9f38af830d at 2026-05-07T02:52:22.852Z
+[block 266129245] Competitor tx submitted: 0xa81f120f7f1fea4a62cee3571be856103576b4e1f3622656ae800e9f38af830d
+[competitor-b266129245] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129245","result":"0xa81f120f7f1fea4a62cee3571be856103576b4e1f3622656ae800e9f38af830d"}
+[block 266129246] Detected target-pool swap tx: 0x5d2a54a6e0597af92947a803993aa86dbc43768c6321e6c4899590798aecb4af
+[competitor-b266129246] POSTing tx nonce=984 hash=0xced1f54c877e08ea2b35f157c793f7bb16bc1e3068ebba1ec2be3612a2cf8f27 at 2026-05-07T02:52:23.698Z
+[block 266129246] Competitor tx submitted: 0xced1f54c877e08ea2b35f157c793f7bb16bc1e3068ebba1ec2be3612a2cf8f27
+[competitor-b266129246] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129246","result":"0xced1f54c877e08ea2b35f157c793f7bb16bc1e3068ebba1ec2be3612a2cf8f27"}
+[block 266129276] Detected target-pool swap tx: 0x004c5f818a66c0b9deb7f96dcb045576317c01d1c1097c510e9872e03208aef4
+[competitor-b266129276] POSTing tx nonce=985 hash=0xd106376a478892ebd2788ec161b5b490231bce4be9f266056808835ed82629af at 2026-05-07T02:52:30.392Z
+[block 266129276] Competitor tx submitted: 0xd106376a478892ebd2788ec161b5b490231bce4be9f266056808835ed82629af
+[competitor-b266129276] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129276","result":"0xd106376a478892ebd2788ec161b5b490231bce4be9f266056808835ed82629af"}
+[block 266129277] Detected target-pool swap tx: 0x02ab8886d981acb09f9ef6333e0d5782094a84a715d2c2b7798ea6dc30ebb923
+[competitor-b266129277] POSTing tx nonce=986 hash=0x4f4fd38c3f5475a45c1dd24fec294b05fe0a0c220b2610be3e052288db540ac8 at 2026-05-07T02:52:31.234Z
+[block 266129277] Competitor tx submitted: 0x4f4fd38c3f5475a45c1dd24fec294b05fe0a0c220b2610be3e052288db540ac8
+[block 266129277] Detected target-pool swap tx: 0x02ab8886d981acb09f9ef6333e0d5782094a84a715d2c2b7798ea6dc30ebb923
+[competitor-b266129277] POSTing tx nonce=987 hash=0x89a32458739c340ad0feab017b6a25f765b704eaac2d0971f9d13657209f34a8 at 2026-05-07T02:52:31.293Z
+[block 266129277] Competitor tx submitted: 0x89a32458739c340ad0feab017b6a25f765b704eaac2d0971f9d13657209f34a8
+[competitor-b266129277] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129277","result":"0x4f4fd38c3f5475a45c1dd24fec294b05fe0a0c220b2610be3e052288db540ac8"}
+[competitor-b266129277] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129277","result":"0x89a32458739c340ad0feab017b6a25f765b704eaac2d0971f9d13657209f34a8"}
+[block 266129313] Detected target-pool swap tx: 0x154191c1f65ca03f14d684db15c9d2f94462421df96d323c09038498e4cd8654
+[competitor-b266129313] POSTing tx nonce=988 hash=0xce4ce2a7bc4c23d9761b2243f7fe881a1a3a69802436f2fa347c0acafa8d9737 at 2026-05-07T02:52:42.020Z
+[block 266129313] Competitor tx submitted: 0xce4ce2a7bc4c23d9761b2243f7fe881a1a3a69802436f2fa347c0acafa8d9737
+[competitor-b266129313] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129313","result":"0xce4ce2a7bc4c23d9761b2243f7fe881a1a3a69802436f2fa347c0acafa8d9737"}
+[block 266129314] Detected target-pool swap tx: 0x09509a0353abeb61a801524d92d7ed64a06b982d9ed5a8a02bc44bffc829a17e
+[competitor-b266129314] POSTing tx nonce=989 hash=0xa61cdfbb4e30823f902becffa32b02a0bff7b5d8962afba0ab882ef5da029323 at 2026-05-07T02:52:42.439Z
+[block 266129314] Competitor tx submitted: 0xa61cdfbb4e30823f902becffa32b02a0bff7b5d8962afba0ab882ef5da029323
+[block 266129314] Detected target-pool swap tx: 0x09509a0353abeb61a801524d92d7ed64a06b982d9ed5a8a02bc44bffc829a17e
+[competitor-b266129314] POSTing tx nonce=990 hash=0x91b5567335d261cdd2f531ac3cf8fdd6728d671cca1aaff1fbfa2b18d11eae87 at 2026-05-07T02:52:42.500Z
+[block 266129314] Competitor tx submitted: 0x91b5567335d261cdd2f531ac3cf8fdd6728d671cca1aaff1fbfa2b18d11eae87
+[competitor-b266129314] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129314","result":"0xa61cdfbb4e30823f902becffa32b02a0bff7b5d8962afba0ab882ef5da029323"}
+[competitor-b266129314] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129314","result":"0x91b5567335d261cdd2f531ac3cf8fdd6728d671cca1aaff1fbfa2b18d11eae87"}
+[block 266129425] Detected target-pool swap tx: 0xc0e8937ae4c9c979c768102bb5c3cf4f4d0b39b0f6bc312e5e6a9bac6f4f697f
+[competitor-b266129425] POSTing tx nonce=991 hash=0xd47b6778b490eb6d34eb3cc60e73e00b9cee345381d1e252b4c79bc99226d2d0 at 2026-05-07T02:53:23.489Z
+[block 266129425] Competitor tx submitted: 0xd47b6778b490eb6d34eb3cc60e73e00b9cee345381d1e252b4c79bc99226d2d0
+[block 266129424] Detected target-pool swap tx: 0xc40b93eccdd9f0ea562562e17fba1ccdbb5431829dc0603e5854042a450d8f34
+[competitor-b266129424] POSTing tx nonce=992 hash=0x9a2473288b586de1fff62153df48e0d0e735f4c9cb7d225edb0ee44199b6f419 at 2026-05-07T02:53:23.532Z
+[block 266129424] Competitor tx submitted: 0x9a2473288b586de1fff62153df48e0d0e735f4c9cb7d225edb0ee44199b6f419
+[block 266129424] Detected target-pool swap tx: 0xc40b93eccdd9f0ea562562e17fba1ccdbb5431829dc0603e5854042a450d8f34
+[competitor-b266129424] POSTing tx nonce=993 hash=0x2edb3758d31913c7fc890bd60f9ee5d7ff4208370db10ed4eb6d35e657d2da3a at 2026-05-07T02:53:23.591Z
+[block 266129424] Competitor tx submitted: 0x2edb3758d31913c7fc890bd60f9ee5d7ff4208370db10ed4eb6d35e657d2da3a
+[competitor-b266129425] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129425","result":"0xd47b6778b490eb6d34eb3cc60e73e00b9cee345381d1e252b4c79bc99226d2d0"}
+[competitor-b266129424] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129424","result":"0x2edb3758d31913c7fc890bd60f9ee5d7ff4208370db10ed4eb6d35e657d2da3a"}
+[competitor-b266129424] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129424","result":"0x9a2473288b586de1fff62153df48e0d0e735f4c9cb7d225edb0ee44199b6f419"}
+[block 266129489] Detected target-pool swap tx: 0x17a0ab408f4c10409b0184263f8de55b2e759042fbc30f6fb500351710d011da
+[competitor-b266129489] POSTing tx nonce=994 hash=0x7de9c93c7043a4ba69efede9f8d18b211f0b712981bd6af44509c3066c80a5f2 at 2026-05-07T02:53:51.630Z
+[block 266129490] Detected target-pool swap tx: 0xcbbe10baeb43aeb72c292d57847c0a426b6ea7ffa7e58fd6cf9d9e2058d4441e
+[block 266129489] Competitor tx submitted: 0x7de9c93c7043a4ba69efede9f8d18b211f0b712981bd6af44509c3066c80a5f2
+[block 266129489] Detected target-pool swap tx: 0x17a0ab408f4c10409b0184263f8de55b2e759042fbc30f6fb500351710d011da
+[competitor-b266129489] POSTing tx nonce=995 hash=0x36d0fc369422bf74c0a056a79735804a0d830001e2e265c6444ed10bb9947a04 at 2026-05-07T02:53:51.695Z
+[block 266129489] Competitor tx submitted: 0x36d0fc369422bf74c0a056a79735804a0d830001e2e265c6444ed10bb9947a04
+[competitor-b266129489] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129489","result":"0x36d0fc369422bf74c0a056a79735804a0d830001e2e265c6444ed10bb9947a04"}
+[competitor-b266129489] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129489","result":"0x7de9c93c7043a4ba69efede9f8d18b211f0b712981bd6af44509c3066c80a5f2"}
+[block 266129517] Detected target-pool swap tx: 0x8d5f5d99fb7c99d84fe465cf036b8adfccaf9ee9bd4f7b5c9c9525db31d1881f
+[competitor-b266129517] POSTing tx nonce=996 hash=0x315ad93ab016f037235092b4f720c132465fe834380f96907c2e74e06323c56a at 2026-05-07T02:54:00.463Z
+[block 266129517] Competitor tx submitted: 0x315ad93ab016f037235092b4f720c132465fe834380f96907c2e74e06323c56a
+[competitor-b266129517] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129517","result":"0x315ad93ab016f037235092b4f720c132465fe834380f96907c2e74e06323c56a"}
+[block 266129518] Detected target-pool swap tx: 0x41c90d91ba005904919c58f4c75a3b8dbd3c3e47d2e55b9d6dc266f20ffdc980
+[competitor-b266129518] POSTing tx nonce=997 hash=0x7e8042c96f41a1417ac2f5146e85afb0602f32b196bf35c8b8e6db9b59e00efd at 2026-05-07T02:54:01.290Z
+[block 266129518] Competitor tx submitted: 0x7e8042c96f41a1417ac2f5146e85afb0602f32b196bf35c8b8e6db9b59e00efd
+[block 266129518] Detected target-pool swap tx: 0x41c90d91ba005904919c58f4c75a3b8dbd3c3e47d2e55b9d6dc266f20ffdc980
+[competitor-b266129518] POSTing tx nonce=998 hash=0x81b8a606b1bf2579c377b54df291668d67a66fccef1b5a0046deb85ee241f005 at 2026-05-07T02:54:01.350Z
+[block 266129518] Competitor tx submitted: 0x81b8a606b1bf2579c377b54df291668d67a66fccef1b5a0046deb85ee241f005
+[competitor-b266129518] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129518","result":"0x81b8a606b1bf2579c377b54df291668d67a66fccef1b5a0046deb85ee241f005"}
+[competitor-b266129518] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129518","result":"0x7e8042c96f41a1417ac2f5146e85afb0602f32b196bf35c8b8e6db9b59e00efd"}
+[block 266129593] Detected target-pool swap tx: 0x7c08e8cbd1ad7adf6b8cb9e3c3574f94636927db64a2c768566fe4d987b48549
+[competitor-b266129593] POSTing tx nonce=999 hash=0xcf342b4091c2feffae8263073a73424f3949f84a2dbd6df96a02bd1a0d596a51 at 2026-05-07T02:54:29.023Z
+[block 266129593] Competitor tx submitted: 0xcf342b4091c2feffae8263073a73424f3949f84a2dbd6df96a02bd1a0d596a51
+[competitor-b266129593] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129593","result":"0xcf342b4091c2feffae8263073a73424f3949f84a2dbd6df96a02bd1a0d596a51"}
+[block 266129594] Detected target-pool swap tx: 0xd2909253ba2a2202b8c386c8804837f31b3f52cc09e35e34fb4ec1d0228f74cf
+[competitor-b266129594] POSTing tx nonce=1000 hash=0x9d0248f58cbd1d4e66e31c33aef999dd3933914c630e7c2b3ac43c558c826610 at 2026-05-07T02:54:29.448Z
+[block 266129594] Competitor tx submitted: 0x9d0248f58cbd1d4e66e31c33aef999dd3933914c630e7c2b3ac43c558c826610
+[competitor-b266129594] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129594","result":"0x9d0248f58cbd1d4e66e31c33aef999dd3933914c630e7c2b3ac43c558c826610"}
+[block 266129691] Detected target-pool swap tx: 0xcf7643242c925fb66eb311c1ad27d7651705b86f71c18b2ce49552f66f72a452
+[competitor-b266129691] POSTing tx nonce=1001 hash=0x84abf6e57bf4da820edb64bc6b8a0c738544f3fd62647e7ef1d282a6691a8806 at 2026-05-07T02:55:08.093Z
+[block 266129692] Detected target-pool swap tx: 0x3199265aea435dd9e6bddf1928e2fb28b4a6a6ceea936b63431ffe464d9ac1a2
+[block 266129691] Competitor tx submitted: 0x84abf6e57bf4da820edb64bc6b8a0c738544f3fd62647e7ef1d282a6691a8806
+[competitor-b266129691] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129691","result":"0x84abf6e57bf4da820edb64bc6b8a0c738544f3fd62647e7ef1d282a6691a8806"}
+[block 266129691] Detected target-pool swap tx: 0xcf7643242c925fb66eb311c1ad27d7651705b86f71c18b2ce49552f66f72a452
+[competitor-b266129691] POSTing tx nonce=1002 hash=0x429281828ad57da443d8c71fcf6ffa8ead1dc3aa27add58cf98d65645a76225b at 2026-05-07T02:55:08.153Z
+[block 266129691] Competitor tx submitted: 0x429281828ad57da443d8c71fcf6ffa8ead1dc3aa27add58cf98d65645a76225b
+[competitor-b266129691] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129691","result":"0x429281828ad57da443d8c71fcf6ffa8ead1dc3aa27add58cf98d65645a76225b"}
+[block 266129720] Detected target-pool swap tx: 0x2dcdf33c5bad3ea5197b98dd4e84a15ab1da46d1e9d4b7a405f452fef9be3618
+[competitor-b266129720] POSTing tx nonce=1003 hash=0x2ba04a6c535434667bd4f4b912f8194706db79c0bba2db4475ad425d6c790071 at 2026-05-07T02:55:18.597Z
+[block 266129721] Detected target-pool swap tx: 0x1785c113a4afcf47e85584af4298987a9298b9c317c810f84d808904f32d2686
+[block 266129720] Competitor tx submitted: 0x2ba04a6c535434667bd4f4b912f8194706db79c0bba2db4475ad425d6c790071
+[competitor-b266129720] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129720","result":"0x2ba04a6c535434667bd4f4b912f8194706db79c0bba2db4475ad425d6c790071"}
+[block 266129720] Detected target-pool swap tx: 0x2dcdf33c5bad3ea5197b98dd4e84a15ab1da46d1e9d4b7a405f452fef9be3618
+[competitor-b266129720] POSTing tx nonce=1004 hash=0x2f1f168c4bc4f74bb3be5f5e5e607437cf815732bccc71c6d01d2541f48902ee at 2026-05-07T02:55:18.659Z
+[block 266129720] Competitor tx submitted: 0x2f1f168c4bc4f74bb3be5f5e5e607437cf815732bccc71c6d01d2541f48902ee
+[competitor-b266129720] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129720","result":"0x2f1f168c4bc4f74bb3be5f5e5e607437cf815732bccc71c6d01d2541f48902ee"}
+[block 266129825] Detected target-pool swap tx: 0x472cf0173a887187aa3d4c3d7090a957febef4961d68835751c8d63310e36b99
+[competitor-b266129825] POSTing tx nonce=1005 hash=0xa81613450e5293604380757f3c83339a50438a798a113477d5c63766d11bcde2 at 2026-05-07T02:55:57.259Z
+[block 266129825] Competitor tx submitted: 0xa81613450e5293604380757f3c83339a50438a798a113477d5c63766d11bcde2
+[block 266129826] Detected target-pool swap tx: 0xf3e72a8b3e55a497d7393506dde452ac858b3c62aff5e54b67039d6e1d1f09fd
+[competitor-b266129826] POSTing tx nonce=1006 hash=0x8cf5d90677638f2bd4005a61c7d4b2dd7f603074eeaa600b450b695a10da6c2c at 2026-05-07T02:55:57.281Z
+[block 266129826] Competitor tx submitted: 0x8cf5d90677638f2bd4005a61c7d4b2dd7f603074eeaa600b450b695a10da6c2c
+[competitor-b266129826] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129826","result":"0x8cf5d90677638f2bd4005a61c7d4b2dd7f603074eeaa600b450b695a10da6c2c"}
+[competitor-b266129825] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129825","result":"0xa81613450e5293604380757f3c83339a50438a798a113477d5c63766d11bcde2"}
+[block 266129854] Detected target-pool swap tx: 0x02ad33e0ed2af4e75a2b6d065b214d4148d540b6224adf38ed54fa4a42106a51
+[competitor-b266129854] POSTing tx nonce=1007 hash=0xd122dd62f7dc4afe7f02cd84639bebd1c6dcca8fa8d7f216077544c9a7c45d97 at 2026-05-07T02:56:04.809Z
+[block 266129855] Detected target-pool swap tx: 0x06bd38c2d4776f326f38a4c7176ab1eeb26c55e2c185d0c995cc2a6505591350
+[block 266129854] Competitor tx submitted: 0xd122dd62f7dc4afe7f02cd84639bebd1c6dcca8fa8d7f216077544c9a7c45d97
+[block 266129854] Detected target-pool swap tx: 0x02ad33e0ed2af4e75a2b6d065b214d4148d540b6224adf38ed54fa4a42106a51
+[competitor-b266129854] POSTing tx nonce=1008 hash=0x3875b6d96c4d0ca50d813d6bd0309f8f65cd72b2be645ba256b90373fead3cc6 at 2026-05-07T02:56:04.868Z
+[block 266129854] Competitor tx submitted: 0x3875b6d96c4d0ca50d813d6bd0309f8f65cd72b2be645ba256b90373fead3cc6
+[competitor-b266129854] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129854","result":"0xd122dd62f7dc4afe7f02cd84639bebd1c6dcca8fa8d7f216077544c9a7c45d97"}
+[competitor-b266129854] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129854","result":"0x3875b6d96c4d0ca50d813d6bd0309f8f65cd72b2be645ba256b90373fead3cc6"}
+[block 266129884] Detected target-pool swap tx: 0x725b143bffc570dbc5f76293e8d5775e697065efb556f5756ff9e28840fedc27
+[competitor-b266129884] POSTing tx nonce=1009 hash=0x7c60bec7513a72f43c3b2308712781446ac32f1d6cf2e67e9df64e60014aac95 at 2026-05-07T02:56:13.214Z
+[block 266129884] Competitor tx submitted: 0x7c60bec7513a72f43c3b2308712781446ac32f1d6cf2e67e9df64e60014aac95
+[competitor-b266129884] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129884","result":"0x7c60bec7513a72f43c3b2308712781446ac32f1d6cf2e67e9df64e60014aac95"}
+[block 266129884] Detected target-pool swap tx: 0x725b143bffc570dbc5f76293e8d5775e697065efb556f5756ff9e28840fedc27
+[competitor-b266129884] POSTing tx nonce=1010 hash=0x3038370d2c5978c054f1ce0d5d4599f88d43a5e19999646101835b8877fd6575 at 2026-05-07T02:56:13.274Z
+[block 266129884] Competitor tx submitted: 0x3038370d2c5978c054f1ce0d5d4599f88d43a5e19999646101835b8877fd6575
+[competitor-b266129884] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129884","result":"0x3038370d2c5978c054f1ce0d5d4599f88d43a5e19999646101835b8877fd6575"}
+[block 266129886] Detected target-pool swap tx: 0xb4bb1af357a34840acf01460963cd86f0015115d527b92594aef680dcad86d4a
+[competitor-b266129886] POSTing tx nonce=1011 hash=0x7ec50607f78d886ed6d3cf1ec64ad443a7334b6815fa50cffa31e266461edd5e at 2026-05-07T02:56:13.652Z
+[block 266129886] Competitor tx submitted: 0x7ec50607f78d886ed6d3cf1ec64ad443a7334b6815fa50cffa31e266461edd5e
+[competitor-b266129886] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129886","result":"0x7ec50607f78d886ed6d3cf1ec64ad443a7334b6815fa50cffa31e266461edd5e"}
+[block 266129909] Detected target-pool swap tx: 0xd3f9386a58cdabd0ef9116bb9095a2c8f351dc39fdd63f1a8425ab6400b1a3c8
+[competitor-b266129909] POSTing tx nonce=1012 hash=0x9835d9e696cbb61819ef101e4143f6561f3c6665734fe849910a417a28938dbc at 2026-05-07T02:56:21.615Z
+[block 266129909] Competitor tx submitted: 0x9835d9e696cbb61819ef101e4143f6561f3c6665734fe849910a417a28938dbc
+[competitor-b266129909] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129909","result":"0x9835d9e696cbb61819ef101e4143f6561f3c6665734fe849910a417a28938dbc"}
+[block 266129910] Detected target-pool swap tx: 0x83a5cbefa71468b713eb266e59c2511a3629f64de8e809b87e5900273d17738e
+[competitor-b266129910] POSTing tx nonce=1013 hash=0x2884d7689007e01567e44fe4dc33cf7bc2b8587a1dbc86ee168202fc72c2eb5e at 2026-05-07T02:56:22.025Z
+[block 266129910] Competitor tx submitted: 0x2884d7689007e01567e44fe4dc33cf7bc2b8587a1dbc86ee168202fc72c2eb5e
+[competitor-b266129910] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129910","result":"0x2884d7689007e01567e44fe4dc33cf7bc2b8587a1dbc86ee168202fc72c2eb5e"}
+[block 266129943] Detected target-pool swap tx: 0x496cf7d84921e19f7149decc183df4709425e8291ed4abccac1a5e910583cfa8
+[competitor-b266129943] POSTing tx nonce=1014 hash=0x081420dd0c4cbeeedf41972ba40dcc16e59b2b853ce1623c5a6437ebe9afd577 at 2026-05-07T02:56:39.672Z
+[block 266129943] Competitor tx submitted: 0x081420dd0c4cbeeedf41972ba40dcc16e59b2b853ce1623c5a6437ebe9afd577
+[competitor-b266129943] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129943","result":"0x081420dd0c4cbeeedf41972ba40dcc16e59b2b853ce1623c5a6437ebe9afd577"}
+[block 266129943] Detected target-pool swap tx: 0x496cf7d84921e19f7149decc183df4709425e8291ed4abccac1a5e910583cfa8
+[competitor-b266129943] POSTing tx nonce=1015 hash=0xc1e39fe9f48984989568c4f0592b7770f1cf6b33c81b8be10dfb23ac9e3dd6b0 at 2026-05-07T02:56:39.731Z
+[block 266129943] Competitor tx submitted: 0xc1e39fe9f48984989568c4f0592b7770f1cf6b33c81b8be10dfb23ac9e3dd6b0
+[competitor-b266129943] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129943","result":"0xc1e39fe9f48984989568c4f0592b7770f1cf6b33c81b8be10dfb23ac9e3dd6b0"}
+[block 266129945] Detected target-pool swap tx: 0xd4f3d8552365d7b3d3d2259a2a931c8c05c3cc5351d1fdbe377c50778baa52ee
+[competitor-b266129945] POSTing tx nonce=1016 hash=0x0f9fe2dc3be2536ef6d98080542de2a6559854d01525cf426532c21343b2745d at 2026-05-07T02:56:40.094Z
+[block 266129945] Competitor tx submitted: 0x0f9fe2dc3be2536ef6d98080542de2a6559854d01525cf426532c21343b2745d
+[block 266129945] Detected target-pool swap tx: 0xd4f3d8552365d7b3d3d2259a2a931c8c05c3cc5351d1fdbe377c50778baa52ee
+[competitor-b266129945] POSTing tx nonce=1017 hash=0x9ea9912ba90f605da78af7575bd92b0b6a555cd4c28ce9630a02598a4925e42c at 2026-05-07T02:56:40.153Z
+[block 266129945] Competitor tx submitted: 0x9ea9912ba90f605da78af7575bd92b0b6a555cd4c28ce9630a02598a4925e42c
+[competitor-b266129945] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129945","result":"0x9ea9912ba90f605da78af7575bd92b0b6a555cd4c28ce9630a02598a4925e42c"}
+[competitor-b266129945] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266129945","result":"0x0f9fe2dc3be2536ef6d98080542de2a6559854d01525cf426532c21343b2745d"}
+[block 266130069] Detected target-pool swap tx: 0x49747cac38d1a40401c213cc4558c661f0cd19a003b07146f1718fee51344026
+[competitor-b266130069] POSTing tx nonce=1018 hash=0xb79449d905878b0178b3f711304e57383a7cd981bee0853c56a1d0e7ea9bdd19 at 2026-05-07T02:57:28.823Z
+[block 266130069] Competitor tx submitted: 0xb79449d905878b0178b3f711304e57383a7cd981bee0853c56a1d0e7ea9bdd19
+[competitor-b266130069] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130069","result":"0xb79449d905878b0178b3f711304e57383a7cd981bee0853c56a1d0e7ea9bdd19"}
+[block 266130070] Detected target-pool swap tx: 0x54292f75808c8d36319ad78b868f2ccf6e15485c1793d05a2669d0454aab512d
+[competitor-b266130070] POSTing tx nonce=1019 hash=0x62b716d10d93dc1398d40baf6a1a2d3d0ac9059f893e1a36377b6291951ab8dd at 2026-05-07T02:57:29.663Z
+[block 266130070] Competitor tx submitted: 0x62b716d10d93dc1398d40baf6a1a2d3d0ac9059f893e1a36377b6291951ab8dd
+[competitor-b266130070] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130070","result":"0x62b716d10d93dc1398d40baf6a1a2d3d0ac9059f893e1a36377b6291951ab8dd"}
+[block 266130185] Detected target-pool swap tx: 0x0d55360917f64934d35275204ca4d20c61785e2e6896d31f34a607d2c79ce099
+[competitor-b266130185] POSTing tx nonce=1020 hash=0xc86bc416e24a27b1553a99aa144d5a7a7bce23a2e3fa2cbe09ad4bb5bbc49d4c at 2026-05-07T02:58:11.255Z
+[block 266130187] Detected target-pool swap tx: 0x754a8a45a5e41ccac6045447220f5f2e6734c8583a52eacfa4b0f94767ec3fd8
+[block 266130185] Competitor tx submitted: 0xc86bc416e24a27b1553a99aa144d5a7a7bce23a2e3fa2cbe09ad4bb5bbc49d4c
+[competitor-b266130187] POSTing tx nonce=1021 hash=0xc86bc416e24a27b1553a99aa144d5a7a7bce23a2e3fa2cbe09ad4bb5bbc49d4c at 2026-05-07T02:58:11.259Z
+[block 266130187] Competitor tx submitted: 0xc86bc416e24a27b1553a99aa144d5a7a7bce23a2e3fa2cbe09ad4bb5bbc49d4c
+[competitor-b266130185] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130185","result":"0xc86bc416e24a27b1553a99aa144d5a7a7bce23a2e3fa2cbe09ad4bb5bbc49d4c"}
+[competitor-b266130187] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130187","error":{"code":-32000,"message":"nonce too low: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1020 state: 1021"}}
+[block 266130185] Detected target-pool swap tx: 0x0d55360917f64934d35275204ca4d20c61785e2e6896d31f34a607d2c79ce099
+[competitor-b266130185] POSTing tx nonce=1022 hash=0xf4796e6f7b88337bbec69ef31e3312cbb4d5f8bcd13b890eb918279ca768b4c3 at 2026-05-07T02:58:11.317Z
+[block 266130185] Competitor tx submitted: 0xf4796e6f7b88337bbec69ef31e3312cbb4d5f8bcd13b890eb918279ca768b4c3
+[block 266130187] Detected target-pool swap tx: 0x754a8a45a5e41ccac6045447220f5f2e6734c8583a52eacfa4b0f94767ec3fd8
+[competitor-b266130187] POSTing tx nonce=1023 hash=0xa12f2e3529e79ef606edfd69abad495c5ab5c99d74181a0f9b13cb74e96bb6cf at 2026-05-07T02:58:12.160Z
+[block 266130187] Competitor tx submitted: 0xa12f2e3529e79ef606edfd69abad495c5ab5c99d74181a0f9b13cb74e96bb6cf
+[block 266130187] Detected target-pool swap tx: 0x754a8a45a5e41ccac6045447220f5f2e6734c8583a52eacfa4b0f94767ec3fd8
+[competitor-b266130187] POSTing tx nonce=1024 hash=0xb91e9962b0de6a7ed0347b178a6c264e20c34048a5ae43de7037c890dcbc6ac4 at 2026-05-07T02:58:12.220Z
+[block 266130187] Competitor tx submitted: 0xb91e9962b0de6a7ed0347b178a6c264e20c34048a5ae43de7037c890dcbc6ac4
+[competitor-b266130185] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130185","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1022 state: 1021"}}
+[competitor-b266130187] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130187","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1023 state: 1021"}}
+[competitor-b266130187] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130187","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1024 state: 1021"}}
+[block 266130203] Detected target-pool swap tx: 0xebb2ed3296793084d94b47716c3b2f51b7b6c1b9dca4d6f1c24933f2c704234e
+[competitor-b266130203] POSTing tx nonce=1025 hash=0xd4b48105a48deb0d28ac58f50a8a2cb6ed4acf9de87f9aca4b59c96724930ac4 at 2026-05-07T02:58:20.497Z
+[block 266130204] Detected target-pool swap tx: 0xfd6f29b63aecb32755d2373d16827e91cf3f605eeb11a9018b0bb1eba8359f2a
+[block 266130203] Competitor tx submitted: 0xd4b48105a48deb0d28ac58f50a8a2cb6ed4acf9de87f9aca4b59c96724930ac4
+[block 266130203] Detected target-pool swap tx: 0xebb2ed3296793084d94b47716c3b2f51b7b6c1b9dca4d6f1c24933f2c704234e
+[competitor-b266130203] POSTing tx nonce=1026 hash=0x235ccda3785a2c18cb38df141efb5d9486627e35613c662a42b688cf9a3e9dfe at 2026-05-07T02:58:20.557Z
+[block 266130203] Competitor tx submitted: 0x235ccda3785a2c18cb38df141efb5d9486627e35613c662a42b688cf9a3e9dfe
+[competitor-b266130203] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130203","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1026 state: 1021"}}
+[competitor-b266130203] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130203","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1025 state: 1021"}}
+[block 266130232] Detected target-pool swap tx: 0x99f27bee9e0d93b138d5ef9b3933e62cd7e8fcc70f4f96bf74ada5cd69a36058
+[competitor-b266130232] POSTing tx nonce=1027 hash=0x1f5c44595c2fd626068c6e1a52062d099726bb67f3c625f02b8697ab04956ff5 at 2026-05-07T02:58:28.483Z
+[block 266130232] Competitor tx submitted: 0x1f5c44595c2fd626068c6e1a52062d099726bb67f3c625f02b8697ab04956ff5
+[block 266130233] Detected target-pool swap tx: 0xe782a0294d99a2c7b5f57ee2b8aedadbd513dcfdb3857bdd6cf8289da3850526
+[competitor-b266130233] POSTing tx nonce=1028 hash=0x18ec1dda0780d1013848cad23aeda03ba02809ebbe6f22c6e6fc1be7002ad8e5 at 2026-05-07T02:58:28.906Z
+[block 266130233] Competitor tx submitted: 0x18ec1dda0780d1013848cad23aeda03ba02809ebbe6f22c6e6fc1be7002ad8e5
+[block 266130233] Detected target-pool swap tx: 0xe782a0294d99a2c7b5f57ee2b8aedadbd513dcfdb3857bdd6cf8289da3850526
+[competitor-b266130233] POSTing tx nonce=1029 hash=0x2a65c8fa9db5300d5427db96941a271cef01bea418693da208f9fc55264e1e55 at 2026-05-07T02:58:28.967Z
+[block 266130233] Competitor tx submitted: 0x2a65c8fa9db5300d5427db96941a271cef01bea418693da208f9fc55264e1e55
+[competitor-b266130232] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130232","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1027 state: 1021"}}
+[competitor-b266130233] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130233","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1029 state: 1021"}}
+[competitor-b266130233] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130233","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1028 state: 1021"}}
+[block 266130277] Detected target-pool swap tx: 0x256e5f324e146d83cc8803844bc7b83b4dba7ddcc1df3b5d86249cf2feb485c1
+[competitor-b266130277] POSTing tx nonce=1030 hash=0xd3b43730761cd36ca968ccff8fff0410a19de21fda5ca988d0927d6d8e3ae839 at 2026-05-07T02:58:47.393Z
+[block 266130278] Detected target-pool swap tx: 0x4b3ceed54d41ee405ef116459684ef45fb09fbd63b98c2fcb0db1bd652458f58
+[block 266130277] Competitor tx submitted: 0xd3b43730761cd36ca968ccff8fff0410a19de21fda5ca988d0927d6d8e3ae839
+[block 266130277] Detected target-pool swap tx: 0x256e5f324e146d83cc8803844bc7b83b4dba7ddcc1df3b5d86249cf2feb485c1
+[competitor-b266130277] POSTing tx nonce=1031 hash=0x4d96aaab00b294360b08ba557714f649e0698102effaa58ae0248f6dc76a6732 at 2026-05-07T02:58:47.453Z
+[block 266130277] Competitor tx submitted: 0x4d96aaab00b294360b08ba557714f649e0698102effaa58ae0248f6dc76a6732
+[competitor-b266130277] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130277","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1030 state: 1021"}}
+[competitor-b266130277] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130277","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1031 state: 1021"}}
+[block 266130304] Detected target-pool swap tx: 0xa4490e874fb211e44404bc88d43420c9ab16c9580954653e7f9d93b0fe1c1c85
+[competitor-b266130304] POSTing tx nonce=1032 hash=0x35af2a0b4a2344837e1e9ee14d6bed8410ccf37f4a1134e5710a445b7a7a986d at 2026-05-07T02:58:57.467Z
+[block 266130305] Detected target-pool swap tx: 0x6d232f53321db4d75864ab436568d5fa8b540f58685b09f7af7b71bf91db0c90
+[block 266130304] Competitor tx submitted: 0x35af2a0b4a2344837e1e9ee14d6bed8410ccf37f4a1134e5710a445b7a7a986d
+[block 266130304] Detected target-pool swap tx: 0xa4490e874fb211e44404bc88d43420c9ab16c9580954653e7f9d93b0fe1c1c85
+[competitor-b266130304] POSTing tx nonce=1033 hash=0x13594aab2d41f4657af6aebf97c0cd097d4cf133f9c1cde3fc5c0fc6f3814c06 at 2026-05-07T02:58:57.526Z
+[block 266130304] Competitor tx submitted: 0x13594aab2d41f4657af6aebf97c0cd097d4cf133f9c1cde3fc5c0fc6f3814c06
+[competitor-b266130304] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130304","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1032 state: 1021"}}
+[competitor-b266130304] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130304","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1033 state: 1021"}}
+[block 266130405] Detected target-pool swap tx: 0x68597bfe174d6839c1672489fcf74f82f99f032ccabe54c0b15a9cd7f0b5765f
+[competitor-b266130405] POSTing tx nonce=1034 hash=0x7a724b56c444eee698c8d41527f4f1489fd961c153e0d86d531e5a9e85577a5f at 2026-05-07T02:59:38.569Z
+[block 266130405] Competitor tx submitted: 0x7a724b56c444eee698c8d41527f4f1489fd961c153e0d86d531e5a9e85577a5f
+[block 266130405] Detected target-pool swap tx: 0x68597bfe174d6839c1672489fcf74f82f99f032ccabe54c0b15a9cd7f0b5765f
+[competitor-b266130405] POSTing tx nonce=1035 hash=0x0e6ed965d27341669376a36d5e09872e1ed50e9e2985ed8b61b6d49a9a9ce3cc at 2026-05-07T02:59:38.643Z
+[block 266130405] Competitor tx submitted: 0x0e6ed965d27341669376a36d5e09872e1ed50e9e2985ed8b61b6d49a9a9ce3cc
+[block 266130407] Detected target-pool swap tx: 0xd49a6fbd80a45d34fbc4ba6c772081b2a61a63ec2beaeb34c46a07427c5d6224
+[competitor-b266130407] POSTing tx nonce=1036 hash=0x3de187ddbcedd667280dc17261b294638f37d201fc7d10fc40b3f70d17e27c37 at 2026-05-07T02:59:38.943Z
+[block 266130407] Competitor tx submitted: 0x3de187ddbcedd667280dc17261b294638f37d201fc7d10fc40b3f70d17e27c37
+[block 266130407] Detected target-pool swap tx: 0xd49a6fbd80a45d34fbc4ba6c772081b2a61a63ec2beaeb34c46a07427c5d6224
+[competitor-b266130407] POSTing tx nonce=1037 hash=0x4d35fc5cf5a4d92fcead16ccea7b6b2f3008fc37adf7e0055052d5f5fccaa712 at 2026-05-07T02:59:39.004Z
+[block 266130407] Competitor tx submitted: 0x4d35fc5cf5a4d92fcead16ccea7b6b2f3008fc37adf7e0055052d5f5fccaa712
+[competitor-b266130405] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130405","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1034 state: 1021"}}
+[competitor-b266130405] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130405","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1035 state: 1021"}}
+[competitor-b266130407] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130407","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1037 state: 1021"}}
+[competitor-b266130407] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130407","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1036 state: 1021"}}
+[block 266130455] Detected target-pool swap tx: 0x938bb6e72624a5cfe5a916f2ceb0c7fc40ec664b7bb1f228566214f1a47aec44
+[competitor-b266130455] POSTing tx nonce=1038 hash=0xff57e66e8c5e78719bb0fd0ef0cb1659120bb8df3c066e80208bc545db9ae680 at 2026-05-07T02:59:56.575Z
+[block 266130456] Detected target-pool swap tx: 0x6580475766dbbff9b51f690588f6ffd4a88bcf74bf30431e692bac290643f9b8
+[block 266130455] Competitor tx submitted: 0xff57e66e8c5e78719bb0fd0ef0cb1659120bb8df3c066e80208bc545db9ae680
+[block 266130455] Detected target-pool swap tx: 0x938bb6e72624a5cfe5a916f2ceb0c7fc40ec664b7bb1f228566214f1a47aec44
+[competitor-b266130455] POSTing tx nonce=1039 hash=0x36e102dfe1e23e58f2830f66af9acc56575ad0d877af9ebf0c7a2be9c70ea8fd at 2026-05-07T02:59:56.633Z
+[block 266130455] Competitor tx submitted: 0x36e102dfe1e23e58f2830f66af9acc56575ad0d877af9ebf0c7a2be9c70ea8fd
+[competitor-b266130455] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130455","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1038 state: 1021"}}
+[competitor-b266130455] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130455","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1039 state: 1021"}}
+[block 266130475] Detected target-pool swap tx: 0x3eb81310d3a70ef6757bf68e2a5ad1d76eb00e1c4c0f498374fb78709f2570b0
+[competitor-b266130475] POSTing tx nonce=1040 hash=0x4a5929adb3c79199e2cac3cbde5ecb697412a80044e752f5da3470df8c0f3add at 2026-05-07T03:00:03.719Z
+[block 266130476] Detected target-pool swap tx: 0x701d381000626175480182810a042932d5a5910459ef81ca642ac4c12bcc0af5
+[block 266130475] Competitor tx submitted: 0x4a5929adb3c79199e2cac3cbde5ecb697412a80044e752f5da3470df8c0f3add
+[block 266130475] Detected target-pool swap tx: 0x3eb81310d3a70ef6757bf68e2a5ad1d76eb00e1c4c0f498374fb78709f2570b0
+[competitor-b266130475] POSTing tx nonce=1041 hash=0x416cc21abf611e2b66b6e514237d7aa70430212f0b001d48ad9e995361c9fd70 at 2026-05-07T03:00:03.779Z
+[block 266130475] Competitor tx submitted: 0x416cc21abf611e2b66b6e514237d7aa70430212f0b001d48ad9e995361c9fd70
+[competitor-b266130475] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130475","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1040 state: 1021"}}
+[competitor-b266130475] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130475","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1041 state: 1021"}}
+[block 266130543] Detected target-pool swap tx: 0x3c4a79a511998158342463879a6d3f85d0e922425f223a4973051b1e48e40265
+[competitor-b266130543] POSTing tx nonce=1042 hash=0x69b5088a806838c45d80e49f520ad195700582dcbd1749674f55cb6d6e9b4d06 at 2026-05-07T03:00:24.323Z
+[block 266130543] Competitor tx submitted: 0x69b5088a806838c45d80e49f520ad195700582dcbd1749674f55cb6d6e9b4d06
+[block 266130543] Detected target-pool swap tx: 0x3c4a79a511998158342463879a6d3f85d0e922425f223a4973051b1e48e40265
+[competitor-b266130543] POSTing tx nonce=1043 hash=0x823478db914eaa5e433c5401a0759699bcbbe6ebaafc9282c77b8d3f9777706c at 2026-05-07T03:00:24.384Z
+[block 266130543] Competitor tx submitted: 0x823478db914eaa5e433c5401a0759699bcbbe6ebaafc9282c77b8d3f9777706c
+[block 266130545] Detected target-pool swap tx: 0x9f622ad1d259cee54e41d109dad7b29998683c2bc116aab83d28caad85d2097f
+[competitor-b266130545] POSTing tx nonce=1044 hash=0x5eae37a4bfaa2b8cc91818112ca50bd3bf9f311741863aa57ed373fb5acec0ef at 2026-05-07T03:00:24.733Z
+[block 266130545] Competitor tx submitted: 0x5eae37a4bfaa2b8cc91818112ca50bd3bf9f311741863aa57ed373fb5acec0ef
+[competitor-b266130543] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130543","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1042 state: 1021"}}
+[competitor-b266130543] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130543","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1043 state: 1021"}}
+[competitor-b266130545] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130545","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1044 state: 1021"}}
+[block 266130573] Detected target-pool swap tx: 0x4293806685708cd71ab0ecaa7bb54337adae5514233e48d0d51defb590ad37ea
+[competitor-b266130573] POSTing tx nonce=1045 hash=0xdcfcec1a5c42eb125d9e73fcab9d97e973b6afe447d2137e44b67b4338e6c0d3 at 2026-05-07T03:00:32.744Z
+[block 266130573] Competitor tx submitted: 0xdcfcec1a5c42eb125d9e73fcab9d97e973b6afe447d2137e44b67b4338e6c0d3
+[block 266130574] Detected target-pool swap tx: 0xcf5c3995634eec496abe716fdcac26c5606ac2483b4aad324ebe0452da2f7fde
+[competitor-b266130574] POSTing tx nonce=1046 hash=0xc13891fdbd13b5268061a1852c8e96d735363a87007aaaeae532962f7e280412 at 2026-05-07T03:00:33.171Z
+[block 266130574] Competitor tx submitted: 0xc13891fdbd13b5268061a1852c8e96d735363a87007aaaeae532962f7e280412
+[block 266130574] Detected target-pool swap tx: 0xcf5c3995634eec496abe716fdcac26c5606ac2483b4aad324ebe0452da2f7fde
+[competitor-b266130574] POSTing tx nonce=1047 hash=0x6bba62830f4bf65320784c1bc5c09f63bf22b6eb4279da6134c90934d95127b0 at 2026-05-07T03:00:33.228Z
+[block 266130574] Competitor tx submitted: 0x6bba62830f4bf65320784c1bc5c09f63bf22b6eb4279da6134c90934d95127b0
+[competitor-b266130573] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130573","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1045 state: 1021"}}
+[competitor-b266130574] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130574","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1047 state: 1021"}}
+[competitor-b266130574] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130574","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1046 state: 1021"}}
+[block 266130601] Detected target-pool swap tx: 0xcc82b22bf614ed19cfabf9449dbbf77b6a4d82e4701949ea2ae547054120bc9d
+[competitor-b266130601] POSTing tx nonce=1048 hash=0x4cbdd7fd7088146e33feb9f720ebd5258543f8d8490feb8cd72eee32fcca4f28 at 2026-05-07T03:00:40.286Z
+[block 266130602] Detected target-pool swap tx: 0x3a9c3f4ca7400039b91e8a0404baa9593643671ddcb076ad46ac07575d9fe606
+[block 266130601] Competitor tx submitted: 0x4cbdd7fd7088146e33feb9f720ebd5258543f8d8490feb8cd72eee32fcca4f28
+[block 266130601] Detected target-pool swap tx: 0xcc82b22bf614ed19cfabf9449dbbf77b6a4d82e4701949ea2ae547054120bc9d
+[competitor-b266130601] POSTing tx nonce=1049 hash=0x4d08f55a262146eabf925325a15d1ef1317d8e6d8d3c22f291f5b54401a1ce6a at 2026-05-07T03:00:40.344Z
+[block 266130601] Competitor tx submitted: 0x4d08f55a262146eabf925325a15d1ef1317d8e6d8d3c22f291f5b54401a1ce6a
+[competitor-b266130601] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130601","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1048 state: 1021"}}
+[competitor-b266130601] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130601","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1049 state: 1021"}}
+[block 266130637] Detected target-pool swap tx: 0x8df601f4d5398a26d1dd895001130a7321551539cda3ef5a05ab012dcd2b37f2
+[competitor-b266130637] POSTing tx nonce=1050 hash=0xb2deda1c5537c3466cd625a82086c01fa6983224ccad3db34ecff4dd9ac77f3d at 2026-05-07T03:00:49.547Z
+[block 266130637] Competitor tx submitted: 0xb2deda1c5537c3466cd625a82086c01fa6983224ccad3db34ecff4dd9ac77f3d
+[block 266130638] Detected target-pool swap tx: 0x55b2771c57e149dbe3feaeba467f91f2ac6960b30e15fae4624d0e5be9e0bbda
+[competitor-b266130638] POSTing tx nonce=1051 hash=0x246cebcf5c2f015b9e7e204e294eb858e5f16594917beaad873c23b76663b8a1 at 2026-05-07T03:00:49.970Z
+[block 266130638] Competitor tx submitted: 0x246cebcf5c2f015b9e7e204e294eb858e5f16594917beaad873c23b76663b8a1
+[block 266130638] Detected target-pool swap tx: 0x55b2771c57e149dbe3feaeba467f91f2ac6960b30e15fae4624d0e5be9e0bbda
+[competitor-b266130638] POSTing tx nonce=1052 hash=0x80acd28b1dfa44e94bd31e8b769eb287173e9952589e2ef646df369a430d071a at 2026-05-07T03:00:50.028Z
+[block 266130638] Competitor tx submitted: 0x80acd28b1dfa44e94bd31e8b769eb287173e9952589e2ef646df369a430d071a
+[competitor-b266130637] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130637","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1050 state: 1021"}}
+[competitor-b266130638] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130638","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1051 state: 1021"}}
+[competitor-b266130638] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130638","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1052 state: 1021"}}
+[block 266130672] Detected target-pool swap tx: 0xfe1c319c9364bedf8fcd3eee8bdc261d76fcfabda965c569da724fd07fa33937
+[competitor-b266130672] POSTing tx nonce=1053 hash=0x229834d456e23360de8af78c2d577736629d6d462adc13743f61df02fc6c71ca at 2026-05-07T03:01:00.072Z
+[block 266130672] Competitor tx submitted: 0x229834d456e23360de8af78c2d577736629d6d462adc13743f61df02fc6c71ca
+[block 266130673] Detected target-pool swap tx: 0x46393a80e58acc3dfd505dded7fa950fea9d16119b06df0129420ed9b3a27eae
+[competitor-b266130673] POSTing tx nonce=1054 hash=0xe8af8e3c0877190f2359cffa92d9a8679ffe8a2b2148399bd863a5c9cda059bc at 2026-05-07T03:01:00.444Z
+[block 266130673] Competitor tx submitted: 0xe8af8e3c0877190f2359cffa92d9a8679ffe8a2b2148399bd863a5c9cda059bc
+[competitor-b266130672] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130672","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1053 state: 1021"}}
+[competitor-b266130673] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130673","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1054 state: 1021"}}
+[block 266130749] Detected target-pool swap tx: 0x2f460e703b42f1ad29a4763e03c7bc70789fa2180fdeab1894649fc7007a2e47
+[competitor-b266130749] POSTing tx nonce=1055 hash=0x81d28e0ec8446e224b3b630546f97c20f0e0f6d3167531d6eb15e5a0f44a1838 at 2026-05-07T03:01:21.451Z
+[block 266130749] Competitor tx submitted: 0x81d28e0ec8446e224b3b630546f97c20f0e0f6d3167531d6eb15e5a0f44a1838
+[block 266130750] Detected target-pool swap tx: 0x9592f32b3a623aa3b7a5e7432a00e3d919be35288e00886a9cafd3c73c24d293
+[competitor-b266130750] POSTing tx nonce=1056 hash=0x6cfdfbe593a3e4e045fd44d4d6277d002c30fd5181eeb99270739345158bcab9 at 2026-05-07T03:01:22.293Z
+[block 266130750] Competitor tx submitted: 0x6cfdfbe593a3e4e045fd44d4d6277d002c30fd5181eeb99270739345158bcab9
+[block 266130750] Detected target-pool swap tx: 0x9592f32b3a623aa3b7a5e7432a00e3d919be35288e00886a9cafd3c73c24d293
+[competitor-b266130750] POSTing tx nonce=1057 hash=0xad022a186affda2e6e732259739b15650c913b772ee32b2870a521109ed6776d at 2026-05-07T03:01:22.353Z
+[block 266130750] Competitor tx submitted: 0xad022a186affda2e6e732259739b15650c913b772ee32b2870a521109ed6776d
+[competitor-b266130749] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130749","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1055 state: 1021"}}
+[competitor-b266130750] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130750","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1057 state: 1021"}}
+[competitor-b266130750] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130750","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1056 state: 1021"}}
+[block 266130775] Detected target-pool swap tx: 0x8943065b4ee438930ee06342952f914d73e451f1f461fdcfbb7822a5526160e1
+[competitor-b266130775] POSTing tx nonce=1058 hash=0x14ffd886ab1e252af34e3473c6139157fe22cfcff691b30447269ecee848edfa at 2026-05-07T03:01:29.019Z
+[block 266130775] Competitor tx submitted: 0x14ffd886ab1e252af34e3473c6139157fe22cfcff691b30447269ecee848edfa
+[block 266130775] Detected target-pool swap tx: 0x8943065b4ee438930ee06342952f914d73e451f1f461fdcfbb7822a5526160e1
+[competitor-b266130775] POSTing tx nonce=1059 hash=0xfd8c9bbae006a2d5abecd717a791c0c2de7bb16805ab1d5934296ae786ba63bc at 2026-05-07T03:01:29.078Z
+[block 266130775] Competitor tx submitted: 0xfd8c9bbae006a2d5abecd717a791c0c2de7bb16805ab1d5934296ae786ba63bc
+[block 266130777] Detected target-pool swap tx: 0x30418a8f445daa0aa54013d0deef47f4e226e460f22002b65cad5203242d9714
+[competitor-b266130777] POSTing tx nonce=1060 hash=0x76f467d9dc53564a003a1aec3911a01c07d6a0966ad79641d0b59c1a2c06bf3a at 2026-05-07T03:01:29.883Z
+[block 266130777] Competitor tx submitted: 0x76f467d9dc53564a003a1aec3911a01c07d6a0966ad79641d0b59c1a2c06bf3a
+[block 266130777] Detected target-pool swap tx: 0x30418a8f445daa0aa54013d0deef47f4e226e460f22002b65cad5203242d9714
+[competitor-b266130777] POSTing tx nonce=1061 hash=0x774d0f015ec6a710d6083d7ef317100324d40ddba91299b8be9b7fedfd3f7c75 at 2026-05-07T03:01:29.961Z
+[block 266130777] Competitor tx submitted: 0x774d0f015ec6a710d6083d7ef317100324d40ddba91299b8be9b7fedfd3f7c75
+[competitor-b266130775] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130775","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1058 state: 1021"}}
+[competitor-b266130775] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130775","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1059 state: 1021"}}
+[competitor-b266130777] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130777","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1060 state: 1021"}}
+[competitor-b266130777] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130777","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1061 state: 1021"}}
+[block 266130800] Detected target-pool swap tx: 0x4d3d416436130c06460af759465047a823cc949bfd75f2863a5894b93b53ec1f
+[competitor-b266130800] POSTing tx nonce=1062 hash=0xc1c87128ae0417c86b642a82211b150b1c5476c174d7185d7b9b89aa5e537854 at 2026-05-07T03:01:36.579Z
+[block 266130800] Competitor tx submitted: 0xc1c87128ae0417c86b642a82211b150b1c5476c174d7185d7b9b89aa5e537854
+[block 266130800] Detected target-pool swap tx: 0x4d3d416436130c06460af759465047a823cc949bfd75f2863a5894b93b53ec1f
+[competitor-b266130800] POSTing tx nonce=1063 hash=0xb27c05aaa276500e9f5d00ad8279258f1012a5b647806a327e9666bb741073bd at 2026-05-07T03:01:36.639Z
+[block 266130800] Competitor tx submitted: 0xb27c05aaa276500e9f5d00ad8279258f1012a5b647806a327e9666bb741073bd
+[block 266130802] Detected target-pool swap tx: 0x0e0b1dda078d23816711aaba9132c7b54c16c1eb68e9b70c0f58e0b688c980b0
+[competitor-b266130802] POSTing tx nonce=1064 hash=0x7e3776c846e3f06f0aac5d7ca016004e9772e35f63a56b4937eaeaf57dea7068 at 2026-05-07T03:01:37.446Z
+[block 266130802] Competitor tx submitted: 0x7e3776c846e3f06f0aac5d7ca016004e9772e35f63a56b4937eaeaf57dea7068
+[block 266130802] Detected target-pool swap tx: 0x0e0b1dda078d23816711aaba9132c7b54c16c1eb68e9b70c0f58e0b688c980b0
+[competitor-b266130802] POSTing tx nonce=1065 hash=0x14d99691c9f813655f9f34e1189073ac0a317de03095a72315b0e5ed936eaed4 at 2026-05-07T03:01:37.528Z
+[block 266130802] Competitor tx submitted: 0x14d99691c9f813655f9f34e1189073ac0a317de03095a72315b0e5ed936eaed4
+[competitor-b266130800] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130800","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1062 state: 1021"}}
+[competitor-b266130800] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130800","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1063 state: 1021"}}
+[competitor-b266130802] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130802","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1065 state: 1021"}}
+[competitor-b266130802] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130802","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1064 state: 1021"}}
+[block 266130831] Detected target-pool swap tx: 0x7d986e353c429f1fed2ae18557f1e6d81b610477b31d43ccfb9326d2e0f05ae1
+[competitor-b266130831] POSTing tx nonce=1066 hash=0x3ae0663fd9a31cd38530394878075de92d13cef894405ae4cc07300dc88e6953 at 2026-05-07T03:01:45.396Z
+[block 266130832] Detected target-pool swap tx: 0xbc365b92ff6a0861c21e59e17e5833f8908b9a34283e01ecc5889930f97b8147
+[block 266130831] Competitor tx submitted: 0x3ae0663fd9a31cd38530394878075de92d13cef894405ae4cc07300dc88e6953
+[block 266130831] Detected target-pool swap tx: 0x7d986e353c429f1fed2ae18557f1e6d81b610477b31d43ccfb9326d2e0f05ae1
+[competitor-b266130831] POSTing tx nonce=1067 hash=0x17cd98fb148f2fe9b53cf55aa780274a78ed386f382e6575e6ea6606fb0ba7fb at 2026-05-07T03:01:45.455Z
+[block 266130831] Competitor tx submitted: 0x17cd98fb148f2fe9b53cf55aa780274a78ed386f382e6575e6ea6606fb0ba7fb
+[competitor-b266130831] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130831","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1067 state: 1021"}}
+[competitor-b266130831] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130831","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1066 state: 1021"}}
+[block 266130861] Detected target-pool swap tx: 0x5c36fb17f624aefcbaadbf8a409b6f8aa0c2dd8801324570b8bcc96325590ffc
+[competitor-b266130861] POSTing tx nonce=1068 hash=0xd630f4612ee0f425bccd799b4bbbd8c6f07d576624d069201be1863d993d8836 at 2026-05-07T03:01:52.971Z
+[block 266130861] Competitor tx submitted: 0xd630f4612ee0f425bccd799b4bbbd8c6f07d576624d069201be1863d993d8836
+[block 266130860] Detected target-pool swap tx: 0xcab6b9207bb717b86da2fba7b724ce0cea1211c30bd9655c9ac90eb1dc905adf
+[competitor-b266130860] POSTing tx nonce=1069 hash=0x2c589391024cf2dd579856d45d415cfea9505304f96bce03392a1b4e1d316418 at 2026-05-07T03:01:52.993Z
+[block 266130860] Competitor tx submitted: 0x2c589391024cf2dd579856d45d415cfea9505304f96bce03392a1b4e1d316418
+[block 266130860] Detected target-pool swap tx: 0xcab6b9207bb717b86da2fba7b724ce0cea1211c30bd9655c9ac90eb1dc905adf
+[competitor-b266130860] POSTing tx nonce=1070 hash=0x0d56ec272e8c05724f25c41a1ecc5bbee601ab345be449ad43ef3206fca2ed91 at 2026-05-07T03:01:53.053Z
+[block 266130860] Competitor tx submitted: 0x0d56ec272e8c05724f25c41a1ecc5bbee601ab345be449ad43ef3206fca2ed91
+[block 266130861] Detected target-pool swap tx: 0x5c36fb17f624aefcbaadbf8a409b6f8aa0c2dd8801324570b8bcc96325590ffc
+[competitor-b266130861] POSTing tx nonce=1071 hash=0xd53b7882569f885fb8bfc7333d3a27e3fdb38bc944a6f1b8d5fd8fe39a3a4a90 at 2026-05-07T03:01:53.073Z
+[block 266130861] Competitor tx submitted: 0xd53b7882569f885fb8bfc7333d3a27e3fdb38bc944a6f1b8d5fd8fe39a3a4a90
+[competitor-b266130860] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130860","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1069 state: 1021"}}
+[competitor-b266130861] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130861","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1068 state: 1021"}}
+[competitor-b266130860] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130860","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1070 state: 1021"}}
+[competitor-b266130861] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130861","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1071 state: 1021"}}
+[block 266130890] Detected target-pool swap tx: 0x0a78f7c53dd64ec48333201766c0f9e8d5dd970d981af7e2defe0be90504f948
+[competitor-b266130890] POSTing tx nonce=1072 hash=0x1cdca1878dd58068a520d9b034cd2e976efc5ec074002f0bf7b63221e6335b61 at 2026-05-07T03:02:00.089Z
+[block 266130890] Competitor tx submitted: 0x1cdca1878dd58068a520d9b034cd2e976efc5ec074002f0bf7b63221e6335b61
+[block 266130891] Detected target-pool swap tx: 0xe00ab98fde4ad292400e2711bdef8c8c7692fcee6107ffb7b5c1cf6bc37863f2
+[competitor-b266130891] POSTing tx nonce=1073 hash=0x58d1dc0821083377480ff7ee8aa0c409c72fbe37e9ab26be16dcd27909b3ff9c at 2026-05-07T03:02:00.511Z
+[block 266130891] Competitor tx submitted: 0x58d1dc0821083377480ff7ee8aa0c409c72fbe37e9ab26be16dcd27909b3ff9c
+[competitor-b266130890] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130890","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1072 state: 1021"}}
+[competitor-b266130891] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130891","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1073 state: 1021"}}
+[block 266130922] Detected target-pool swap tx: 0xee2e85927c887fcfc85eff6ae3c282733c313daba0d78442f486e6a2e374443d
+[competitor-b266130922] POSTing tx nonce=1074 hash=0x65e69004301893133ece0cbcb3d6abec69339f33a36632775823f5e725d6f13c at 2026-05-07T03:02:08.081Z
+[block 266130922] Competitor tx submitted: 0x65e69004301893133ece0cbcb3d6abec69339f33a36632775823f5e725d6f13c
+[block 266130923] Detected target-pool swap tx: 0xe4466b5db403679a569df7449e25685e9f45c281cffa0263a66fca360fb3b1c6
+[competitor-b266130923] POSTing tx nonce=1075 hash=0x6653b3ee03446373365abba1ba0a82b08b9cae529b9fdf6aed31972a85a72245 at 2026-05-07T03:02:08.492Z
+[block 266130923] Competitor tx submitted: 0x6653b3ee03446373365abba1ba0a82b08b9cae529b9fdf6aed31972a85a72245
+[block 266130923] Detected target-pool swap tx: 0xe4466b5db403679a569df7449e25685e9f45c281cffa0263a66fca360fb3b1c6
+[competitor-b266130923] POSTing tx nonce=1076 hash=0x70c5b9c50142b0cf3af1db4819dbf349849150c2206022662e5360c6dd9a54e4 at 2026-05-07T03:02:08.555Z
+[block 266130922] Detected target-pool swap tx: 0xee2e85927c887fcfc85eff6ae3c282733c313daba0d78442f486e6a2e374443d
+[block 266130923] Competitor tx submitted: 0x70c5b9c50142b0cf3af1db4819dbf349849150c2206022662e5360c6dd9a54e4
+[competitor-b266130922] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130922","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1074 state: 1021"}}
+[competitor-b266130923] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130923","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1075 state: 1021"}}
+[competitor-b266130923] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130923","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1076 state: 1021"}}
+[block 266130952] Detected target-pool swap tx: 0x326351f2befeeab231ce22be7f46a0f5b0139e1dee50922c981e732b296a9823
+[competitor-b266130952] POSTing tx nonce=1077 hash=0xbd4e170c1b0d44702fb19224b858968030b4d9b9a8d94749a8df53be7a29cc84 at 2026-05-07T03:02:16.467Z
+[block 266130952] Competitor tx submitted: 0xbd4e170c1b0d44702fb19224b858968030b4d9b9a8d94749a8df53be7a29cc84
+[block 266130953] Detected target-pool swap tx: 0xd98f9b26ace242563a23f1e8978d0d41b81863b1d8b1a9ec66db2db37b4cd672
+[competitor-b266130953] POSTing tx nonce=1078 hash=0xc6d18d1c215a508db7daa141a0c653fa88b4a8681b5abbd190c809b0c8a65f14 at 2026-05-07T03:02:16.932Z
+[block 266130953] Competitor tx submitted: 0xc6d18d1c215a508db7daa141a0c653fa88b4a8681b5abbd190c809b0c8a65f14
+[block 266130953] Detected target-pool swap tx: 0xd98f9b26ace242563a23f1e8978d0d41b81863b1d8b1a9ec66db2db37b4cd672
+[competitor-b266130953] POSTing tx nonce=1079 hash=0xb515d9a1a9e6d644ca01127e3a3227824bd40155f71bbd07d73b3e5bb25200fc at 2026-05-07T03:02:17.006Z
+[block 266130953] Competitor tx submitted: 0xb515d9a1a9e6d644ca01127e3a3227824bd40155f71bbd07d73b3e5bb25200fc
+[competitor-b266130952] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130952","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1077 state: 1021"}}
+[competitor-b266130953] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130953","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1078 state: 1021"}}
+[competitor-b266130953] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130953","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1079 state: 1021"}}
+[block 266130976] Detected target-pool swap tx: 0xda840e8a78ce36dbcd551a9c1483bb4f90d87025be69d29a6ab0fcfad97456ce
+[competitor-b266130976] POSTing tx nonce=1080 hash=0x9b0eb8a0a1b8f602c31768084ad0cdef0de42b05399b56ae4eceb6bf292a3b91 at 2026-05-07T03:02:24.021Z
+[block 266130976] Competitor tx submitted: 0x9b0eb8a0a1b8f602c31768084ad0cdef0de42b05399b56ae4eceb6bf292a3b91
+[block 266130977] Detected target-pool swap tx: 0x6811d58687894e3cb3796ec28c78c7380ac2c35793de21f0a471f72ad2085985
+[competitor-b266130977] POSTing tx nonce=1081 hash=0x9decd3df7abff9b1ea788ad4d5f1013e4f89812c860478c150684218cc881466 at 2026-05-07T03:02:24.464Z
+[block 266130977] Competitor tx submitted: 0x9decd3df7abff9b1ea788ad4d5f1013e4f89812c860478c150684218cc881466
+[block 266130977] Detected target-pool swap tx: 0x6811d58687894e3cb3796ec28c78c7380ac2c35793de21f0a471f72ad2085985
+[competitor-b266130977] POSTing tx nonce=1082 hash=0xdec2b9f8400fc3900a2cb9291e9d0752544ff5be81bbf98afd39e03669b8b044 at 2026-05-07T03:02:24.540Z
+[block 266130977] Competitor tx submitted: 0xdec2b9f8400fc3900a2cb9291e9d0752544ff5be81bbf98afd39e03669b8b044
+[competitor-b266130976] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130976","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1080 state: 1021"}}
+[competitor-b266130977] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130977","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1081 state: 1021"}}
+[competitor-b266130977] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266130977","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1082 state: 1021"}}
+[block 266131005] Detected target-pool swap tx: 0xf55a994f3ab0177b3a5b3e708e8c7182a1e2f792e80e9d63a0e6e490e0fd8940
+[competitor-b266131005] POSTing tx nonce=1083 hash=0x5693101f31865b036317c1cc80346567f90c2a9e0cee38d219691fd4cf8f4e93 at 2026-05-07T03:02:32.419Z
+[block 266131005] Competitor tx submitted: 0x5693101f31865b036317c1cc80346567f90c2a9e0cee38d219691fd4cf8f4e93
+[block 266131006] Detected target-pool swap tx: 0x92088ca7e15ef73dfcaff5b9904839c9185cf08f4f04e138caf3a54518327884
+[competitor-b266131006] POSTing tx nonce=1084 hash=0xc582e8a211a8df1fcef77b29fa55f4707fe1db9b760beea5218e5608d543c6ca at 2026-05-07T03:02:33.275Z
+[block 266131006] Competitor tx submitted: 0xc582e8a211a8df1fcef77b29fa55f4707fe1db9b760beea5218e5608d543c6ca
+[block 266131006] Detected target-pool swap tx: 0x92088ca7e15ef73dfcaff5b9904839c9185cf08f4f04e138caf3a54518327884
+[competitor-b266131006] POSTing tx nonce=1085 hash=0x08f13f2e5152102b32c7c4304e6fb294091533266f4301a6e21c284b4d670fe6 at 2026-05-07T03:02:33.334Z
+[block 266131006] Competitor tx submitted: 0x08f13f2e5152102b32c7c4304e6fb294091533266f4301a6e21c284b4d670fe6
+[competitor-b266131005] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131005","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1083 state: 1021"}}
+[competitor-b266131006] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131006","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1084 state: 1021"}}
+[competitor-b266131006] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131006","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1085 state: 1021"}}
+[block 266131039] Detected target-pool swap tx: 0x566d6d86bc4cf0026e581d27b81a3af75b80c8904359d5fd8a9f1d1653bea7c3
+[competitor-b266131039] POSTing tx nonce=1086 hash=0x8c54622b6f08ec596db5fc858556316a14387443796ebafe75b5eb0cc5945402 at 2026-05-07T03:02:42.114Z
+[block 266131039] Competitor tx submitted: 0x8c54622b6f08ec596db5fc858556316a14387443796ebafe75b5eb0cc5945402
+[block 266131040] Detected target-pool swap tx: 0x3c7e036a985e742f1af1b1c68352bd61e2a6b786504c4559f5b064e433a7eac4
+[competitor-b266131040] POSTing tx nonce=1087 hash=0x670770fe1b7ba66d51b9acf2259b23e49279185cd0dd5fb8acde165f9ff82541 at 2026-05-07T03:02:42.498Z
+[block 266131040] Competitor tx submitted: 0x670770fe1b7ba66d51b9acf2259b23e49279185cd0dd5fb8acde165f9ff82541
+[competitor-b266131039] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131039","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1086 state: 1021"}}
+[competitor-b266131040] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131040","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1087 state: 1021"}}
+[block 266131105] Detected target-pool swap tx: 0x720c667c199b1a616c38c069ef6ed5341575f0237888dbe81d183bb84483c00e
+[competitor-b266131105] POSTing tx nonce=1088 hash=0x3722d40aa7aebf0ca6f3fc91eb240e7c457e3992d512b95d6e797c3b784d8e4c at 2026-05-07T03:03:00.894Z
+[block 266131105] Competitor tx submitted: 0x3722d40aa7aebf0ca6f3fc91eb240e7c457e3992d512b95d6e797c3b784d8e4c
+[block 266131104] Detected target-pool swap tx: 0x53c79acf98e8af3dccd37c1ef63fc755ce1028689a85478611d7a7e41ea3bb47
+[competitor-b266131104] POSTing tx nonce=1089 hash=0xb7cb69c9aa3d632588ec4a31a15b4df5b5860e976b0fa5df0fc207cebcfc308a at 2026-05-07T03:03:00.917Z
+[block 266131104] Competitor tx submitted: 0xb7cb69c9aa3d632588ec4a31a15b4df5b5860e976b0fa5df0fc207cebcfc308a
+[block 266131104] Detected target-pool swap tx: 0x53c79acf98e8af3dccd37c1ef63fc755ce1028689a85478611d7a7e41ea3bb47
+[competitor-b266131104] POSTing tx nonce=1090 hash=0x00091f63095c6b6c1089b0dd5fb13db2b7a0f4b07066d2367daa585c901044c5 at 2026-05-07T03:03:00.997Z
+[block 266131104] Competitor tx submitted: 0x00091f63095c6b6c1089b0dd5fb13db2b7a0f4b07066d2367daa585c901044c5
+[competitor-b266131104] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131104","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1089 state: 1021"}}
+[competitor-b266131104] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131104","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1090 state: 1021"}}
+[competitor-b266131105] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131105","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1088 state: 1021"}}
+[block 266131148] Detected target-pool swap tx: 0x3942dc998a1ed176603b43a00b4e7968f3e4af354a7c81d1066a448c0b4a68fb
+[competitor-b266131148] POSTing tx nonce=1091 hash=0x572182c83221691ba321cfaa25774aea89c1b95f68843e5cd92a71e1f01567d3 at 2026-05-07T03:03:13.079Z
+[block 266131149] Detected target-pool swap tx: 0x002cd77082c29a328612e63e3667c9601cf22deaca8431762a825678aa838a8b
+[block 266131148] Competitor tx submitted: 0x572182c83221691ba321cfaa25774aea89c1b95f68843e5cd92a71e1f01567d3
+[block 266131148] Detected target-pool swap tx: 0x3942dc998a1ed176603b43a00b4e7968f3e4af354a7c81d1066a448c0b4a68fb
+[competitor-b266131148] POSTing tx nonce=1092 hash=0x7c415d746409c611c30bf9299df31342e3d6f5d2c728fa2dd8cbab69e6f01780 at 2026-05-07T03:03:13.141Z
+[block 266131148] Competitor tx submitted: 0x7c415d746409c611c30bf9299df31342e3d6f5d2c728fa2dd8cbab69e6f01780
+[competitor-b266131148] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131148","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1092 state: 1021"}}
+[competitor-b266131148] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131148","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1091 state: 1021"}}
+[block 266131173] Detected target-pool swap tx: 0x14a9ba23bb1b305418f0e9a95ab8009c066d6a1fd312b5755f100769adaac71f
+[competitor-b266131173] POSTing tx nonce=1093 hash=0x04ba18ac687e73f11379a5c8b11f68c22a2d16d5e80271725d91d5f5409984bf at 2026-05-07T03:03:19.851Z
+[block 266131173] Competitor tx submitted: 0x04ba18ac687e73f11379a5c8b11f68c22a2d16d5e80271725d91d5f5409984bf
+[block 266131174] Detected target-pool swap tx: 0x3f59ebd8d70f80a573519a348255bb0c8f5d4b832c2d8c95425ce8ce2ad140ce
+[competitor-b266131174] POSTing tx nonce=1094 hash=0x3770ce9081c7bf222536bc773814b60e927f6d9db4b38566cb40499a1bfc070b at 2026-05-07T03:03:20.231Z
+[block 266131174] Competitor tx submitted: 0x3770ce9081c7bf222536bc773814b60e927f6d9db4b38566cb40499a1bfc070b
+[block 266131174] Detected target-pool swap tx: 0x3f59ebd8d70f80a573519a348255bb0c8f5d4b832c2d8c95425ce8ce2ad140ce
+[competitor-b266131174] POSTing tx nonce=1095 hash=0xa146dc9a03fc3cc0c8b2057f24cc0446381448424e351ac48b68321b39d15d7e at 2026-05-07T03:03:20.291Z
+[block 266131174] Competitor tx submitted: 0xa146dc9a03fc3cc0c8b2057f24cc0446381448424e351ac48b68321b39d15d7e
+[competitor-b266131173] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131173","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1093 state: 1021"}}
+[competitor-b266131174] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131174","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1094 state: 1021"}}
+[competitor-b266131174] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131174","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1095 state: 1021"}}
+[block 266131212] Detected target-pool swap tx: 0x303555cd366410cc0ae450fe5dc5550b1ff48daf52cbae6f2453ba6101114208
+[competitor-b266131212] POSTing tx nonce=1096 hash=0x6dae803ca3ead602e6ed350110f0258b7818e63f6cb48f8a3b928ce32b5046df at 2026-05-07T03:03:31.174Z
+[block 266131212] Competitor tx submitted: 0x6dae803ca3ead602e6ed350110f0258b7818e63f6cb48f8a3b928ce32b5046df
+[block 266131211] Detected target-pool swap tx: 0xb6a3bcdaebb87a29cfb8a785b8530e195d1e4cdf93ab1b99e7c6263f7e7f4f4c
+[competitor-b266131211] POSTing tx nonce=1097 hash=0xf74a9cef718917b924e4c49f5ff5aed177e6841cbc9246ff66ef8b900fc281e9 at 2026-05-07T03:03:31.195Z
+[block 266131211] Competitor tx submitted: 0xf74a9cef718917b924e4c49f5ff5aed177e6841cbc9246ff66ef8b900fc281e9
+[block 266131211] Detected target-pool swap tx: 0xb6a3bcdaebb87a29cfb8a785b8530e195d1e4cdf93ab1b99e7c6263f7e7f4f4c
+[competitor-b266131211] POSTing tx nonce=1098 hash=0x3ee4b2866c96c07bde317af441639bed9a6b9961a04700998dcc52511ff87e8d at 2026-05-07T03:03:31.257Z
+[block 266131211] Competitor tx submitted: 0x3ee4b2866c96c07bde317af441639bed9a6b9961a04700998dcc52511ff87e8d
+[competitor-b266131212] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131212","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1096 state: 1021"}}
+[competitor-b266131211] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131211","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1097 state: 1021"}}
+[competitor-b266131211] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131211","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1098 state: 1021"}}
+[block 266131232] Detected target-pool swap tx: 0xb98ac5ae55e3d4d41aadf97c1826046fd283eca1bb861587e31e971ce2b21681
+[competitor-b266131232] POSTing tx nonce=1099 hash=0xcdaec2de812597adbbac71e51aa96340313f201310e9683fc9952f9588fbbd27 at 2026-05-07T03:03:37.896Z
+[block 266131232] Competitor tx submitted: 0xcdaec2de812597adbbac71e51aa96340313f201310e9683fc9952f9588fbbd27
+[block 266131233] Detected target-pool swap tx: 0x6b2ec431f33e728b9b22f24a328e54e840171451ecbeec19427e9dff149af491
+[competitor-b266131233] POSTing tx nonce=1100 hash=0xf295538aac46d5bee10c10ccf79c3cd611bbc68cea1fb59a1fd0d8041075a506 at 2026-05-07T03:03:38.741Z
+[block 266131233] Competitor tx submitted: 0xf295538aac46d5bee10c10ccf79c3cd611bbc68cea1fb59a1fd0d8041075a506
+[block 266131233] Detected target-pool swap tx: 0x6b2ec431f33e728b9b22f24a328e54e840171451ecbeec19427e9dff149af491
+[competitor-b266131233] POSTing tx nonce=1101 hash=0x664b020d8f644a0352a832109a3dc2e3b02acb7b63cb67ff2c478846b719be7c at 2026-05-07T03:03:38.803Z
+[block 266131233] Competitor tx submitted: 0x664b020d8f644a0352a832109a3dc2e3b02acb7b63cb67ff2c478846b719be7c
+[competitor-b266131232] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131232","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1099 state: 1021"}}
+[competitor-b266131233] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131233","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1101 state: 1021"}}
+[competitor-b266131233] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131233","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1100 state: 1021"}}
+[block 266131264] Detected target-pool swap tx: 0xb359ac4b6ca9b5150c483738006d25662c1d21bc799a46f9445c0ba404121dd0
+[competitor-b266131264] POSTing tx nonce=1102 hash=0xdf6f430e75409f6919c738b4410bc4b55067173ab02261f4ce415ea44b8fd3a4 at 2026-05-07T03:03:46.752Z
+[block 266131264] Competitor tx submitted: 0xdf6f430e75409f6919c738b4410bc4b55067173ab02261f4ce415ea44b8fd3a4
+[block 266131265] Detected target-pool swap tx: 0x46e94952a238fb5b3c5b47c4edb7a4bb7097f989d06886883355e27ad2192084
+[competitor-b266131265] POSTing tx nonce=1103 hash=0x0011ca691e5a23f8ba62df2ff7f6c80226909e96deca19fc053a87c9a7e74a9d at 2026-05-07T03:03:47.144Z
+[block 266131265] Competitor tx submitted: 0x0011ca691e5a23f8ba62df2ff7f6c80226909e96deca19fc053a87c9a7e74a9d
+[competitor-b266131264] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131264","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1102 state: 1021"}}
+[competitor-b266131265] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131265","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1103 state: 1021"}}
+[block 266131331] Detected target-pool swap tx: 0x9c79759b95dc440c38a4c999e39412066eb6613a8eb33a99dd65de48ad94d722
+[competitor-b266131331] POSTing tx nonce=1104 hash=0x7cdeead6e1553135dffd0380316b0a2cdf21b961502177cfee205dc82ffe438e at 2026-05-07T03:04:06.078Z
+[block 266131331] Competitor tx submitted: 0x7cdeead6e1553135dffd0380316b0a2cdf21b961502177cfee205dc82ffe438e
+[block 266131333] Detected target-pool swap tx: 0x4e8ba9eaf60a5285a0638a35f3e39e27c7ec79e0827cf8343a0c17207deca22b
+[competitor-b266131333] POSTing tx nonce=1105 hash=0xb882c30cdc6c23f82815e86485eb115f8b988cd4efdf40bba80a5b6efaeb7baf at 2026-05-07T03:04:06.917Z
+[block 266131333] Competitor tx submitted: 0xb882c30cdc6c23f82815e86485eb115f8b988cd4efdf40bba80a5b6efaeb7baf
+[competitor-b266131331] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131331","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1104 state: 1021"}}
+[competitor-b266131333] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131333","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1105 state: 1021"}}
+[block 266131394] Detected target-pool swap tx: 0xdc18357ab4de95a3af1e132e4a28bc17d6f83d6e26b2611a5c7d236b39a19d82
+[competitor-b266131394] POSTing tx nonce=1106 hash=0x758ab41fb004677898d2a1eed6868abd75b3adf0b59fd8bdc157825cc69bf512 at 2026-05-07T03:04:23.744Z
+[block 266131394] Competitor tx submitted: 0x758ab41fb004677898d2a1eed6868abd75b3adf0b59fd8bdc157825cc69bf512
+[block 266131395] Detected target-pool swap tx: 0x8f70e4d8e059c09141c7ad32ad4c66b2121ebaa2b465fa31a3d739223b950aad
+[competitor-b266131395] POSTing tx nonce=1107 hash=0x01a6e082acfca1c4d42679011f6948e7a962631866957a05ebeab22bfd26ca33 at 2026-05-07T03:04:24.550Z
+[block 266131395] Competitor tx submitted: 0x01a6e082acfca1c4d42679011f6948e7a962631866957a05ebeab22bfd26ca33
+[competitor-b266131394] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131394","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1106 state: 1021"}}
+[competitor-b266131395] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131395","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1107 state: 1021"}}
+[block 266131422] Detected target-pool swap tx: 0x91eb6164d5c54c7864174b7e37fd3abb544daafd687e415c369037539d494ca9
+[competitor-b266131422] POSTing tx nonce=1108 hash=0xcacf74491f40dbf7bd10b3ddc57da34a7266d42921d3cc82fe87d42d0bb00e0e at 2026-05-07T03:04:31.279Z
+[block 266131422] Competitor tx submitted: 0xcacf74491f40dbf7bd10b3ddc57da34a7266d42921d3cc82fe87d42d0bb00e0e
+[block 266131423] Detected target-pool swap tx: 0x58df87b47f4426dc55abe790e70696487f257dd928e66e809b293a38b2175ca4
+[competitor-b266131423] POSTing tx nonce=1109 hash=0xb8165931b1f6d53c1f30c9b220e368075bc3af4732b78c474121e43acef23b25 at 2026-05-07T03:04:32.111Z
+[block 266131423] Competitor tx submitted: 0xb8165931b1f6d53c1f30c9b220e368075bc3af4732b78c474121e43acef23b25
+[competitor-b266131422] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131422","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1108 state: 1021"}}
+[competitor-b266131423] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131423","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1109 state: 1021"}}
+[block 266131456] Detected target-pool swap tx: 0x8cdacf2ad8d83e78c721537547b08eeadb086a4c18b2ffeba81b656f18f84348
+[competitor-b266131456] POSTing tx nonce=1110 hash=0xd41ab25f7d98608c500dd0056420a9e44e28e439541320d5a1f15afe05d39bfb at 2026-05-07T03:04:41.354Z
+[block 266131456] Competitor tx submitted: 0xd41ab25f7d98608c500dd0056420a9e44e28e439541320d5a1f15afe05d39bfb
+[block 266131455] Detected target-pool swap tx: 0x3546e6fa4623e893e1da9e2ccec5f207a969f063146ff1531c9451d0a9c65664
+[competitor-b266131455] POSTing tx nonce=1111 hash=0x55547276e745471b03959437bf40ac76f1ca529832092a1131e096420591a65e at 2026-05-07T03:04:41.375Z
+[block 266131455] Competitor tx submitted: 0x55547276e745471b03959437bf40ac76f1ca529832092a1131e096420591a65e
+[block 266131455] Detected target-pool swap tx: 0x3546e6fa4623e893e1da9e2ccec5f207a969f063146ff1531c9451d0a9c65664
+[competitor-b266131455] POSTing tx nonce=1112 hash=0xa5da110d0b79b5ed27608c2c9bd59cfa475178ec8fda49e6082178e5034e7964 at 2026-05-07T03:04:41.432Z
+[block 266131455] Competitor tx submitted: 0xa5da110d0b79b5ed27608c2c9bd59cfa475178ec8fda49e6082178e5034e7964
+[competitor-b266131455] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131455","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1111 state: 1021"}}
+[competitor-b266131456] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131456","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1110 state: 1021"}}
+[competitor-b266131455] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131455","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1112 state: 1021"}}
+[block 266131490] Detected target-pool swap tx: 0xd160c1e57fc584785c6ba31ea417f6d6926904a00db834198317bd21be982638
+[competitor-b266131490] POSTing tx nonce=1113 hash=0xfccf0e6c4529614050ba61f53394a2fa13dddeee42bb6ab7641e2dbae9941a43 at 2026-05-07T03:04:52.284Z
+[block 266131491] Detected target-pool swap tx: 0xda7142818a642c147b39f20aa8cbda231ac0fe948b0e80d46df972a4d7060d58
+[block 266131490] Competitor tx submitted: 0xfccf0e6c4529614050ba61f53394a2fa13dddeee42bb6ab7641e2dbae9941a43
+[block 266131490] Detected target-pool swap tx: 0xd160c1e57fc584785c6ba31ea417f6d6926904a00db834198317bd21be982638
+[competitor-b266131490] POSTing tx nonce=1114 hash=0xe22c017022d80d7578efaf2aa4dfb9b1f87d94804b6474ef2f8af2e08ea0ab64 at 2026-05-07T03:04:52.342Z
+[block 266131490] Competitor tx submitted: 0xe22c017022d80d7578efaf2aa4dfb9b1f87d94804b6474ef2f8af2e08ea0ab64
+[competitor-b266131490] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131490","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1113 state: 1021"}}
+[competitor-b266131490] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131490","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1114 state: 1021"}}
+[block 266131520] Detected target-pool swap tx: 0x7a2fe96d615a96b869b435301704ee3e5553a99b4afc5cea10cfd301970cf2f5
+[competitor-b266131520] POSTing tx nonce=1115 hash=0x5f5de9c9c73d46e56591bc38a325ff30337d7301c9e4c45c853a0771bb881e2b at 2026-05-07T03:05:00.260Z
+[block 266131521] Detected target-pool swap tx: 0x51e796d114e08f2d6536df307fb0bec717ae8f868f3e235a281c3f407ebae256
+[block 266131520] Competitor tx submitted: 0x5f5de9c9c73d46e56591bc38a325ff30337d7301c9e4c45c853a0771bb881e2b
+[block 266131520] Detected target-pool swap tx: 0x7a2fe96d615a96b869b435301704ee3e5553a99b4afc5cea10cfd301970cf2f5
+[competitor-b266131520] POSTing tx nonce=1116 hash=0x257b67aa8cee78f3d2a379a5266d8f178c79492e1fa94a0e6d21c5d3c0f33d7e at 2026-05-07T03:05:00.324Z
+[block 266131520] Competitor tx submitted: 0x257b67aa8cee78f3d2a379a5266d8f178c79492e1fa94a0e6d21c5d3c0f33d7e
+[competitor-b266131520] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131520","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1115 state: 1021"}}
+[competitor-b266131520] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131520","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1116 state: 1021"}}
+[block 266131552] Detected target-pool swap tx: 0x62e9e87ddb81c740a8f7b0e3802ab9e32336190f012a16bf5631c55feb4ce40c
+[competitor-b266131552] POSTing tx nonce=1117 hash=0x64627d59e9363d4177b1f22d6d6f41034d8c1ce0486f48d7a97bcd887d004f73 at 2026-05-07T03:05:08.259Z
+[block 266131552] Competitor tx submitted: 0x64627d59e9363d4177b1f22d6d6f41034d8c1ce0486f48d7a97bcd887d004f73
+[block 266131553] Detected target-pool swap tx: 0x70b5722278c52a7d4723d2cfe53b5fc359a03b536ea24d53f4527b426f35fa67
+[competitor-b266131553] POSTing tx nonce=1118 hash=0xaea0db1a814b6f9e540133263f1620f01ada3d906a3e670e9fa812b49c26bbb5 at 2026-05-07T03:05:08.711Z
+[block 266131553] Competitor tx submitted: 0xaea0db1a814b6f9e540133263f1620f01ada3d906a3e670e9fa812b49c26bbb5
+[block 266131553] Detected target-pool swap tx: 0x70b5722278c52a7d4723d2cfe53b5fc359a03b536ea24d53f4527b426f35fa67
+[competitor-b266131553] POSTing tx nonce=1119 hash=0x8f79b3671a1e7eca4fd67af337f5931bca7bd856a2d576225bf62140e845a233 at 2026-05-07T03:05:08.814Z
+[block 266131553] Competitor tx submitted: 0x8f79b3671a1e7eca4fd67af337f5931bca7bd856a2d576225bf62140e845a233
+[competitor-b266131552] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131552","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1117 state: 1021"}}
+[competitor-b266131553] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131553","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1119 state: 1021"}}
+[competitor-b266131553] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131553","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1118 state: 1021"}}
+[block 266131584] Detected target-pool swap tx: 0x0c2353a5cb8f8f87a781843af88309220c93678217b822e52ecb8899464517ff
+[competitor-b266131584] POSTing tx nonce=1120 hash=0xd46409a4fa625cf8f6b57d74a7b75ecc2bd14346a226323cf73a6db34752b339 at 2026-05-07T03:05:16.645Z
+[block 266131584] Competitor tx submitted: 0xd46409a4fa625cf8f6b57d74a7b75ecc2bd14346a226323cf73a6db34752b339
+[block 266131583] Detected target-pool swap tx: 0xecc1f5517400bcc5cd98698e47fa1bda08c6c06cb20c7b91d3cd5182f77512ba
+[competitor-b266131583] POSTing tx nonce=1121 hash=0x2dd5f7d7bc48ab688fa8e4eca275d866634e65d0dfcccde8c5c80f193d5fd4e4 at 2026-05-07T03:05:16.667Z
+[block 266131583] Competitor tx submitted: 0x2dd5f7d7bc48ab688fa8e4eca275d866634e65d0dfcccde8c5c80f193d5fd4e4
+[block 266131583] Detected target-pool swap tx: 0xecc1f5517400bcc5cd98698e47fa1bda08c6c06cb20c7b91d3cd5182f77512ba
+[competitor-b266131583] POSTing tx nonce=1122 hash=0x795be4be231c5f8296ca90cf36c157d8e8ea9230e73178d138ba592541bbf791 at 2026-05-07T03:05:16.724Z
+[block 266131583] Competitor tx submitted: 0x795be4be231c5f8296ca90cf36c157d8e8ea9230e73178d138ba592541bbf791
+[competitor-b266131583] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131583","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1121 state: 1021"}}
+[competitor-b266131584] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131584","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1120 state: 1021"}}
+[competitor-b266131583] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131583","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1122 state: 1021"}}
+[block 266131608] Detected target-pool swap tx: 0x13d2f3c05416b451cf798339f0ed72a361501cbdfd1d14df86be14100dcccb98
+[competitor-b266131608] POSTing tx nonce=1123 hash=0xe72d6da33d2c23e0cf8093f8c244c2fe3ca689c3647cc812c121430d7bbe14b1 at 2026-05-07T03:05:23.783Z
+[block 266131608] Competitor tx submitted: 0xe72d6da33d2c23e0cf8093f8c244c2fe3ca689c3647cc812c121430d7bbe14b1
+[block 266131609] Detected target-pool swap tx: 0x1c38284e29930570371461d27c6f2ab54f462d59db9712afedbf883f6e9d3c1f
+[competitor-b266131609] POSTing tx nonce=1124 hash=0x4dda97ad1ce1cc66d65a7dda4de821c63810d05f4572fa4119873d767285b92d at 2026-05-07T03:05:24.239Z
+[block 266131609] Competitor tx submitted: 0x4dda97ad1ce1cc66d65a7dda4de821c63810d05f4572fa4119873d767285b92d
+[competitor-b266131608] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131608","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1123 state: 1021"}}
+[competitor-b266131609] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131609","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1124 state: 1021"}}
+[block 266131636] Detected target-pool swap tx: 0x277ad58630062e1ecd67051b265aecbb1d357e035385356776940c0073aee3c1
+[competitor-b266131636] POSTing tx nonce=1125 hash=0x0e0fdfe49071295a7ca0bf964d80eebc730571841023123e7ac2e05e5d258d4c at 2026-05-07T03:05:31.353Z
+[block 266131636] Competitor tx submitted: 0x0e0fdfe49071295a7ca0bf964d80eebc730571841023123e7ac2e05e5d258d4c
+[block 266131637] Detected target-pool swap tx: 0x9ce33c5dca4ab677e6a1c2eb85a946d9dc6a5377dcd80f2c6b5ec2b621ef9d61
+[competitor-b266131637] POSTing tx nonce=1126 hash=0x5723bd10dd37c65e83302743c4ad1aeb5e191eeac55a396fb11efa56535cd6d6 at 2026-05-07T03:05:31.766Z
+[block 266131637] Competitor tx submitted: 0x5723bd10dd37c65e83302743c4ad1aeb5e191eeac55a396fb11efa56535cd6d6
+[competitor-b266131636] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131636","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1125 state: 1021"}}
+[competitor-b266131637] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131637","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1126 state: 1021"}}
+[block 266131666] Detected target-pool swap tx: 0x46515aa0f42a5714e0ec099253a499bcb6b9439c29b22669e9f5a5a3f30b1f03
+[competitor-b266131666] POSTing tx nonce=1127 hash=0xaeed267933b972becb44728a5fce809a55e43fdd85fc988d0a6a0a6f7db6df3f at 2026-05-07T03:05:38.919Z
+[block 266131666] Competitor tx submitted: 0xaeed267933b972becb44728a5fce809a55e43fdd85fc988d0a6a0a6f7db6df3f
+[block 266131667] Detected target-pool swap tx: 0x28d330a47ee596af7195009e8348de41b49cf0af7d62efa8523dd6e1831efb2f
+[competitor-b266131667] POSTing tx nonce=1128 hash=0xb72f3c27fac69ddf58eebf0438aa83fcfecd2c3cb3dc372a36656c6ccc9304a9 at 2026-05-07T03:05:39.322Z
+[block 266131667] Competitor tx submitted: 0xb72f3c27fac69ddf58eebf0438aa83fcfecd2c3cb3dc372a36656c6ccc9304a9
+[block 266131667] Detected target-pool swap tx: 0x28d330a47ee596af7195009e8348de41b49cf0af7d62efa8523dd6e1831efb2f
+[competitor-b266131667] POSTing tx nonce=1129 hash=0x7ecf4eb84be5019d8827e1fe5acd8950f6fbba30e2aec0e8cd348d4bb26b2cd0 at 2026-05-07T03:05:39.381Z
+[block 266131667] Competitor tx submitted: 0x7ecf4eb84be5019d8827e1fe5acd8950f6fbba30e2aec0e8cd348d4bb26b2cd0
+[competitor-b266131666] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131666","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1127 state: 1021"}}
+[competitor-b266131667] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131667","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1128 state: 1021"}}
+[competitor-b266131667] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131667","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1129 state: 1021"}}
+[block 266131724] Detected target-pool swap tx: 0x9299271b303e8b41529e4fc65c648ab81b8a5069bb2c8ae7c47acecf97ed82d7
+[competitor-b266131724] POSTing tx nonce=1130 hash=0x6142a7b6506521c8da9f471e51e02f653f71ef17d7393c7090c158725005d704 at 2026-05-07T03:05:58.652Z
+[block 266131724] Competitor tx submitted: 0x6142a7b6506521c8da9f471e51e02f653f71ef17d7393c7090c158725005d704
+[block 266131724] Detected target-pool swap tx: 0x9299271b303e8b41529e4fc65c648ab81b8a5069bb2c8ae7c47acecf97ed82d7
+[competitor-b266131724] POSTing tx nonce=1131 hash=0x50ab61f9a558e0f2a68ac8fe7fdbc3a3eefb906f68a38504e347e5b3464137c3 at 2026-05-07T03:05:58.712Z
+[block 266131724] Competitor tx submitted: 0x50ab61f9a558e0f2a68ac8fe7fdbc3a3eefb906f68a38504e347e5b3464137c3
+[block 266131726] Detected target-pool swap tx: 0xaeaf305a2bc730b0241fa158071d86bfe20126eb4244ea2507521598846e1d3f
+[competitor-b266131726] POSTing tx nonce=1132 hash=0xafbc195e9a9d20b85364f11ca1b0b47797670390dd1de74fe4c4e2fc55987347 at 2026-05-07T03:05:59.073Z
+[block 266131726] Competitor tx submitted: 0xafbc195e9a9d20b85364f11ca1b0b47797670390dd1de74fe4c4e2fc55987347
+[block 266131726] Detected target-pool swap tx: 0xaeaf305a2bc730b0241fa158071d86bfe20126eb4244ea2507521598846e1d3f
+[competitor-b266131726] POSTing tx nonce=1133 hash=0x85107cec165e7a95ebf24b4c5473a783f76169e3d9821ae322a041cd1d891200 at 2026-05-07T03:05:59.131Z
+[block 266131726] Competitor tx submitted: 0x85107cec165e7a95ebf24b4c5473a783f76169e3d9821ae322a041cd1d891200
+[competitor-b266131724] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131724","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1130 state: 1021"}}
+[competitor-b266131724] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131724","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1131 state: 1021"}}
+[competitor-b266131726] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131726","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1132 state: 1021"}}
+[competitor-b266131726] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131726","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1133 state: 1021"}}
+[block 266131749] Detected target-pool swap tx: 0xa5fa20eada328acca44b65769e2fcaba32b5e17d4199a0b030ba652a877ce31d
+[competitor-b266131749] POSTing tx nonce=1134 hash=0x8aeb29f06f87cd6b778a94eae72a718884df90b931b371a978c69e7be5fad3cd at 2026-05-07T03:06:06.215Z
+[block 266131749] Competitor tx submitted: 0x8aeb29f06f87cd6b778a94eae72a718884df90b931b371a978c69e7be5fad3cd
+[block 266131751] Detected target-pool swap tx: 0x6296998f98228388936d5b2a7dd06bcc5cfa3f8c900ca14ecbc821529b7be79e
+[competitor-b266131751] POSTing tx nonce=1135 hash=0x1b77a1f85d7ccd6d8e4a96f37681e16bcd8b36870eb0b65245a8fd70959cfae3 at 2026-05-07T03:06:06.631Z
+[block 266131751] Competitor tx submitted: 0x1b77a1f85d7ccd6d8e4a96f37681e16bcd8b36870eb0b65245a8fd70959cfae3
+[competitor-b266131749] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131749","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1134 state: 1021"}}
+[competitor-b266131751] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131751","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1135 state: 1021"}}
+[block 266131777] Detected target-pool swap tx: 0x900bcad815cd46798dee3c4e3a687ad55e80c655150416ce87529591d1605ec1
+[competitor-b266131777] POSTing tx nonce=1136 hash=0x5ab965ce20d7d7f9a06d5e76a13fc38c6728bb5f73257613849de326a3443bd5 at 2026-05-07T03:06:15.444Z
+[block 266131778] Detected target-pool swap tx: 0x7167bbd2534ddc55b2426abbe96aa434a7682077f76bcc17dadd159926a94ebb
+[block 266131777] Competitor tx submitted: 0x5ab965ce20d7d7f9a06d5e76a13fc38c6728bb5f73257613849de326a3443bd5
+[block 266131777] Detected target-pool swap tx: 0x900bcad815cd46798dee3c4e3a687ad55e80c655150416ce87529591d1605ec1
+[competitor-b266131777] POSTing tx nonce=1137 hash=0xe540f458ee705f667741b87d707795d79c4b955b756a886d4d65dc3efbdb76f9 at 2026-05-07T03:06:15.506Z
+[block 266131777] Competitor tx submitted: 0xe540f458ee705f667741b87d707795d79c4b955b756a886d4d65dc3efbdb76f9
+[competitor-b266131777] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131777","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1136 state: 1021"}}
+[competitor-b266131777] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131777","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1137 state: 1021"}}
+[block 266131807] Detected target-pool swap tx: 0x5c1eb1c077fb60efbab439973f8f3ed6d27627201ef8f739ca3b6b9af16a6a87
+[competitor-b266131807] POSTing tx nonce=1138 hash=0x3d634648eee6d7ef2c4d0f415cb385b9bd445f5a4610c51995e9a545f335c803 at 2026-05-07T03:06:23.032Z
+[block 266131807] Competitor tx submitted: 0x3d634648eee6d7ef2c4d0f415cb385b9bd445f5a4610c51995e9a545f335c803
+[block 266131808] Detected target-pool swap tx: 0x2fe40e85ad431df4d17755763debaa1bc4b4ef015fe71ef066b48b7acb2dc950
+[competitor-b266131808] POSTing tx nonce=1139 hash=0x0aa76b3d3b3ab3940a3e1faa8401fba5f29897dfce76f79dfe5566759c6c29d4 at 2026-05-07T03:06:23.850Z
+[block 266131808] Competitor tx submitted: 0x0aa76b3d3b3ab3940a3e1faa8401fba5f29897dfce76f79dfe5566759c6c29d4
+[competitor-b266131807] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131807","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1138 state: 1021"}}
+[competitor-b266131808] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131808","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1139 state: 1021"}}
+[block 266131834] Detected target-pool swap tx: 0x55a7d3bbb2ef83733c0a4b51a2883f618ffc549b6dc3f2b18f5e4c29afb90d1e
+[competitor-b266131834] POSTing tx nonce=1140 hash=0xa7a27177cab65d1be76fbc0bea82542b8497dc0705dd8c16e1d45a25c23e4792 at 2026-05-07T03:06:31.829Z
+[block 266131834] Competitor tx submitted: 0xa7a27177cab65d1be76fbc0bea82542b8497dc0705dd8c16e1d45a25c23e4792
+[block 266131835] Detected target-pool swap tx: 0x693bc0d4e233cd60605471898ef8f6fa1084c08a0229be39f4758e9005400df5
+[competitor-b266131835] POSTing tx nonce=1141 hash=0xe8260df417155d8edc305972947edef120d2941ce7644b3ab85095f49283b9db at 2026-05-07T03:06:32.254Z
+[block 266131835] Competitor tx submitted: 0xe8260df417155d8edc305972947edef120d2941ce7644b3ab85095f49283b9db
+[block 266131835] Detected target-pool swap tx: 0x693bc0d4e233cd60605471898ef8f6fa1084c08a0229be39f4758e9005400df5
+[competitor-b266131835] POSTing tx nonce=1142 hash=0x0e6eae98172e8c9ae9307921066d73678f65475fca422ca1b00ca7a2cc01b541 at 2026-05-07T03:06:32.316Z
+[block 266131835] Competitor tx submitted: 0x0e6eae98172e8c9ae9307921066d73678f65475fca422ca1b00ca7a2cc01b541
+[competitor-b266131834] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131834","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1140 state: 1021"}}
+[competitor-b266131835] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131835","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1141 state: 1021"}}
+[competitor-b266131835] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131835","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1142 state: 1021"}}
+[block 266131928] Detected target-pool swap tx: 0xbb176ba30bc73f48bedcbc9f37c92aee21e07b738c14a0a12bc6309c32436c99
+[competitor-b266131928] POSTing tx nonce=1143 hash=0x13d515854212f50fdea10ec2b7e4d668dd765a162d90984fa09e56f1b8115501 at 2026-05-07T03:07:20.584Z
+[block 266131929] Detected target-pool swap tx: 0xd8de3819451677341849e187a077884cf69414ed6c02e2b6ab59479f2c2f4cb6
+[block 266131928] Competitor tx submitted: 0x13d515854212f50fdea10ec2b7e4d668dd765a162d90984fa09e56f1b8115501
+[block 266131928] Detected target-pool swap tx: 0xbb176ba30bc73f48bedcbc9f37c92aee21e07b738c14a0a12bc6309c32436c99
+[competitor-b266131928] POSTing tx nonce=1144 hash=0x0204c380f551df42c228c1c7daf23d75376be20435c4874e20a2dbd6ec04d223 at 2026-05-07T03:07:20.645Z
+[block 266131928] Competitor tx submitted: 0x0204c380f551df42c228c1c7daf23d75376be20435c4874e20a2dbd6ec04d223
+[competitor-b266131928] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131928","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1143 state: 1021"}}
+[competitor-b266131928] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131928","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1144 state: 1021"}}
+[block 266131956] Detected target-pool swap tx: 0xf6132e6a4865dbec431323c8c49670cb56e633aed5ec319eb14398bc39ee388a
+[competitor-b266131956] POSTing tx nonce=1145 hash=0x2e6b6b69893b2b04ec06c560990a03e3c80c9ff39a9d8e54317cf85b580b68a8 at 2026-05-07T03:07:30.662Z
+[block 266131956] Competitor tx submitted: 0x2e6b6b69893b2b04ec06c560990a03e3c80c9ff39a9d8e54317cf85b580b68a8
+[block 266131956] Detected target-pool swap tx: 0xf6132e6a4865dbec431323c8c49670cb56e633aed5ec319eb14398bc39ee388a
+[competitor-b266131956] POSTing tx nonce=1146 hash=0x852dc71f32f983c5929659e77cfb44193406a919858c2c04634607bcc6f1cc6e at 2026-05-07T03:07:30.724Z
+[block 266131956] Competitor tx submitted: 0x852dc71f32f983c5929659e77cfb44193406a919858c2c04634607bcc6f1cc6e
+[block 266131958] Detected target-pool swap tx: 0xf7dd2731756e175b381b00ff724b49a4bab0ea9bc3c7181964e740caa2a7c269
+[competitor-b266131958] POSTing tx nonce=1147 hash=0xe6a9d8f2a09c82f93bba3abbb91c664aa1e83b3ad0414acc1917987e6e51bc79 at 2026-05-07T03:07:31.104Z
+[block 266131958] Competitor tx submitted: 0xe6a9d8f2a09c82f93bba3abbb91c664aa1e83b3ad0414acc1917987e6e51bc79
+[block 266131958] Detected target-pool swap tx: 0xf7dd2731756e175b381b00ff724b49a4bab0ea9bc3c7181964e740caa2a7c269
+[competitor-b266131958] POSTing tx nonce=1148 hash=0x23a56034502c3863b8b6e981f78d72a265006572a97c579c829554817c38fa12 at 2026-05-07T03:07:31.162Z
+[block 266131958] Competitor tx submitted: 0x23a56034502c3863b8b6e981f78d72a265006572a97c579c829554817c38fa12
+[competitor-b266131956] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131956","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1145 state: 1021"}}
+[competitor-b266131956] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131956","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1146 state: 1021"}}
+[competitor-b266131958] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131958","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1147 state: 1021"}}
+[competitor-b266131958] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131958","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1148 state: 1021"}}
+[block 266131984] Detected target-pool swap tx: 0xc9301d72ba6574446bfa796b188cb6620c999724d7b4ba2b2fd5e9a9a18e4f9d
+[competitor-b266131984] POSTing tx nonce=1149 hash=0xaf08a5af0b2f244b02c5c7644586400b015c058905805fc0b9e24fa1b7ec0a80 at 2026-05-07T03:07:38.232Z
+[block 266131984] Competitor tx submitted: 0xaf08a5af0b2f244b02c5c7644586400b015c058905805fc0b9e24fa1b7ec0a80
+[block 266131985] Detected target-pool swap tx: 0xb332596076f159073bed55751e24afe79bc9436e7a746f5ae7901ff573c10653
+[competitor-b266131985] POSTing tx nonce=1150 hash=0x59f8cdd9ac84a5d97d04eafc34347615feca249598433c23c1ec5a452298385d at 2026-05-07T03:07:38.648Z
+[block 266131985] Competitor tx submitted: 0x59f8cdd9ac84a5d97d04eafc34347615feca249598433c23c1ec5a452298385d
+[competitor-b266131984] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131984","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1149 state: 1021"}}
+[competitor-b266131985] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266131985","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1150 state: 1021"}}
+[block 266132012] Detected target-pool swap tx: 0x738677ed469229747e337220beff3772b425f6e4d776cc7cec4ce2ebcf9d24bb
+[competitor-b266132012] POSTing tx nonce=1151 hash=0x8395ef6db6a064e7eede98e8a500bb3fb6338386c7d0138192262f6c2683ff61 at 2026-05-07T03:07:45.789Z
+[block 266132012] Competitor tx submitted: 0x8395ef6db6a064e7eede98e8a500bb3fb6338386c7d0138192262f6c2683ff61
+[block 266132013] Detected target-pool swap tx: 0x98d19bf146a06a4aad1b9bba8a1d4c65a700161e42c2a72878e93515576378a2
+[competitor-b266132013] POSTing tx nonce=1152 hash=0x3f6a4cc81a022c82956a6aaa10a2c109dbcf89d28bed30c8548803ccf2d684d5 at 2026-05-07T03:07:46.200Z
+[block 266132013] Competitor tx submitted: 0x3f6a4cc81a022c82956a6aaa10a2c109dbcf89d28bed30c8548803ccf2d684d5
+[block 266132013] Detected target-pool swap tx: 0x98d19bf146a06a4aad1b9bba8a1d4c65a700161e42c2a72878e93515576378a2
+[competitor-b266132013] POSTing tx nonce=1153 hash=0xad17fab1112ac5f5abaee6b718dd188b412a5c01f7d932194ba400f613066dfc at 2026-05-07T03:07:46.257Z
+[block 266132013] Competitor tx submitted: 0xad17fab1112ac5f5abaee6b718dd188b412a5c01f7d932194ba400f613066dfc
+[competitor-b266132012] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132012","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1151 state: 1021"}}
+[competitor-b266132013] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132013","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1153 state: 1021"}}
+[competitor-b266132013] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132013","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1152 state: 1021"}}
+[block 266132042] Detected target-pool swap tx: 0xe4c12c0d3eddd5473cd1e58fc00ea3d8186e4107c62f71ebe17514dec173ce9e
+[competitor-b266132042] POSTing tx nonce=1154 hash=0x67fe8f11c27be3741ceecbc2819f97ad7b01a1669320a20031eff66b81c476ed at 2026-05-07T03:07:53.339Z
+[block 266132042] Competitor tx submitted: 0x67fe8f11c27be3741ceecbc2819f97ad7b01a1669320a20031eff66b81c476ed
+[block 266132043] Detected target-pool swap tx: 0x5119fdec9fb5d0895ee7c43960c1da50646af2aeb8066075a2a4fb71da1f156f
+[competitor-b266132043] POSTing tx nonce=1155 hash=0x5992e9877af850d87147e70a66b5e5d6bcde0150873e2039546bbe48d3ab2579 at 2026-05-07T03:07:53.781Z
+[block 266132043] Competitor tx submitted: 0x5992e9877af850d87147e70a66b5e5d6bcde0150873e2039546bbe48d3ab2579
+[block 266132043] Detected target-pool swap tx: 0x5119fdec9fb5d0895ee7c43960c1da50646af2aeb8066075a2a4fb71da1f156f
+[competitor-b266132043] POSTing tx nonce=1156 hash=0xfcb0d88d607d541b5717240cbdab885072723f034984b1a0ef39c4ae6016ceb3 at 2026-05-07T03:07:53.840Z
+[block 266132043] Competitor tx submitted: 0xfcb0d88d607d541b5717240cbdab885072723f034984b1a0ef39c4ae6016ceb3
+[competitor-b266132042] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132042","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1154 state: 1021"}}
+[competitor-b266132043] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132043","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1155 state: 1021"}}
+[competitor-b266132043] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132043","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1156 state: 1021"}}
+[block 266132076] Detected target-pool swap tx: 0xfe3d35f4c0e7d18276e7a5ca61fa94562dfddf2922c9d5942a99719908d1ebc0
+[competitor-b266132076] POSTing tx nonce=1157 hash=0x5e700679f58bbcbd4642bde4177c9087aa2924e789ddcb84415e4fc64fef251e at 2026-05-07T03:08:01.765Z
+[block 266132076] Competitor tx submitted: 0x5e700679f58bbcbd4642bde4177c9087aa2924e789ddcb84415e4fc64fef251e
+[block 266132077] Detected target-pool swap tx: 0x605659e1908e802939a587943b12710d0dbfd72b74aa685b1b6dd403201fdb17
+[competitor-b266132077] POSTing tx nonce=1158 hash=0xb5208d50b6dd114632e1068ad24b9591af7f3294d8a26fcf65aa88ded1dac2e2 at 2026-05-07T03:08:02.191Z
+[block 266132077] Competitor tx submitted: 0xb5208d50b6dd114632e1068ad24b9591af7f3294d8a26fcf65aa88ded1dac2e2
+[block 266132077] Detected target-pool swap tx: 0x605659e1908e802939a587943b12710d0dbfd72b74aa685b1b6dd403201fdb17
+[competitor-b266132077] POSTing tx nonce=1159 hash=0x0637f90aba9e7b1d3b8617b9a53729f9d285e2a6951977e82a4e20ed6dc3f3a3 at 2026-05-07T03:08:02.251Z
+[block 266132077] Competitor tx submitted: 0x0637f90aba9e7b1d3b8617b9a53729f9d285e2a6951977e82a4e20ed6dc3f3a3
+[competitor-b266132076] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132076","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1157 state: 1021"}}
+[competitor-b266132077] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132077","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1158 state: 1021"}}
+[competitor-b266132077] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132077","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1159 state: 1021"}}
+[block 266132108] Detected target-pool swap tx: 0xec7b79a099bbaa3601271093b551c3281484b6af933a179c12f76c3d953cc14c
+[competitor-b266132108] POSTing tx nonce=1160 hash=0xa7ff5e8c66429ec1c4351fd0cd5d5fd1b31503208844e89b67cd492edf79cd1c at 2026-05-07T03:08:10.564Z
+[block 266132108] Competitor tx submitted: 0xa7ff5e8c66429ec1c4351fd0cd5d5fd1b31503208844e89b67cd492edf79cd1c
+[block 266132108] Detected target-pool swap tx: 0xec7b79a099bbaa3601271093b551c3281484b6af933a179c12f76c3d953cc14c
+[competitor-b266132108] POSTing tx nonce=1161 hash=0xe352952bff1df8ec5870a3e78ea5cc97200a715cbb2563350515786c45238a98 at 2026-05-07T03:08:10.621Z
+[block 266132108] Competitor tx submitted: 0xe352952bff1df8ec5870a3e78ea5cc97200a715cbb2563350515786c45238a98
+[block 266132110] Detected target-pool swap tx: 0x9c6f9310ba259fe4a482fc4b3254bb6b9b6cdeb3b95ed1a6cd2d2be57c6165df
+[competitor-b266132110] POSTing tx nonce=1162 hash=0xfea8469bdafd7887e03b920b0186b646fbc43ad3e7a509f36107ae1d065d2681 at 2026-05-07T03:08:10.983Z
+[block 266132110] Competitor tx submitted: 0xfea8469bdafd7887e03b920b0186b646fbc43ad3e7a509f36107ae1d065d2681
+[competitor-b266132108] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132108","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1160 state: 1021"}}
+[competitor-b266132108] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132108","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1161 state: 1021"}}
+[competitor-b266132110] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132110","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1162 state: 1021"}}
+[block 266132195] Detected target-pool swap tx: 0x5b3f92d5c586ff823d88de32e8478f11971ec16cdb386f0849ee163d36c54ec4
+[competitor-b266132195] POSTing tx nonce=1163 hash=0x6a91a9e30a2fa63238bdc0b8a221be50bdf4d1c0a5d4b41ae0e731c8f16872ee at 2026-05-07T03:08:39.105Z
+[block 266132195] Competitor tx submitted: 0x6a91a9e30a2fa63238bdc0b8a221be50bdf4d1c0a5d4b41ae0e731c8f16872ee
+[block 266132196] Detected target-pool swap tx: 0x75b4adf478880e2d91a2736c7a53acc2eb1e8907fe3e2a61c1d6ad3e2e0388d1
+[competitor-b266132196] POSTing tx nonce=1164 hash=0x1a1d405ee07ee8d4f85813c3c5be071e359cc03a6f24830075e1035fd05fece4 at 2026-05-07T03:08:39.532Z
+[block 266132196] Competitor tx submitted: 0x1a1d405ee07ee8d4f85813c3c5be071e359cc03a6f24830075e1035fd05fece4
+[competitor-b266132195] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132195","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1163 state: 1021"}}
+[competitor-b266132196] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132196","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1164 state: 1021"}}
+[block 266132223] Detected target-pool swap tx: 0xc7541a43e7b07326eafbfe3e2f88d04af168d849f52bb5d39d8999d6e407b5cf
+[competitor-b266132223] POSTing tx nonce=1165 hash=0xb121e29f75a299ca2df34dc6f26ae23588d5ae95ed70eba75ce72019edfc366a at 2026-05-07T03:08:46.664Z
+[block 266132223] Competitor tx submitted: 0xb121e29f75a299ca2df34dc6f26ae23588d5ae95ed70eba75ce72019edfc366a
+[block 266132224] Detected target-pool swap tx: 0xd674a4f76a15af9c826cd96c6579e588ad8eb5e72f7b98c1a17990a4d59053bf
+[competitor-b266132224] POSTing tx nonce=1166 hash=0x7e9cacd5bc875e4e11ef3ae209de68c56cf0cc3ed5a06038a9a88fd3af604fd4 at 2026-05-07T03:08:46.691Z
+[block 266132224] Competitor tx submitted: 0x7e9cacd5bc875e4e11ef3ae209de68c56cf0cc3ed5a06038a9a88fd3af604fd4
+[competitor-b266132223] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132223","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1165 state: 1021"}}
+[competitor-b266132224] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132224","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1166 state: 1021"}}
+[block 266132308] Detected target-pool swap tx: 0x546f4f357c67424d401e601a8972ea1018961fa5e7744eda8524688d84d87562
+[competitor-b266132308] POSTing tx nonce=1167 hash=0x5015fef6da4c7ed17834c6ad0c6f70413886f6ca832c542f99b147352d465c8c at 2026-05-07T03:09:12.284Z
+[block 266132308] Competitor tx submitted: 0x5015fef6da4c7ed17834c6ad0c6f70413886f6ca832c542f99b147352d465c8c
+[block 266132310] Detected target-pool swap tx: 0x6b7d3d1190507e066fd5bc7ebfdbd791b6eece0694f90644afdd90c2db8fb16e
+[competitor-b266132310] POSTing tx nonce=1168 hash=0x9687caf0a9f3a85a3fe1ce0c5eb404bc42bf150fe6b1fdcdf0c42b68088208ce at 2026-05-07T03:09:12.702Z
+[block 266132310] Competitor tx submitted: 0x9687caf0a9f3a85a3fe1ce0c5eb404bc42bf150fe6b1fdcdf0c42b68088208ce
+[block 266132310] Detected target-pool swap tx: 0x6b7d3d1190507e066fd5bc7ebfdbd791b6eece0694f90644afdd90c2db8fb16e
+[competitor-b266132310] POSTing tx nonce=1169 hash=0xd15902975cdf06d1ac1a6f376adca7e33ee638e6080a369163589c9b1023a4c6 at 2026-05-07T03:09:12.762Z
+[block 266132310] Competitor tx submitted: 0xd15902975cdf06d1ac1a6f376adca7e33ee638e6080a369163589c9b1023a4c6
+[competitor-b266132308] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132308","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1167 state: 1021"}}
+[competitor-b266132310] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132310","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1168 state: 1021"}}
+[competitor-b266132310] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132310","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1169 state: 1021"}}
+[block 266132331] Detected target-pool swap tx: 0x11b3b15658ca6f248c4e7e31620d434eeaf33952b2b43035099903613789ab65
+[competitor-b266132331] POSTing tx nonce=1170 hash=0xe7d6170b1ee9ac7f652a3185346f8ff33b4d494e19b5e5ae3d038fd36fea210e at 2026-05-07T03:09:19.841Z
+[block 266132331] Competitor tx submitted: 0xe7d6170b1ee9ac7f652a3185346f8ff33b4d494e19b5e5ae3d038fd36fea210e
+[block 266132332] Detected target-pool swap tx: 0x7d66c6af61a4cef4442cbafb8cb220eebb4c5a2c1eddb683c84c58446a24a902
+[competitor-b266132332] POSTing tx nonce=1171 hash=0x00f0f2a920f16a9bc0e7a832b4d92e93e57bc2a64064432eb5c71fae87a2ee7c at 2026-05-07T03:09:19.863Z
+[block 266132332] Competitor tx submitted: 0x00f0f2a920f16a9bc0e7a832b4d92e93e57bc2a64064432eb5c71fae87a2ee7c
+[competitor-b266132331] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132331","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1170 state: 1021"}}
+[competitor-b266132332] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132332","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1171 state: 1021"}}
+[block 266132358] Detected target-pool swap tx: 0x674b4e2f57f247e4a6e786b9670c837e3d7590805f0037262a6f7c1c36dec82b
+[competitor-b266132358] POSTing tx nonce=1172 hash=0xbded15890cbc362aee23590b62221f32717deada49e3bb7e8ad31c5ec7e0a74f at 2026-05-07T03:09:26.979Z
+[block 266132358] Competitor tx submitted: 0xbded15890cbc362aee23590b62221f32717deada49e3bb7e8ad31c5ec7e0a74f
+[block 266132359] Detected target-pool swap tx: 0xfe792df0583e744b65a4f608a83276e43ac74ad1a08017a509d216a1395fba17
+[competitor-b266132359] POSTing tx nonce=1173 hash=0x04831cd3bbf78893b42c14ce35c0787f67f96210a9f93af01e12c65010d6df5e at 2026-05-07T03:09:27.396Z
+[block 266132359] Competitor tx submitted: 0x04831cd3bbf78893b42c14ce35c0787f67f96210a9f93af01e12c65010d6df5e
+[competitor-b266132358] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132358","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1172 state: 1021"}}
+[competitor-b266132359] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132359","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1173 state: 1021"}}
+[block 266132389] Detected target-pool swap tx: 0xe6d8aed19f83f1316019f9daed8a762ab027aaa0bce866facce577115f366491
+[competitor-b266132389] POSTing tx nonce=1174 hash=0xf1ceb683217ec2d5e23ec19c44a47095442928dca9d3e522830bd48bf02b8794 at 2026-05-07T03:09:35.364Z
+[block 266132389] Competitor tx submitted: 0xf1ceb683217ec2d5e23ec19c44a47095442928dca9d3e522830bd48bf02b8794
+[block 266132390] Detected target-pool swap tx: 0x3bfc16688a64bb6e041fb048269525384e7f570bbb13e094c0307bd16857b7ba
+[competitor-b266132390] POSTing tx nonce=1175 hash=0xe33cd2cb2c0e076d944d5b7da72dc54c1b817dd1fe62e2d4a88ebc7f76e8b79e at 2026-05-07T03:09:35.783Z
+[block 266132390] Competitor tx submitted: 0xe33cd2cb2c0e076d944d5b7da72dc54c1b817dd1fe62e2d4a88ebc7f76e8b79e
+[block 266132390] Detected target-pool swap tx: 0x3bfc16688a64bb6e041fb048269525384e7f570bbb13e094c0307bd16857b7ba
+[competitor-b266132390] POSTing tx nonce=1176 hash=0xd23bef56bb539738c445264e1f66ff69e9c693ca01f39af3c3b456df1eb6938b at 2026-05-07T03:09:35.839Z
+[block 266132390] Competitor tx submitted: 0xd23bef56bb539738c445264e1f66ff69e9c693ca01f39af3c3b456df1eb6938b
+[competitor-b266132389] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132389","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1174 state: 1021"}}
+[competitor-b266132390] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132390","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1176 state: 1021"}}
+[competitor-b266132390] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132390","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1175 state: 1021"}}
+[block 266132415] Detected target-pool swap tx: 0xcab3aab2db62ca32015c73c3eea4e9b9509219a734d00fa23d17dd3fb77bcdd7
+[competitor-b266132415] POSTing tx nonce=1177 hash=0xb0cfdcdd9f8a8b72d5c16ebdb2494f4518b14afd3bcde3120cce49119c48974d at 2026-05-07T03:09:42.925Z
+[block 266132415] Competitor tx submitted: 0xb0cfdcdd9f8a8b72d5c16ebdb2494f4518b14afd3bcde3120cce49119c48974d
+[block 266132416] Detected target-pool swap tx: 0xb0a02be80b24abe3067638619b169ccf7b4bc54c24d274aac969b2cf436f3568
+[competitor-b266132416] POSTing tx nonce=1178 hash=0x37fcd7fb7aaa66e5a05386818143002a623ec40eefcac8e2d661096275e5b1b1 at 2026-05-07T03:09:43.341Z
+[block 266132416] Competitor tx submitted: 0x37fcd7fb7aaa66e5a05386818143002a623ec40eefcac8e2d661096275e5b1b1
+[block 266132416] Detected target-pool swap tx: 0xb0a02be80b24abe3067638619b169ccf7b4bc54c24d274aac969b2cf436f3568
+[competitor-b266132416] POSTing tx nonce=1179 hash=0xdcf4856c2e5aaa211e4420dddd1afdaddd1af0abbcb25ec8c0e037db83152e55 at 2026-05-07T03:09:43.398Z
+[block 266132416] Competitor tx submitted: 0xdcf4856c2e5aaa211e4420dddd1afdaddd1af0abbcb25ec8c0e037db83152e55
+[competitor-b266132415] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132415","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1177 state: 1021"}}
+[competitor-b266132416] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132416","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1178 state: 1021"}}
+[competitor-b266132416] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132416","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1179 state: 1021"}}
+[block 266132508] Detected target-pool swap tx: 0xff5b424f73bc41dcb911244a06ba3b9416adbb28f5a215709852458c6e47cf35
+[competitor-b266132508] POSTing tx nonce=1180 hash=0xe4d9abe78bd61b12c99ddb92f74a7f0adfa2248c0f0cca1cb30bbcf044c56d86 at 2026-05-07T03:10:10.617Z
+[block 266132508] Competitor tx submitted: 0xe4d9abe78bd61b12c99ddb92f74a7f0adfa2248c0f0cca1cb30bbcf044c56d86
+[block 266132508] Detected target-pool swap tx: 0xff5b424f73bc41dcb911244a06ba3b9416adbb28f5a215709852458c6e47cf35
+[competitor-b266132508] POSTing tx nonce=1181 hash=0xad367380cabcd2ed5bf84b61fde0136f7cc1dd1b1ae3c53ffc5e3c604e2c60dc at 2026-05-07T03:10:10.677Z
+[block 266132508] Competitor tx submitted: 0xad367380cabcd2ed5bf84b61fde0136f7cc1dd1b1ae3c53ffc5e3c604e2c60dc
+[block 266132510] Detected target-pool swap tx: 0x6518c8887b7e1821053eea8efaa06db131ddca508d146469d92937b2d12bde96
+[competitor-b266132510] POSTing tx nonce=1182 hash=0x30eb87aea81a10e9b264a2542cc14216f6399adf9eb1e2fe1289e73596070dc8 at 2026-05-07T03:10:11.039Z
+[block 266132510] Competitor tx submitted: 0x30eb87aea81a10e9b264a2542cc14216f6399adf9eb1e2fe1289e73596070dc8
+[competitor-b266132508] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132508","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1180 state: 1021"}}
+[competitor-b266132508] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132508","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1181 state: 1021"}}
+[competitor-b266132510] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132510","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1182 state: 1021"}}
+[block 266132532] Detected target-pool swap tx: 0xe82327dd893f0c953fdbb49c6b5318f77c64aab4a26152db010d495a1d29e77c
+[competitor-b266132532] POSTing tx nonce=1183 hash=0x79cd5635587ae458865c7ade0648e8daba363d4647453b9b803e822f3a608bb3 at 2026-05-07T03:10:18.495Z
+[block 266132532] Competitor tx submitted: 0x79cd5635587ae458865c7ade0648e8daba363d4647453b9b803e822f3a608bb3
+[block 266132533] Detected target-pool swap tx: 0xf4d66d3831dc93ea0fd29dcd0066e5092581831f04acc4669f06ef16d698ce8a
+[competitor-b266132533] POSTing tx nonce=1184 hash=0x83e00a75dd2d793f65e0af543f9caf665bc98a81c11d920d1c7cdb6807468d9d at 2026-05-07T03:10:18.887Z
+[block 266132533] Competitor tx submitted: 0x83e00a75dd2d793f65e0af543f9caf665bc98a81c11d920d1c7cdb6807468d9d
+[competitor-b266132532] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132532","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1183 state: 1021"}}
+[competitor-b266132533] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132533","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1184 state: 1021"}}
+[block 266132562] Detected target-pool swap tx: 0xcd654c14f1be53b7c594c38c05f38060abd717c388bfa7e7d46295d664a59f1f
+[competitor-b266132562] POSTing tx nonce=1185 hash=0x15aa865746fe86adf305cd0ad90aeffb5b674afd604e096289838aac697539bf at 2026-05-07T03:10:26.422Z
+[block 266132562] Competitor tx submitted: 0x15aa865746fe86adf305cd0ad90aeffb5b674afd604e096289838aac697539bf
+[block 266132563] Detected target-pool swap tx: 0x6ccbdf198c6143611f3f25a043dbe31a7122a128b84a774c524720afcabe25ae
+[competitor-b266132563] POSTing tx nonce=1186 hash=0x2c1dccd934d0d502b69f44e8c77df8e8d22093510a191d139efc36489230c322 at 2026-05-07T03:10:26.443Z
+[block 266132563] Competitor tx submitted: 0x2c1dccd934d0d502b69f44e8c77df8e8d22093510a191d139efc36489230c322
+[competitor-b266132562] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132562","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1185 state: 1021"}}
+[competitor-b266132563] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132563","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1186 state: 1021"}}
+[block 266132589] Detected target-pool swap tx: 0x800a3901677a1d84dbb1449f813010cce4061a9ac619d5387f008f95a1ac753a
+[competitor-b266132589] POSTing tx nonce=1187 hash=0x48395e591f54f53ba51065ca10cabff8bd1bc670f1c2caff13919c5bcc61d091 at 2026-05-07T03:10:33.974Z
+[block 266132589] Competitor tx submitted: 0x48395e591f54f53ba51065ca10cabff8bd1bc670f1c2caff13919c5bcc61d091
+[block 266132591] Detected target-pool swap tx: 0xf89d23b613cf9f36d24bb0a962320031276e4edabaf282a95c26b49e01617212
+[competitor-b266132591] POSTing tx nonce=1188 hash=0x782a32865202404fd2328be7a0fbe8f7f38b1eb6f04412e6a522acf39bbeb5a9 at 2026-05-07T03:10:34.394Z
+[block 266132591] Competitor tx submitted: 0x782a32865202404fd2328be7a0fbe8f7f38b1eb6f04412e6a522acf39bbeb5a9
+[competitor-b266132589] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132589","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1187 state: 1021"}}
+[competitor-b266132591] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132591","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1188 state: 1021"}}
+[block 266132613] Detected target-pool swap tx: 0x4d09e2e96df9542e27802b1e0487a4dd8e7d9878fedb7712e6e99b88d9217f47
+[competitor-b266132613] POSTing tx nonce=1189 hash=0x61241acc7f93caa387c714e1927c5e63a25d7958b03a96feaec26d8005f2a438 at 2026-05-07T03:10:41.949Z
+[block 266132613] Competitor tx submitted: 0x61241acc7f93caa387c714e1927c5e63a25d7958b03a96feaec26d8005f2a438
+[block 266132614] Detected target-pool swap tx: 0xa5839179d171a5d94ab0c8b3e6ab65e5911fc6573a249bdd88f8bc5dc2c3da36
+[competitor-b266132614] POSTing tx nonce=1190 hash=0xb6edfae95bd6c723e8d368d31d3c014b3de3ab87fdd14c5613ecbf5744830232 at 2026-05-07T03:10:42.363Z
+[block 266132614] Competitor tx submitted: 0xb6edfae95bd6c723e8d368d31d3c014b3de3ab87fdd14c5613ecbf5744830232
+[block 266132614] Detected target-pool swap tx: 0xa5839179d171a5d94ab0c8b3e6ab65e5911fc6573a249bdd88f8bc5dc2c3da36
+[competitor-b266132614] POSTing tx nonce=1191 hash=0x3c7fbceb11f1a4e9af989fa9fc927b952cd31c760573fe44da8211166d1b5822 at 2026-05-07T03:10:42.423Z
+[block 266132614] Competitor tx submitted: 0x3c7fbceb11f1a4e9af989fa9fc927b952cd31c760573fe44da8211166d1b5822
+[competitor-b266132613] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132613","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1189 state: 1021"}}
+[competitor-b266132614] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132614","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1191 state: 1021"}}
+[competitor-b266132614] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132614","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1190 state: 1021"}}
+[block 266132648] Detected target-pool swap tx: 0xd564dbbd70cd4349a91ad3ef037e45b7272725c0aa320b98e42bd8a89345a4f0
+[competitor-b266132648] POSTing tx nonce=1192 hash=0x856bb6ff1cd22bd672a6d9149aeef73013f55924634f031ed17da5baf37c4ef3 at 2026-05-07T03:10:52.016Z
+[block 266132648] Competitor tx submitted: 0x856bb6ff1cd22bd672a6d9149aeef73013f55924634f031ed17da5baf37c4ef3
+[block 266132647] Detected target-pool swap tx: 0xe595dbbdfb8e452b306d33ff5b3b077f3a9fa015c485c5c1e9bc9004fb940c5d
+[competitor-b266132647] POSTing tx nonce=1193 hash=0x807e01652754806e7f6fabe71f5c2f6b0507a4db0885c618e6ebc717f912f094 at 2026-05-07T03:10:52.048Z
+[block 266132647] Competitor tx submitted: 0x807e01652754806e7f6fabe71f5c2f6b0507a4db0885c618e6ebc717f912f094
+[block 266132647] Detected target-pool swap tx: 0xe595dbbdfb8e452b306d33ff5b3b077f3a9fa015c485c5c1e9bc9004fb940c5d
+[competitor-b266132647] POSTing tx nonce=1194 hash=0x754aa1e782ea926749e9693a12b41edd2c1fd114b883b96bca47357bc23d4bf0 at 2026-05-07T03:10:52.105Z
+[block 266132647] Competitor tx submitted: 0x754aa1e782ea926749e9693a12b41edd2c1fd114b883b96bca47357bc23d4bf0
+[competitor-b266132648] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132648","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1192 state: 1021"}}
+[competitor-b266132647] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132647","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1193 state: 1021"}}
+[competitor-b266132647] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132647","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1194 state: 1021"}}
+[block 266132675] Detected target-pool swap tx: 0x379d0de5ce7d280d221829c24f9816fd70a38bafaf34b815c305fb4f05ce2cd7
+[competitor-b266132675] POSTing tx nonce=1195 hash=0x00e4bdbd4a51de176d227766037dbe2b878ccdef283c24679774a543eb18de0c at 2026-05-07T03:10:59.163Z
+[block 266132675] Competitor tx submitted: 0x00e4bdbd4a51de176d227766037dbe2b878ccdef283c24679774a543eb18de0c
+[block 266132676] Detected target-pool swap tx: 0x6c7b4d19f7fa2e18495f63f093770415b7774a70e63475ac4b5fdb243e62b414
+[competitor-b266132676] POSTing tx nonce=1196 hash=0xfb866321a1a032f58a74c652ef3988283197ebe183a6b011a015a1bee1c05a54 at 2026-05-07T03:10:59.578Z
+[block 266132676] Competitor tx submitted: 0xfb866321a1a032f58a74c652ef3988283197ebe183a6b011a015a1bee1c05a54
+[competitor-b266132675] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132675","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1195 state: 1021"}}
+[competitor-b266132676] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132676","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1196 state: 1021"}}
+[block 266132701] Detected target-pool swap tx: 0xb26f60edb6e47a8ee3b4f54961bc8fc2e378c21e27b49d8ca53691bc5a2020b8
+[competitor-b266132701] POSTing tx nonce=1197 hash=0x0d5c5e5ccdbe9f6d9fcc2feaf682395f63f0fd898d19d48426e7eacdd7cbc467 at 2026-05-07T03:11:06.735Z
+[block 266132701] Competitor tx submitted: 0x0d5c5e5ccdbe9f6d9fcc2feaf682395f63f0fd898d19d48426e7eacdd7cbc467
+[block 266132702] Detected target-pool swap tx: 0x039670ed31e78d82fc756f5cd57bb09643e0aa43d5ab1e3737b9e870822b0d94
+[competitor-b266132702] POSTing tx nonce=1198 hash=0x9293a7f31fe45097a6904c0c1caf25791a6ead9b8d92933d2b1c94f469c820b0 at 2026-05-07T03:11:07.148Z
+[block 266132702] Competitor tx submitted: 0x9293a7f31fe45097a6904c0c1caf25791a6ead9b8d92933d2b1c94f469c820b0
+[competitor-b266132701] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132701","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1197 state: 1021"}}
+[competitor-b266132702] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132702","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1198 state: 1021"}}
+[block 266132797] Detected target-pool swap tx: 0xa7dff40bba202076a9c6578d267845f2dc08dc47e79b6c3a65d014c11c7f8db4
+[competitor-b266132797] POSTing tx nonce=1199 hash=0xc49f21475be97003024d48301c3b8a67cf03ff1d36a437ffd5d79b22af765b44 at 2026-05-07T03:11:33.631Z
+[block 266132797] Competitor tx submitted: 0xc49f21475be97003024d48301c3b8a67cf03ff1d36a437ffd5d79b22af765b44
+[block 266132798] Detected target-pool swap tx: 0x0591db9c5e4f2f29f048d158803ff4080f38f0d07764d5246ce481acf06655f8
+[competitor-b266132798] POSTing tx nonce=1200 hash=0xa3c2fe0144e4ef889c2ef7daff3b3a57d251cf0a8b4fdc2ea5390997dae7c795 at 2026-05-07T03:11:34.471Z
+[block 266132798] Competitor tx submitted: 0xa3c2fe0144e4ef889c2ef7daff3b3a57d251cf0a8b4fdc2ea5390997dae7c795
+[competitor-b266132797] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132797","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1199 state: 1021"}}
+[competitor-b266132798] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132798","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1200 state: 1021"}}
+[block 266132832] Detected target-pool swap tx: 0x666f93b46e622f030d97e51251922d9bfcb817dadb3e37ac43a0ff09a9f771d9
+[competitor-b266132832] POSTing tx nonce=1201 hash=0x2bde681f72cd78f7ae869e9ceb8194706b727e9372927881bc182222bc76a1ab at 2026-05-07T03:11:45.389Z
+[block 266132833] Detected target-pool swap tx: 0x60b39253edf6f087ea0ffc8fa890badc4a39c8f8ad82041cb54b0ee4984561d9
+[block 266132832] Competitor tx submitted: 0x2bde681f72cd78f7ae869e9ceb8194706b727e9372927881bc182222bc76a1ab
+[block 266132832] Detected target-pool swap tx: 0x666f93b46e622f030d97e51251922d9bfcb817dadb3e37ac43a0ff09a9f771d9
+[competitor-b266132832] POSTing tx nonce=1202 hash=0xa7565a6ce05b4112ef4a6358b3b666a5644a076e80ba40e03c9cc33330fcc86f at 2026-05-07T03:11:45.450Z
+[block 266132832] Competitor tx submitted: 0xa7565a6ce05b4112ef4a6358b3b666a5644a076e80ba40e03c9cc33330fcc86f
+[competitor-b266132832] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132832","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1201 state: 1021"}}
+[competitor-b266132832] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132832","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1202 state: 1021"}}
+[block 266132859] Detected target-pool swap tx: 0x21c9c8c4cdffff82a921ef167845b3a394362c3e06d2801cee4cc421adda64a6
+[competitor-b266132859] POSTing tx nonce=1203 hash=0xcc2a36c00e5b92d75bbee3eb1beaedf57358a6d6aa3140842cd4d0eb8752f499 at 2026-05-07T03:11:53.370Z
+[block 266132859] Competitor tx submitted: 0xcc2a36c00e5b92d75bbee3eb1beaedf57358a6d6aa3140842cd4d0eb8752f499
+[block 266132859] Detected target-pool swap tx: 0x21c9c8c4cdffff82a921ef167845b3a394362c3e06d2801cee4cc421adda64a6
+[competitor-b266132859] POSTing tx nonce=1204 hash=0xaf22f120967dd603d1ea49a040355ad0ed8a3a59ef80606b4ab26204a46b849e at 2026-05-07T03:11:53.429Z
+[block 266132859] Competitor tx submitted: 0xaf22f120967dd603d1ea49a040355ad0ed8a3a59ef80606b4ab26204a46b849e
+[block 266132861] Detected target-pool swap tx: 0xe18879eda8e78788b5804f80dc84ce4b2a597f987ecf366fe895f217782e31a9
+[competitor-b266132861] POSTing tx nonce=1205 hash=0x6b450dd40f9134d431c930001d743ebfe8d072fc9587f35bb6f247236ddd1f51 at 2026-05-07T03:11:53.786Z
+[block 266132861] Competitor tx submitted: 0x6b450dd40f9134d431c930001d743ebfe8d072fc9587f35bb6f247236ddd1f51
+[competitor-b266132859] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132859","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1203 state: 1021"}}
+[competitor-b266132859] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132859","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1204 state: 1021"}}
+[competitor-b266132861] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132861","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1205 state: 1021"}}
+[block 266132927] Detected target-pool swap tx: 0xdf45109e947c96f718dc598fc60f630e75e9b8aba0a04b31e7a1ca84275e2a41
+[competitor-b266132927] POSTing tx nonce=1206 hash=0x5c4d8c961225124c10b8942852bdc52922be5e61fa287bbdcd5ee8d04cd5d6e1 at 2026-05-07T03:12:13.005Z
+[block 266132927] Competitor tx submitted: 0x5c4d8c961225124c10b8942852bdc52922be5e61fa287bbdcd5ee8d04cd5d6e1
+[block 266132928] Detected target-pool swap tx: 0x79ba1cfddfffd5470321687892fec1edec2793d7d7f37d99c7f5063ca13fc23c
+[competitor-b266132928] POSTing tx nonce=1207 hash=0x1b4991c6842f524b430edd35c09ea07e1410b8dfca1b99df756be135c28e501a at 2026-05-07T03:12:13.403Z
+[block 266132928] Competitor tx submitted: 0x1b4991c6842f524b430edd35c09ea07e1410b8dfca1b99df756be135c28e501a
+[competitor-b266132927] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132927","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1206 state: 1021"}}
+[competitor-b266132928] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132928","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1207 state: 1021"}}
+[block 266132964] Detected target-pool swap tx: 0xa5250e9b0837c3638f0bacac77f99c72131dafeea4ac7f06774537cbfdb3b586
+[competitor-b266132964] POSTing tx nonce=1208 hash=0x285de561b3d0a79e5001c06cb968f49cdfffee8ef4c8fa6891a5a733f04e336c at 2026-05-07T03:12:23.487Z
+[block 266132964] Competitor tx submitted: 0x285de561b3d0a79e5001c06cb968f49cdfffee8ef4c8fa6891a5a733f04e336c
+[block 266132965] Detected target-pool swap tx: 0xe486260ac886a38e445455631b6719ee4c641b817127cc5a155374789cb77209
+[competitor-b266132965] POSTing tx nonce=1209 hash=0x2ec4c7d3a1ca4365818ff72e36faae23c2f12ac070ed20878f46e01414bf6ba4 at 2026-05-07T03:12:24.326Z
+[block 266132965] Competitor tx submitted: 0x2ec4c7d3a1ca4365818ff72e36faae23c2f12ac070ed20878f46e01414bf6ba4
+[block 266132965] Detected target-pool swap tx: 0xe486260ac886a38e445455631b6719ee4c641b817127cc5a155374789cb77209
+[competitor-b266132965] POSTing tx nonce=1210 hash=0x7783dc54f8c585f3bbfdbd899f3a176df70922a71fb50a8d98974ad38a68d179 at 2026-05-07T03:12:24.384Z
+[block 266132965] Competitor tx submitted: 0x7783dc54f8c585f3bbfdbd899f3a176df70922a71fb50a8d98974ad38a68d179
+[competitor-b266132964] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132964","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1208 state: 1021"}}
+[competitor-b266132965] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132965","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1210 state: 1021"}}
+[competitor-b266132965] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266132965","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1209 state: 1021"}}
+[block 266133024] Detected target-pool swap tx: 0xad71f46880d255bd7df2ba969d274411c9a1735d6b0b92c08bc0abc903bff293
+[competitor-b266133024] POSTing tx nonce=1211 hash=0xe920b82c78098ec021a2d3433808e72025994dccae04ccd4e6a0504d6909fed9 at 2026-05-07T03:12:41.125Z
+[block 266133024] Competitor tx submitted: 0xe920b82c78098ec021a2d3433808e72025994dccae04ccd4e6a0504d6909fed9
+[block 266133025] Detected target-pool swap tx: 0x4ee753c792188ffb3ccfa225398b047ff22ca9bab5dbd3a411ad15b358a7a430
+[competitor-b266133025] POSTing tx nonce=1212 hash=0x5910e8fe1acff6f1c3066c7e95845121c45692d399e515de7198a21b5760d72e at 2026-05-07T03:12:41.955Z
+[block 266133025] Competitor tx submitted: 0x5910e8fe1acff6f1c3066c7e95845121c45692d399e515de7198a21b5760d72e
+[competitor-b266133024] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133024","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1211 state: 1021"}}
+[competitor-b266133025] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133025","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1212 state: 1021"}}
+[block 266133053] Detected target-pool swap tx: 0x377b3a207368329193a64398f6fa1be867828140d34c48400b397b0c659efd58
+[competitor-b266133053] POSTing tx nonce=1213 hash=0x7aadefbd7dbd25addcd718728cd5359de4488c944a6eb4dfb93c82d34a24876e at 2026-05-07T03:12:50.351Z
+[block 266133054] Detected target-pool swap tx: 0x4a1af11547613c093f5322c2c5777ddbffe00abd52397d53305a48a5aed02aad
+[block 266133053] Competitor tx submitted: 0x7aadefbd7dbd25addcd718728cd5359de4488c944a6eb4dfb93c82d34a24876e
+[block 266133053] Detected target-pool swap tx: 0x377b3a207368329193a64398f6fa1be867828140d34c48400b397b0c659efd58
+[competitor-b266133053] POSTing tx nonce=1214 hash=0x05eac80219a63c6085a0a23402d6ecd5a38cfb451d06968a09d0495af211821c at 2026-05-07T03:12:50.409Z
+[block 266133053] Competitor tx submitted: 0x05eac80219a63c6085a0a23402d6ecd5a38cfb451d06968a09d0495af211821c
+[competitor-b266133053] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133053","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1214 state: 1021"}}
+[competitor-b266133053] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133053","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1213 state: 1021"}}
+[block 266133083] Detected target-pool swap tx: 0xf6c7efb1b589dd440ed6a7665be4bfdabef9e87a46fd991b44b3460a2e2200ef
+[competitor-b266133083] POSTing tx nonce=1215 hash=0x6e52b7ffcf84123712280a128e8ccdbcd4034faa93d0cbe2aed7f7e1970051cb at 2026-05-07T03:12:58.335Z
+[block 266133083] Competitor tx submitted: 0x6e52b7ffcf84123712280a128e8ccdbcd4034faa93d0cbe2aed7f7e1970051cb
+[block 266133083] Detected target-pool swap tx: 0xf6c7efb1b589dd440ed6a7665be4bfdabef9e87a46fd991b44b3460a2e2200ef
+[competitor-b266133083] POSTing tx nonce=1216 hash=0xe762ee79f7c6e16138faba19065a0fd5ccc6e4783aaa5d655167bfd7bc7b6d6d at 2026-05-07T03:12:58.394Z
+[block 266133083] Competitor tx submitted: 0xe762ee79f7c6e16138faba19065a0fd5ccc6e4783aaa5d655167bfd7bc7b6d6d
+[block 266133085] Detected target-pool swap tx: 0xea86567c030817055f7cb226e43b7d0ae06aa4cc0c668bbb2e89d4efa120cec5
+[competitor-b266133085] POSTing tx nonce=1217 hash=0x1d489d1d64e10667239f164c9c528fb76ce9c56676c1a242fe22344c406de2e6 at 2026-05-07T03:12:58.743Z
+[block 266133085] Competitor tx submitted: 0x1d489d1d64e10667239f164c9c528fb76ce9c56676c1a242fe22344c406de2e6
+[competitor-b266133083] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133083","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1215 state: 1021"}}
+[competitor-b266133083] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133083","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1216 state: 1021"}}
+[competitor-b266133085] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133085","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1217 state: 1021"}}
+[block 266133144] Detected target-pool swap tx: 0x7d54df68c6f256ced5e4d8a37830fc925acba6392a53e55068d8cf9d32e62ac0
+[competitor-b266133144] POSTing tx nonce=1218 hash=0x5df63ec1fb5c00597cce1c068a303a2970b20ce44457392b09df0d7d7b3186d3 at 2026-05-07T03:13:17.235Z
+[block 266133144] Competitor tx submitted: 0x5df63ec1fb5c00597cce1c068a303a2970b20ce44457392b09df0d7d7b3186d3
+[block 266133145] Detected target-pool swap tx: 0xab816397d555e7e85df1eeeec4a50d0ff8d128415f33f3d76af1d66a0e7b1fa1
+[competitor-b266133145] POSTing tx nonce=1219 hash=0xf27bf0e5c35a7fd0a457639f4d825bad5892a315043d83ed7645370fa8ae510f at 2026-05-07T03:13:17.651Z
+[block 266133145] Competitor tx submitted: 0xf27bf0e5c35a7fd0a457639f4d825bad5892a315043d83ed7645370fa8ae510f
+[block 266133145] Detected target-pool swap tx: 0xab816397d555e7e85df1eeeec4a50d0ff8d128415f33f3d76af1d66a0e7b1fa1
+[competitor-b266133145] POSTing tx nonce=1220 hash=0xd0d1cec5a973c01b848aaef973e967fbd9cf3d7d0370f0eb3e25e4339882a485 at 2026-05-07T03:13:17.715Z
+[block 266133145] Competitor tx submitted: 0xd0d1cec5a973c01b848aaef973e967fbd9cf3d7d0370f0eb3e25e4339882a485
+[competitor-b266133144] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133144","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1218 state: 1021"}}
+[competitor-b266133145] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133145","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1220 state: 1021"}}
+[competitor-b266133145] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133145","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1219 state: 1021"}}
+[block 266133170] Detected target-pool swap tx: 0x1c97491b63c09d81e2020d14be1117d27bc20ddfa1312d0c15317a1c7a4340c8
+[competitor-b266133170] POSTing tx nonce=1221 hash=0x0face273000479cdbebd07747709cb8b7f43229ce579f05ea68a31961f7e6c73 at 2026-05-07T03:13:25.619Z
+[block 266133170] Competitor tx submitted: 0x0face273000479cdbebd07747709cb8b7f43229ce579f05ea68a31961f7e6c73
+[block 266133170] Detected target-pool swap tx: 0x1c97491b63c09d81e2020d14be1117d27bc20ddfa1312d0c15317a1c7a4340c8
+[competitor-b266133170] POSTing tx nonce=1222 hash=0x4e56c1ac8eef6508d739933e3053632ef5b32d9b9552496beabf7845017fe503 at 2026-05-07T03:13:25.679Z
+[block 266133170] Competitor tx submitted: 0x4e56c1ac8eef6508d739933e3053632ef5b32d9b9552496beabf7845017fe503
+[block 266133172] Detected target-pool swap tx: 0x3599ee4a7ab885fa577290ae6943fed7f0dceb3c337ab7e28eb58d7db036365f
+[competitor-b266133172] POSTing tx nonce=1223 hash=0xe33a3e44759e4da5a5eeb3d501e1c0e8fa59dbb474561dddec67b42a4040fa26 at 2026-05-07T03:13:26.058Z
+[block 266133172] Competitor tx submitted: 0xe33a3e44759e4da5a5eeb3d501e1c0e8fa59dbb474561dddec67b42a4040fa26
+[competitor-b266133170] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133170","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1221 state: 1021"}}
+[competitor-b266133170] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133170","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1222 state: 1021"}}
+[competitor-b266133172] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133172","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1223 state: 1021"}}
+[block 266133204] Detected target-pool swap tx: 0x75a2eabaf402a37453aac92f7eb16cbb8041cc35734f51d1f887e2abd10efa49
+[competitor-b266133204] POSTing tx nonce=1224 hash=0x8cace4c6e6cb18d135c0802ff34ce0065759efc6fe207ba6534d141268a5d96d at 2026-05-07T03:13:35.272Z
+[block 266133204] Competitor tx submitted: 0x8cace4c6e6cb18d135c0802ff34ce0065759efc6fe207ba6534d141268a5d96d
+[block 266133205] Detected target-pool swap tx: 0x7b43a0b31d33efca7904ef14c5981466d7cea06a37ae26a4ab94b91f51e44a37
+[competitor-b266133205] POSTing tx nonce=1225 hash=0x7245733d14fcff5151b89e1530442d6ed198ba6088eeecb9862a038bb1945dd0 at 2026-05-07T03:13:35.709Z
+[block 266133205] Competitor tx submitted: 0x7245733d14fcff5151b89e1530442d6ed198ba6088eeecb9862a038bb1945dd0
+[block 266133205] Detected target-pool swap tx: 0x7b43a0b31d33efca7904ef14c5981466d7cea06a37ae26a4ab94b91f51e44a37
+[competitor-b266133205] POSTing tx nonce=1226 hash=0x88b9af9eeeb7bc19b2c693266c74b9d9dad1d2ea48ea5d7396e0005d891d1921 at 2026-05-07T03:13:35.767Z
+[block 266133205] Competitor tx submitted: 0x88b9af9eeeb7bc19b2c693266c74b9d9dad1d2ea48ea5d7396e0005d891d1921
+[competitor-b266133204] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133204","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1224 state: 1021"}}
+[competitor-b266133205] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133205","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1225 state: 1021"}}
+[competitor-b266133205] RPC response status=200 body={"jsonrpc":"2.0","id":"competitor-b266133205","error":{"code":-32000,"message":"nonce too high: address 0xA2dFcb93bFBb9555175f36e1F321C2833cFb89a8, tx: 1226 state: 1021"}}

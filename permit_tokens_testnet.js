@@ -15,14 +15,20 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 //test net
 const itta_addr = process.env.SEPOLIA_ITTA_ADDRESS;
 const kita_addr = process.env.SEPOLIA_KITA_ADDRESS;
+const yatta_addr = process.env.SEPOLIA_YATTA_ADDRESS;
 const itta_kita_pool_addr = process.env.SEPOLIA_ITTA_KITA_POOL_ADDR;
+const kita_yatta_pool_addr = process.env.SEPOLIA_KITA_YATTA_POOL_ADDR;
+const itta_yatta_pool_addr = process.env.SEPOLIA_ITTA_YATTA_POOL_ADDR;
+const arbitrage_addr = process.env.SEPOLIA_ARBITRAGE_ADDRESS;
 
 const private_key1 = process.env.PRIVATE_KEY1;
 const private_key2 = process.env.PRIVATE_KEY2;
 const private_key3 = process.env.PRIVATE_KEY3;
+const private_key4 = process.env.PRIVATE_KEY_COMPETITOR;
 const account1 = privateKeyToAccount(private_key1);
 const account2 = privateKeyToAccount(private_key2);
 const account3 = privateKeyToAccount(private_key3);
+const account4 = privateKeyToAccount(private_key4);
 
 //test net RPC URLs
 const rpcUrl = "https://sepolia-rollup-sequencer.arbitrum.io/rpc";    // Sequencer
@@ -47,6 +53,12 @@ const walletClient2 = createWalletClient({
 
 const walletClient3 = createWalletClient({
   account3,
+  chain: arbitrumSepolia,
+  transport: http(rpcNodeUrl),
+})
+
+const walletClient4 = createWalletClient({
+  account4,
   chain: arbitrumSepolia,
   transport: http(rpcNodeUrl),
 })
@@ -85,7 +97,7 @@ const erc20PermitAbi = [
   }
 ];
 
-async function _givePermit(account, walletClient, token_addr, deadline) {
+async function _givePermit(account, walletClient, token_addr, pool_addr, deadline) {
   const amount = 2n ** 256n - 1n; // infinite (max uint256)
 
   const nonce = await publicClient.readContract({
@@ -116,7 +128,7 @@ async function _givePermit(account, walletClient, token_addr, deadline) {
     },
     message: {
       owner: account.address,
-      spender: itta_kita_pool_addr,
+      spender: pool_addr,
       value: amount,
       nonce,
       deadline,
@@ -133,7 +145,7 @@ async function _givePermit(account, walletClient, token_addr, deadline) {
     functionName: "permit",
     args: [
       account.address,
-      itta_kita_pool_addr,
+      pool_addr,
       amount,
       deadline,
       v, r, s
@@ -146,25 +158,37 @@ async function _givePermit(account, walletClient, token_addr, deadline) {
 
 // ------ exports ------- //
 
-export async function giveTokenPermitFor10Hrs(account, walletClient, token_addr) {
+export async function giveTokenPermitFor10Hrs(account, walletClient, token_addr, pool_addr) {
   const deadline = Math.floor(Date.now() / 1000) + 36000; // 10 hour
-  await _givePermit(account, walletClient, token_addr, deadline);
+  await _givePermit(account, walletClient, token_addr, pool_addr, deadline);
 }
 
-export async function giveTokenPermitNoExpiration(account, walletClient, token_addr) {
+export async function giveTokenPermitNoExpiration(account, walletClient, token_addr, pool_addr) {
   const deadline = 2n ** 256n - 1n; // max number; no expiration
-  await _givePermit(account, walletClient, token_addr, deadline);
+  await _givePermit(account, walletClient, token_addr, pool_addr, deadline);
 }
 
 
 // --- "main" block ---
+const pool_addrs = [itta_yatta_pool_addr, kita_yatta_pool_addr, itta_kita_pool_addr, arbitrage_addr];
+
 if (import.meta.url === `file://${process.argv[1]}`) {
   // Only runs if this file is executed directly
-  await giveTokenPermitNoExpiration(account1, walletClient1, kita_addr);
-  await giveTokenPermitNoExpiration(account2, walletClient2, kita_addr);
-  await giveTokenPermitNoExpiration(account3, walletClient3, kita_addr);
-  await sleep(2000); // wait for 2 seconds to ensure the first three transactions are processed
-  await giveTokenPermitNoExpiration(account1, walletClient1, itta_addr);
-  await giveTokenPermitNoExpiration(account2, walletClient2, itta_addr);
-  await giveTokenPermitNoExpiration(account3, walletClient3, itta_addr);
+  for (const pool_addr of pool_addrs) {
+    await giveTokenPermitNoExpiration(account1, walletClient1, kita_addr, pool_addr);
+    await giveTokenPermitNoExpiration(account2, walletClient2, kita_addr, pool_addr);
+    await giveTokenPermitNoExpiration(account3, walletClient3, kita_addr, pool_addr);
+    await giveTokenPermitNoExpiration(account4, walletClient4, kita_addr, pool_addr);
+    await sleep(2000); // wait for 2 seconds to ensure the first three transactions are processed
+    await giveTokenPermitNoExpiration(account1, walletClient1, itta_addr, pool_addr);
+    await giveTokenPermitNoExpiration(account2, walletClient2, itta_addr, pool_addr);
+    await giveTokenPermitNoExpiration(account3, walletClient3, itta_addr, pool_addr);
+    await giveTokenPermitNoExpiration(account4, walletClient4, itta_addr, pool_addr);
+    await sleep(2000); // wait for 2 seconds to ensure the first three transactions are processed
+    await giveTokenPermitNoExpiration(account1, walletClient1, yatta_addr, pool_addr);
+    await giveTokenPermitNoExpiration(account2, walletClient2, yatta_addr, pool_addr);
+    await giveTokenPermitNoExpiration(account3, walletClient3, yatta_addr, pool_addr);
+    await giveTokenPermitNoExpiration(account4, walletClient4, yatta_addr, pool_addr);
+    await sleep(2000); // wait for 2 seconds to ensure the three token batches are processed
+  }
 }
